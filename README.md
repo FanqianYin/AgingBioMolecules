@@ -13,18 +13,13 @@ Under development...
 ## Under development
 
 
-
 ## Install package
 You can install the source package throuhg:
 ```{r}
 install.packages("devtools")
-devtools::install_github("FanqianYin/omicstoolkits")
+devtools::install_github("FanqianYin/AgingBioMolecules")
 ```
-Or the latest development version:
-```{r}
-install.packages("devtools")
-devtools::install_github("FanqianYin/omicstoolkits-dev")
-```
+
 ## Contact
 
 If you encounter any problem, don't hesitate to cantact me: fanqianyin@gmail.com or yinfanqian@mail.kiz.ac.cn.
