@@ -1,0 +1,17 @@
+Package: AgingBioMolecules
+Type: Package
+Title: Integrated database for ageing-associated bio-molecules changes
+Version: 0.1.0
+Author: Who wrote it
+Authors@R: 
+    person(given = "Fanqian",
+           family = "Yin",
+           role = c("aut", "cre"),
+           email = "fanqianyin@outlook.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
