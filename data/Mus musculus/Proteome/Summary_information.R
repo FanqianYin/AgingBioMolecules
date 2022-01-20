@@ -123,12 +123,27 @@ for (t in names(Mice_aging_proteome)) {
   }
 }
 Gene.Symbols <- unique(Gene.Symbols);Gene.Symbols <- Gene.Symbols[!is.na(Gene.Symbols)]
+#gene with expr data
+Gene.Symbols.expr <- c()
+for (t in names(Mice_aging_proteome)) {
+  for (d in names(Mice_aging_proteome[[t]])) {
+    id=paste0(t,".",d)
+    if(id %in% data.summary.df$id[data.summary.df$data.type=="expr.mat"]){
+      Gene.Symbol <- Mice_aging_proteome[[t]][[d]][["fdata"]][["Gene.Symbol"]]
+      Gene.Symbols.expr <- c(Gene.Symbols.expr,Gene.Symbol)
+    }
+  }
+}
+Gene.Symbols.expr <- unique(Gene.Symbols.expr);Gene.Symbols.expr <- Gene.Symbols.expr[!is.na(Gene.Symbols.expr)]
+
 Gene.Symbol.df <- data.frame("Gene.Symbol"=Gene.Symbols)
 DEA.information <- list()
 DEA.information[["Gene.Symbol"]] <- Gene.Symbols
+DEA.information[["Gene.Symbol.expr"]] <- Gene.Symbols.expr
+
 DEA.information[["Significance"]] <- Gene.Symbol.df;DEA.information[["p.value"]] <- Gene.Symbol.df;DEA.information[["log2FC"]] <- Gene.Symbol.df
 rownames(DEA.information[["Significance"]]) <- Gene.Symbols;rownames(DEA.information[["p.value"]]) <- Gene.Symbols;rownames(DEA.information[["log2FC"]]) <- Gene.Symbols
-for (t in names(Mice_aging_proteome)) { #High memory usage
+for (t in names(Mice_aging_proteome)) {
   for (d in names(Mice_aging_proteome[[t]])) {
     id=paste0(t,".",d)
     print(paste0("Processing: ",id))
