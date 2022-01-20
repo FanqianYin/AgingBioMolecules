@@ -1,0 +1,191 @@
+Uniprot Accession,Protein Name,12 month old mouse 1 H:L,12 month old mouse 2 H:L,12 month old mouse 3 H:L,24 month old mouse 1 H:L,24 month old mouse 2 H:L,24 month old mouse 3 H:L,P-value,Cum.PPDE (p),PPDE (p),BH (FDR)
+Q56A15,Cytochrome c OS=Mus musculus GN=Cycs PE=2 SV=1,0.524,0.545,0.544,1.177,1.115,1.076,0.000,1.000,1.000,0.000
+B2RUK5,Methylcrotonoyl-Coenzyme A carboxylase 2 (Beta) OS=Mus musculus GN=Mccc2 PE=2 SV=1,0.935,0.858,0.919,2.083,2.323,1.723,0.000,1.000,1.000,0.000
+Q9D0M3,"Cytochrome c1, heme protein, mitochondrial OS=Mus musculus GN=Cyc1 PE=1 SV=1",0.719,0.691,0.716,1.147,1.184,1.179,0.000,1.000,1.000,0.000
+P56480,"ATP synthase subunit beta, mitochondrial OS=Mus musculus GN=Atp5b PE=1 SV=2",0.843,0.812,0.827,1.249,1.213,1.231,0.000,1.000,1.000,0.000
+Q03265,"ATP synthase subunit alpha, mitochondrial OS=Mus musculus GN=Atp5a1 PE=1 SV=1",0.843,0.813,0.824,1.256,1.224,1.221,0.000,1.000,1.000,0.000
+Q60597,"2-oxoglutarate dehydrogenase, mitochondrial OS=Mus musculus GN=Ogdh PE=1 SV=3",0.871,0.849,0.885,1.331,1.319,1.332,0.000,1.000,1.000,0.000
+P56135,"ATP synthase subunit f, mitochondrial OS=Mus musculus GN=Atp5j2 PE=1 SV=3",0.884,0.847,0.831,1.339,1.252,1.256,0.000,1.000,1.000,0.000
+P05202,"Aspartate aminotransferase, mitochondrial OS=Mus musculus GN=Got2 PE=1 SV=1",0.844,0.826,0.827,1.281,1.232,1.246,0.000,1.000,1.000,0.000
+Q9D2G2,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial OS=Mus musculus GN=Dlst PE=1 SV=1",0.806,0.797,0.808,1.272,1.229,1.272,0.000,1.000,1.000,0.000
+P99024,Tubulin beta-5 chain OS=Mus musculus GN=Tubb5 PE=1 SV=1,0.840,0.958,0.958,0.541,0.523,0.559,0.000,1.000,1.000,0.000
+Q3THL7,Putative uncharacterized protein OS=Mus musculus GN=Vdac1 PE=2 SV=1,0.884,0.850,0.870,1.254,1.223,1.235,0.000,1.000,1.000,0.000
+Q4FK74,"ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit, isoform CRA_c OS=Mus musculus GN=Atp5d PE=2 SV=1",0.869,0.836,0.852,1.314,1.286,1.284,0.000,1.000,1.000,0.000
+Q3UA17,Putative uncharacterized protein OS=Mus musculus GN=Mtch2 PE=2 SV=1,0.929,0.934,0.950,1.443,1.390,1.413,0.000,1.000,1.000,0.000
+Q78IK2,Up-regulated during skeletal muscle growth protein 5 OS=Mus musculus GN=Usmg5 PE=1 SV=1,0.789,0.760,0.795,1.190,1.196,1.120,0.000,1.000,1.000,0.000
+Q3TF25,Putative uncharacterized protein OS=Mus musculus GN=Atp5o PE=2 SV=1,0.838,0.807,0.821,1.265,1.234,1.245,0.000,1.000,1.000,0.000
+Q80XN0,"D-beta-hydroxybutyrate dehydrogenase, mitochondrial OS=Mus musculus GN=Bdh1 PE=1 SV=2",0.447,0.419,0.483,0.713,0.698,0.724,0.000,1.000,1.000,0.000
+Q8BMF4,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial OS=Mus musculus GN=Dlat PE=1 SV=2",0.490,0.475,0.486,0.760,0.735,0.750,0.000,1.000,1.000,0.000
+Q5SVF7,"4-nitrophenylphosphatase domain and non-neuronal SNAP25-like protein homolog 1 (C. elegans), isoform CRA_f OS=Mus musculus GN=Nipsnap1 PE=2 SV=1",0.708,0.688,0.717,1.081,1.045,1.130,0.000,1.000,1.000,0.000
+P97450,"ATP synthase-coupling factor 6, mitochondrial OS=Mus musculus GN=Atp5j PE=1 SV=1",0.788,0.769,0.797,1.155,1.142,1.179,0.000,1.000,1.000,0.000
+Q5EBI8,"ATP synthase, H+ transporting, mitochondrial F1F0 complex, subunit e OS=Mus musculus GN=Atp5k PE=4 SV=1",0.769,0.753,0.815,1.147,1.110,1.179,0.000,1.000,1.000,0.000
+Q9D881,"Cytochrome c oxidase subunit 5B, mitochondrial OS=Mus musculus GN=Cox5b PE=2 SV=1",0.387,0.366,0.374,0.679,0.606,0.568,0.000,1.000,1.000,0.000
+Q9QZQ8,Core histone macro-H2A.1 OS=Mus musculus GN=H2afy PE=1 SV=3,0.816,1.069,0.986,1.482,1.750,1.690,0.000,1.000,1.000,0.000
+Q91WS0,CDGSH iron-sulfur domain-containing protein 1 OS=Mus musculus GN=Cisd1 PE=1 SV=1,0.864,0.835,0.856,1.272,1.185,1.278,0.000,1.000,1.000,0.000
+P97807,"Fumarate hydratase, mitochondrial OS=Mus musculus GN=Fh PE=1 SV=3",0.828,0.784,0.809,1.223,1.171,1.219,0.000,1.000,1.000,0.000
+Q9D6R2,"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial OS=Mus musculus GN=Idh3a PE=1 SV=1",0.467,0.447,0.478,0.722,0.699,0.700,0.000,1.000,1.000,0.000
+P48962,ADP/ATP translocase 1 OS=Mus musculus GN=Slc25a4 PE=1 SV=4,0.640,0.619,0.646,0.952,0.945,0.953,0.000,1.000,1.000,0.000
+G3X9L6,MCG55033 OS=Mus musculus GN=Gm10250 PE=4 SV=1,0.814,0.788,0.793,1.175,1.168,1.186,0.000,1.000,1.000,0.000
+O08749,"Dihydrolipoyl dehydrogenase, mitochondrial OS=Mus musculus GN=Dld PE=1 SV=2",0.648,0.619,0.629,0.964,0.925,0.958,0.000,1.000,1.000,0.000
+Q3UGC8,"Propionyl-Coenzyme A carboxylase, alpha polypeptide, isoform CRA_b OS=Mus musculus GN=Pcca PE=2 SV=1",0.788,0.720,0.741,1.034,1.145,1.243,0.000,1.000,1.000,0.000
+Q9D051,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial OS=Mus musculus GN=Pdhb PE=1 SV=1",0.464,0.443,0.462,0.720,0.673,0.706,0.000,1.000,1.000,0.000
+Q8BH95,"Enoyl-CoA hydratase, mitochondrial OS=Mus musculus GN=Echs1 PE=1 SV=1",1.001,0.925,0.953,1.394,1.576,1.333,0.000,1.000,1.000,0.000
+Q99KI0,"Aconitate hydratase, mitochondrial OS=Mus musculus GN=Aco2 PE=1 SV=1",0.602,0.589,0.593,0.921,0.886,0.884,0.000,1.000,1.000,0.000
+Q9Z2I0,"LETM1 and EF-hand domain-containing protein 1, mitochondrial OS=Mus musculus GN=Letm1 PE=2 SV=1",0.976,0.918,0.947,1.388,1.285,1.406,0.000,1.000,1.000,0.000
+Q9CQ69,Cytochrome b-c1 complex subunit 8 OS=Mus musculus GN=Uqcrq PE=1 SV=3,0.576,0.541,0.554,0.859,0.842,0.840,0.000,1.000,1.000,0.000
+Q4FJX9,Superoxide dismutase OS=Mus musculus GN=Sod2 PE=2 SV=1,0.418,0.415,0.423,0.650,0.616,0.640,0.000,1.000,1.000,0.000
+P08249,"Malate dehydrogenase, mitochondrial OS=Mus musculus GN=Mdh2 PE=1 SV=3",0.616,0.597,0.616,0.927,0.884,0.904,0.000,1.000,1.000,0.000
+Q5I0W0,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit b, isoform 1 OS=Mus musculus GN=Atp5f1 PE=2 SV=1",0.828,0.805,0.824,1.215,1.206,1.223,0.000,1.000,1.000,0.000
+Q3UMR5,"Calcium uniporter protein, mitochondrial OS=Mus musculus GN=Mcu PE=1 SV=2",1.034,0.967,0.971,1.384,1.367,1.418,0.000,1.000,1.000,0.000
+Q505D7,Optic atrophy 3 protein homolog OS=Mus musculus GN=Opa3 PE=1 SV=1,0.658,0.585,0.661,0.930,0.888,1.096,0.000,1.000,1.000,0.000
+B2RVP5,Histone H2A OS=Mus musculus GN=H2afv PE=2 SV=1,2.365,2.757,2.724,7.148,6.127,4.439,0.000,1.000,0.999,0.000
+Q9CR68,"Cytochrome b-c1 complex subunit Rieske, mitochondrial OS=Mus musculus GN=Uqcrfs1 PE=1 SV=1",0.542,0.505,0.526,0.804,0.774,0.784,0.000,1.000,0.999,0.000
+Q545A2,MCG11560 OS=Mus musculus GN=Slc25a5 PE=2 SV=1,1.064,1.028,1.042,1.607,1.555,1.580,0.000,1.000,0.999,0.000
+D3Z7P3,"Glutaminase kidney isoform, mitochondrial OS=Mus musculus GN=Gls PE=1 SV=1",0.587,0.595,0.557,0.979,0.880,0.802,0.000,1.000,0.999,0.000
+B2RXT3,Ogdhl protein OS=Mus musculus GN=Ogdhl PE=2 SV=1,0.626,0.604,0.610,0.921,0.860,0.907,0.000,1.000,0.999,0.000
+P12787,"Cytochrome c oxidase subunit 5A, mitochondrial OS=Mus musculus GN=Cox5a PE=1 SV=2",0.401,0.389,0.391,0.603,0.598,0.577,0.000,1.000,0.999,0.000
+Q5SX53,"Solute carrier family 25 (Mitochondrial carrier oxoglutarate carrier), member 11, isoform CRA_b OS=Mus musculus GN=Slc25a11 PE=2 SV=1",0.503,0.455,0.584,0.775,0.816,0.771,0.000,1.000,0.999,0.000
+Q3UFJ3,Pyruvate dehydrogenase E1 alpha 1 OS=Mus musculus GN=Pdha1 PE=2 SV=1,0.403,0.395,0.418,0.617,0.594,0.620,0.000,1.000,0.999,0.000
+Q9CZU6,"Citrate synthase, mitochondrial OS=Mus musculus GN=Cs PE=1 SV=1",0.826,0.777,0.838,1.143,1.121,1.261,0.000,1.000,0.999,0.000
+Q8BFR5,"Elongation factor Tu, mitochondrial OS=Mus musculus GN=Tufm PE=1 SV=1",1.058,1.020,1.058,1.618,1.547,1.557,0.000,1.000,0.999,0.000
+A2RSV8,Cytochrome c oxidase subunit IV isoform 1 OS=Mus musculus GN=Cox4i1 PE=2 SV=1,0.385,0.375,0.382,0.593,0.568,0.564,0.000,1.000,0.999,0.000
+Q01853,Transitional endoplasmic reticulum ATPase OS=Mus musculus GN=Vcp PE=1 SV=4,0.972,1.044,0.958,0.649,0.700,0.674,0.000,1.000,0.999,0.000
+Q544B1,"Aldehyde dehydrogenase 2, mitochondrial, isoform CRA_b OS=Mus musculus GN=Aldh2 PE=2 SV=1",1.275,1.227,1.283,1.972,1.902,1.980,0.000,1.000,0.999,0.000
+Q8BIJ6,"Isoleucine--tRNA ligase, mitochondrial OS=Mus musculus GN=Iars2 PE=1 SV=1",1.022,1.069,1.108,1.614,1.613,1.765,0.000,1.000,0.999,0.000
+Q9JHI5,"Isovaleryl-CoA dehydrogenase, mitochondrial OS=Mus musculus GN=Ivd PE=1 SV=1",0.703,0.713,0.773,1.016,1.012,1.053,0.000,1.000,0.999,0.000
+Q9D0K2,"Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial OS=Mus musculus GN=Oxct1 PE=1 SV=1",0.789,0.793,0.760,1.142,1.063,1.059,0.000,1.000,0.999,0.000
+P58281,"Dynamin-like 120 kDa protein, mitochondrial OS=Mus musculus GN=Opa1 PE=1 SV=1",0.458,0.452,0.484,0.705,0.628,0.780,0.000,1.000,0.999,0.000
+Q8BU20,Putative uncharacterized protein OS=Mus musculus GN=Ndufb5 PE=2 SV=1,0.388,0.340,0.339,0.537,0.587,0.646,0.000,1.000,0.999,0.000
+Q8BKZ9,"Pyruvate dehydrogenase protein X component, mitochondrial OS=Mus musculus GN=Pdhx PE=2 SV=1",0.415,0.430,0.466,0.618,0.621,0.709,0.000,1.000,0.999,0.000
+P48771,"Cytochrome c oxidase subunit 7A2, mitochondrial OS=Mus musculus GN=Cox7a2 PE=1 SV=2",0.351,0.338,0.340,0.535,0.510,0.532,0.000,1.000,0.998,0.001
+Q8VC72,NADH dehydrogenase (Ubiquinone) Fe-S protein 8 OS=Mus musculus GN=Ndufs8 PE=2 SV=2,0.371,0.352,0.448,0.572,0.542,0.737,0.000,1.000,0.998,0.001
+Q8C163,"Nuclease EXOG, mitochondrial OS=Mus musculus GN=Exog PE=2 SV=1",0.442,0.430,0.467,0.609,0.633,0.772,0.000,1.000,0.998,0.001
+Q6PCP5,Mitochondrial fission factor OS=Mus musculus GN=Mff PE=1 SV=1,1.151,1.033,0.849,1.548,1.430,1.534,0.000,1.000,0.998,0.001
+Q8CAQ8,Mitochondrial inner membrane protein OS=Mus musculus GN=Immt PE=1 SV=1,1.134,1.112,1.121,1.711,1.723,1.895,0.000,1.000,0.998,0.001
+Q9DB77,"Cytochrome b-c1 complex subunit 2, mitochondrial OS=Mus musculus GN=Uqcrc2 PE=1 SV=1",0.512,0.499,0.517,0.759,0.747,0.753,0.000,0.999,0.998,0.001
+Q91WD5,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial OS=Mus musculus GN=Ndufs2 PE=1 SV=1",0.347,0.352,0.405,0.516,0.515,0.581,0.000,0.999,0.998,0.001
+Q4VA32,Thioesterase superfamily member 2 OS=Mus musculus GN=Acot13 PE=2 SV=1,0.489,0.447,0.474,0.752,0.665,0.642,0.000,0.999,0.998,0.001
+Q4VBC9,Ndufb11 protein (Fragment) OS=Mus musculus GN=Ndufb11 PE=2 SV=1,0.338,0.345,0.359,0.524,0.527,0.530,0.000,0.999,0.997,0.001
+Q9CRD0,OCIA domain-containing protein 1 OS=Mus musculus GN=Ociad1 PE=1 SV=1,1.430,1.261,1.164,2.099,1.992,1.804,0.000,0.999,0.997,0.001
+Q8QZS1,"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial OS=Mus musculus GN=Hibch PE=1 SV=1",0.954,0.898,0.837,1.138,1.322,1.115,0.000,0.999,0.997,0.001
+Q8K2B3,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial OS=Mus musculus GN=Sdha PE=1 SV=1",1.181,1.142,1.108,1.732,1.658,1.725,0.000,0.999,0.997,0.001
+K3W4M4,ATP-dependent (S)-NAD(P)H-hydrate dehydratase OS=Mus musculus GN=Carkd PE=3 SV=1,1.019,1.103,0.981,1.476,1.666,1.342,0.000,0.999,0.997,0.001
+B2RY90,Isoc2a protein OS=Mus musculus GN=Isoc2a PE=2 SV=1,0.395,0.366,0.391,0.531,0.530,0.596,0.000,0.999,0.997,0.001
+Q8BTX9,Inactive hydroxysteroid dehydrogenase-like protein 1 OS=Mus musculus GN=Hsdl1 PE=2 SV=1,1.090,1.158,1.006,1.532,1.683,1.482,0.000,0.999,0.996,0.001
+P08752,Guanine nucleotide-binding protein G(i) subunit alpha-2 OS=Mus musculus GN=Gnai2 PE=1 SV=5,0.901,1.058,0.969,0.732,0.714,0.681,0.000,0.999,0.996,0.001
+Q91VA7,Isocitrate dehydrogenase 3 (NAD+) beta OS=Mus musculus GN=Idh3b PE=2 SV=1,0.490,0.491,0.475,0.687,0.715,0.629,0.000,0.999,0.996,0.001
+Q7JD03,Cytochrome c oxidase subunit 2 OS=Mus musculus domesticus GN=COX2 PE=3 SV=1,0.378,0.367,0.364,0.536,0.504,0.524,0.000,0.999,0.994,0.002
+Q8BWM0,Prostaglandin E synthase 2 OS=Mus musculus GN=Ptges2 PE=1 SV=3,1.104,1.018,1.124,1.459,1.516,1.535,0.000,0.999,0.994,0.002
+Q9DC70,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial OS=Mus musculus GN=Ndufs7 PE=1 SV=1",0.349,0.342,0.349,0.539,0.534,0.490,0.000,0.999,0.994,0.002
+P43274,Histone H1.4 OS=Mus musculus GN=Hist1h1e PE=1 SV=2,2.424,3.674,2.412,4.272,5.577,5.220,0.000,0.999,0.994,0.002
+P51174,"Long-chain specific acyl-CoA dehydrogenase, mitochondrial OS=Mus musculus GN=Acadl PE=1 SV=2",1.313,1.182,1.360,1.819,1.837,1.917,0.000,0.999,0.994,0.002
+Q99L13,"3-hydroxyisobutyrate dehydrogenase, mitochondrial OS=Mus musculus GN=Hibadh PE=1 SV=1",1.127,1.073,0.896,1.522,1.426,1.297,0.000,0.998,0.993,0.002
+Q8BH59,Calcium-binding mitochondrial carrier protein Aralar1 OS=Mus musculus GN=Slc25a12 PE=1 SV=1,0.344,0.340,0.329,0.511,0.495,0.477,0.000,0.998,0.992,0.003
+Q8VCX5,"Calcium uptake protein 1, mitochondrial OS=Mus musculus GN=Micu1 PE=1 SV=1",1.165,1.068,1.132,1.777,1.731,1.400,0.000,0.998,0.992,0.003
+Q7TMG8,Glioblastoma amplified sequence OS=Mus musculus GN=Gbas PE=2 SV=1,0.450,0.423,0.553,0.609,0.645,0.873,0.000,0.998,0.992,0.003
+B9EKS7,"MCG19305, isoform CRA_b OS=Mus musculus GN=Pgs1 PE=2 SV=1",1.095,1.639,1.430,2.312,2.106,2.132,0.000,0.998,0.992,0.003
+Q8BG51,Mitochondrial Rho GTPase 1 OS=Mus musculus GN=Rhot1 PE=2 SV=1,1.319,1.213,1.513,1.938,1.914,2.075,0.000,0.998,0.992,0.003
+Q9ESW4,"Acylglycerol kinase, mitochondrial OS=Mus musculus GN=Agk PE=1 SV=1",1.156,1.141,1.341,1.773,1.730,1.707,0.000,0.998,0.991,0.003
+Q9WV98,Mitochondrial import inner membrane translocase subunit Tim9 OS=Mus musculus GN=Timm9 PE=1 SV=1,1.091,1.032,1.250,1.587,1.527,1.635,0.001,0.998,0.991,0.003
+Q9WUM5,"Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial OS=Mus musculus GN=Suclg1 PE=1 SV=4",0.521,0.503,0.589,0.724,0.708,0.787,0.001,0.998,0.990,0.003
+Q9DCS9,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10 OS=Mus musculus GN=Ndufb10 PE=1 SV=3,0.349,0.341,0.330,0.517,0.504,0.493,0.001,0.998,0.990,0.003
+Q8R404,Protein QIL1 OS=Mus musculus GN=Qil1 PE=2 SV=1,1.325,1.155,1.822,1.969,2.683,2.665,0.001,0.998,0.990,0.003
+Q3TI40,Putative uncharacterized protein OS=Mus musculus GN=Mtx2 PE=2 SV=1,1.251,1.204,1.274,1.805,1.644,1.749,0.001,0.998,0.989,0.004
+Q9DCT2,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial OS=Mus musculus GN=Ndufs3 PE=1 SV=2",0.334,0.320,0.312,0.505,0.490,0.500,0.001,0.997,0.987,0.005
+Q8BW75,Amine oxidase [flavin-containing] B OS=Mus musculus GN=Maob PE=1 SV=4,0.391,0.290,0.205,0.699,0.562,0.435,0.001,0.997,0.986,0.005
+Q99N15,17beta-hydroxysteroid dehydrogenase type 10/short chain L-3-hydroxyacyl-CoA dehydrogenase OS=Mus musculus GN=Hsd17b10 PE=2 SV=1,1.466,1.388,1.478,2.249,2.141,2.191,0.001,0.997,0.986,0.005
+Q62425,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4 OS=Mus musculus GN=Ndufa4 PE=1 SV=2,0.325,0.320,0.318,0.500,0.481,0.472,0.001,0.997,0.985,0.005
+A1L2Z3,C230096C10Rik protein OS=Mus musculus GN=Emc1 PE=2 SV=1,3.931,4.379,3.032,2.080,2.583,1.988,0.001,0.997,0.985,0.005
+P20108,"Thioredoxin-dependent peroxide reductase, mitochondrial OS=Mus musculus GN=Prdx3 PE=1 SV=1",1.431,1.366,1.377,2.108,2.060,2.062,0.001,0.997,0.985,0.005
+Q9ERS2,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13 OS=Mus musculus GN=Ndufa13 PE=1 SV=3,0.334,0.314,0.377,0.509,0.447,0.504,0.001,0.996,0.982,0.007
+Q61102,"ATP-binding cassette sub-family B member 7, mitochondrial OS=Mus musculus GN=Abcb7 PE=1 SV=3",1.399,1.437,1.368,2.108,2.047,2.098,0.001,0.996,0.981,0.007
+A2ASZ8,Calcium-binding mitochondrial carrier protein SCaMC-2 OS=Mus musculus GN=Slc25a25 PE=2 SV=1,0.610,0.707,0.509,0.994,0.751,0.802,0.001,0.996,0.981,0.007
+Q0PD62,"RAB3B, member RAS oncogene family, isoform CRA_a OS=Mus musculus GN=Rab3b PE=2 SV=1",1.019,1.045,0.925,0.817,0.728,0.764,0.001,0.996,0.980,0.008
+Q8C1Y3,Putative uncharacterized protein OS=Mus musculus GN=H1f0 PE=2 SV=1,1.320,2.155,1.594,2.404,3.477,2.728,0.002,0.995,0.979,0.008
+P63038,"60 kDa heat shock protein, mitochondrial OS=Mus musculus GN=Hspd1 PE=1 SV=1",2.897,2.768,2.853,4.336,4.182,4.323,0.002,0.995,0.977,0.009
+P26443,"Glutamate dehydrogenase 1, mitochondrial OS=Mus musculus GN=Glud1 PE=1 SV=1",0.331,0.307,0.329,0.485,0.452,0.485,0.002,0.995,0.976,0.009
+P67778,Prohibitin OS=Mus musculus GN=Phb PE=1 SV=1,2.804,2.642,2.685,4.077,3.880,3.905,0.002,0.994,0.974,0.010
+Q9DC69,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial OS=Mus musculus GN=Ndufa9 PE=1 SV=2",0.321,0.314,0.325,0.476,0.475,0.458,0.002,0.994,0.974,0.010
+Q91X95,"Guanine nucleotide binding protein, alpha 11 OS=Mus musculus GN=Gna11 PE=2 SV=1",0.610,0.682,0.663,0.492,0.459,0.486,0.002,0.994,0.974,0.010
+B2RTM0,Histone H4 OS=Mus musculus GN=Hist2h4 PE=3 SV=1,2.985,4.061,3.434,5.507,6.815,5.905,0.002,0.994,0.973,0.011
+Q61753,D-3-phosphoglycerate dehydrogenase OS=Mus musculus GN=Phgdh PE=1 SV=3,0.918,1.125,0.936,0.754,0.795,0.760,0.002,0.994,0.972,0.011
+Q3U7Z6,MCG113582 OS=Mus musculus GN=Pgam1 PE=2 SV=1,0.323,0.376,0.311,0.192,0.185,0.203,0.002,0.994,0.971,0.011
+Q3TG37,Putative uncharacterized protein OS=Mus musculus GN=Slc9a3r1 PE=2 SV=1,1.135,0.993,0.676,1.153,1.411,1.199,0.002,0.994,0.971,0.011
+Q9WVA2,Mitochondrial import inner membrane translocase subunit Tim8 A OS=Mus musculus GN=Timm8a1 PE=1 SV=1,1.315,1.362,1.512,1.917,1.770,2.168,0.002,0.993,0.971,0.011
+Q9D6H6,Putative uncharacterized protein OS=Mus musculus GN=Ndufb3 PE=4 SV=1,0.256,0.254,0.263,0.429,0.413,0.437,0.003,0.993,0.968,0.012
+Q99LC5,"Electron transfer flavoprotein subunit alpha, mitochondrial OS=Mus musculus GN=Etfa PE=1 SV=2",2.638,2.521,2.591,3.915,3.814,3.806,0.003,0.993,0.968,0.012
+Q9DCW4,Electron transfer flavoprotein subunit beta OS=Mus musculus GN=Etfb PE=1 SV=3,2.836,2.653,2.834,4.099,3.998,4.139,0.003,0.993,0.968,0.012
+Q9CPP6,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5 OS=Mus musculus GN=Ndufa5 PE=1 SV=3,0.311,0.310,0.315,0.473,0.475,0.472,0.003,0.992,0.966,0.013
+P62075,Mitochondrial import inner membrane translocase subunit Tim13 OS=Mus musculus GN=Timm13 PE=1 SV=1,1.593,1.678,1.569,2.461,2.342,2.349,0.003,0.992,0.966,0.013
+Q9D6J6,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial OS=Mus musculus GN=Ndufv2 PE=1 SV=2",0.303,0.303,0.332,0.473,0.439,0.520,0.003,0.992,0.965,0.013
+Q9CZP5,Mitochondrial chaperone BCS1 OS=Mus musculus GN=Bcs1l PE=1 SV=1,1.626,1.444,1.478,1.958,2.498,2.300,0.004,0.991,0.960,0.016
+Q9QZ23,"NFU1 iron-sulfur cluster scaffold homolog, mitochondrial OS=Mus musculus GN=Nfu1 PE=1 SV=2",2.684,2.611,2.443,3.884,3.938,3.665,0.004,0.991,0.959,0.016
+Q99JR1,Sideroflexin-1 OS=Mus musculus GN=Sfxn1 PE=1 SV=3,1.521,1.487,1.410,2.267,2.144,2.037,0.004,0.990,0.956,0.018
+Q8BLF7,Putative uncharacterized protein OS=Mus musculus GN=Slc2a3 PE=2 SV=1,0.579,0.622,0.577,0.456,0.425,0.430,0.004,0.990,0.955,0.018
+Q9CQ75,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2 OS=Mus musculus GN=Ndufa2 PE=1 SV=3,0.316,0.287,0.331,0.468,0.420,0.507,0.004,0.990,0.953,0.018
+Q8BGH2,Sorting and assembly machinery component 50 homolog OS=Mus musculus GN=Samm50 PE=1 SV=1,1.167,1.107,1.090,1.732,1.354,1.304,0.004,0.990,0.953,0.019
+Q3TDN8,Putative uncharacterized protein OS=Mus musculus GN=Bphl PE=2 SV=1,0.393,0.373,0.309,0.498,0.500,0.472,0.004,0.989,0.953,0.019
+Q91YP0,"L-2-hydroxyglutarate dehydrogenase, mitochondrial OS=Mus musculus GN=L2hgdh PE=1 SV=1",1.693,1.600,1.088,2.842,2.455,1.686,0.005,0.989,0.952,0.019
+Q99N96,"39S ribosomal protein L1, mitochondrial OS=Mus musculus GN=Mrpl1 PE=1 SV=2",4.138,4.008,3.745,6.870,9.582,6.144,0.005,0.989,0.950,0.020
+Q9D172,"ES1 protein homolog, mitochondrial OS=Mus musculus GN=D10Jhu81e PE=1 SV=1",0.316,0.317,0.297,0.487,0.447,0.456,0.005,0.989,0.949,0.020
+P56391,Cytochrome c oxidase subunit 6B1 OS=Mus musculus GN=Cox6b1 PE=1 SV=2,0.316,0.291,0.317,0.457,0.445,0.475,0.005,0.989,0.949,0.020
+Q8K239,Elongation factor Ts (Fragment) OS=Mus musculus GN=Tsfm PE=2 SV=1,2.991,3.272,2.799,4.557,4.808,4.013,0.005,0.988,0.948,0.020
+Q8JZN5,"Acyl-CoA dehydrogenase family member 9, mitochondrial OS=Mus musculus GN=Acad9 PE=1 SV=2",1.470,1.456,1.527,2.313,1.996,2.120,0.005,0.988,0.946,0.021
+Q544Y7,"Cofilin 1, non-muscle OS=Mus musculus GN=Cfl1 PE=2 SV=1",0.370,0.442,0.367,0.269,0.268,0.263,0.006,0.987,0.944,0.022
+D3YUM1,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial OS=Mus musculus GN=Ndufv1 PE=4 SV=1",0.297,0.291,0.337,0.443,0.433,0.512,0.006,0.987,0.943,0.022
+Q9D6J5,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial OS=Mus musculus GN=Ndufb8 PE=1 SV=1",0.239,0.232,0.265,0.397,0.363,0.448,0.006,0.987,0.940,0.024
+Q99JY0,"Trifunctional enzyme subunit beta, mitochondrial OS=Mus musculus GN=Hadhb PE=1 SV=1",1.464,1.398,1.392,1.906,1.895,1.950,0.006,0.986,0.938,0.024
+Q9DCS3,"Trans-2-enoyl-CoA reductase, mitochondrial OS=Mus musculus GN=Mecr PE=1 SV=2",1.387,1.398,1.191,1.957,1.956,1.509,0.006,0.986,0.938,0.024
+Q8VCW8,"Acyl-CoA synthetase family member 2, mitochondrial OS=Mus musculus GN=Acsf2 PE=1 SV=1",0.800,0.742,0.686,1.013,0.837,0.927,0.007,0.985,0.934,0.026
+P26645,Myristoylated alanine-rich C-kinase substrate OS=Mus musculus GN=Marcks PE=1 SV=2,0.380,0.423,0.469,0.321,0.306,0.270,0.007,0.985,0.931,0.027
+Q5F2A7,Putative uncharacterized protein OS=Mus musculus GN=Eif4a1 PE=2 SV=1,3.076,3.571,3.107,2.257,2.132,2.331,0.007,0.984,0.930,0.028
+P05201,"Aspartate aminotransferase, cytoplasmic OS=Mus musculus GN=Got1 PE=1 SV=3",0.188,0.239,0.145,0.113,0.115,0.091,0.008,0.984,0.927,0.029
+Q3UKS6,Mitochondrial ribosomal protein L40 OS=Mus musculus GN=Mrpl40 PE=2 SV=1,3.915,3.925,3.114,8.184,7.586,4.065,0.008,0.984,0.927,0.029
+Q9CPQ3,Mitochondrial import receptor subunit TOM22 homolog OS=Mus musculus GN=Tomm22 PE=2 SV=3,1.740,1.709,1.604,2.477,2.449,2.177,0.008,0.983,0.926,0.029
+Q9DCJ5,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8 OS=Mus musculus GN=Ndufa8 PE=1 SV=3,0.258,0.243,0.261,0.395,0.419,0.377,0.008,0.983,0.924,0.030
+Q8R2P8,Lysine--tRNA ligase OS=Mus musculus GN=Kars PE=2 SV=1,1.698,1.424,2.240,4.410,3.266,2.024,0.008,0.983,0.924,0.030
+Q99JP7,Gamma-glutamyltransferase 7 OS=Mus musculus GN=Ggt7 PE=2 SV=2,4.022,2.535,2.379,2.312,1.798,1.811,0.009,0.982,0.921,0.031
+Q4VAE6,Ras family member A OS=Mus musculus GN=Rhoa PE=2 SV=1,0.417,0.431,0.534,0.285,0.323,0.360,0.009,0.982,0.919,0.032
+Q58E64,Elongation factor 1-alpha OS=Mus musculus GN=Eef1a1 PE=2 SV=1,3.170,3.058,3.376,2.219,2.393,2.206,0.009,0.982,0.918,0.032
+Q4KL76,Heat shock protein 1 (Chaperonin 10) OS=Mus musculus GN=Hspe1 PE=3 SV=1,3.080,3.129,2.730,4.589,4.467,3.828,0.009,0.982,0.918,0.032
+P40142,Transketolase OS=Mus musculus GN=Tkt PE=1 SV=1,0.409,0.452,0.340,0.268,0.212,0.330,0.009,0.981,0.917,0.032
+Q9D8Y1,Transmembrane protein 126A OS=Mus musculus GN=Tmem126a PE=2 SV=1,2.784,2.597,2.607,3.874,3.681,3.694,0.009,0.981,0.917,0.032
+Q9CQZ5,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 OS=Mus musculus GN=Ndufa6 PE=1 SV=1,0.284,0.258,0.283,0.435,0.417,0.440,0.009,0.981,0.916,0.032
+Q9D6U8,Protein FAM162A OS=Mus musculus GN=Fam162a PE=2 SV=1,2.900,2.723,2.374,3.984,3.893,3.493,0.009,0.981,0.915,0.033
+Q5FW97,"Enolase 1, alpha non-neuron OS=Mus musculus GN=EG433182 PE=2 SV=1",0.341,0.424,0.393,0.262,0.261,0.274,0.010,0.980,0.911,0.035
+Q9R0E1,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 OS=Mus musculus GN=Plod3 PE=1 SV=1",13.110,3.672,6.666,3.359,2.091,4.703,0.010,0.980,0.909,0.035
+Q9DBH5,Vesicular integral-membrane protein VIP36 OS=Mus musculus GN=Lman2 PE=2 SV=2,3.404,2.643,2.601,6.885,4.691,2.913,0.010,0.979,0.908,0.035
+O35435,"Dihydroorotate dehydrogenase (quinone), mitochondrial OS=Mus musculus GN=Dhodh PE=2 SV=2",2.185,3.055,2.954,4.375,4.499,3.070,0.011,0.979,0.908,0.035
+Q5U458,DnaJ homolog subfamily C member 11 OS=Mus musculus GN=Dnajc11 PE=2 SV=2,1.968,1.948,2.014,2.830,2.735,2.883,0.011,0.979,0.908,0.035
+P09411,Phosphoglycerate kinase 1 OS=Mus musculus GN=Pgk1 PE=1 SV=4,0.424,0.542,0.357,0.304,0.279,0.323,0.011,0.979,0.905,0.036
+Q14AZ9,"Zinc binding alcohol dehydrogenase, domain containing 2 OS=Mus musculus GN=Zadh2 PE=2 SV=1",1.461,1.370,1.170,1.913,1.987,1.482,0.011,0.978,0.903,0.037
+Q99LC3,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial OS=Mus musculus GN=Ndufa10 PE=1 SV=1",0.266,0.266,0.316,0.415,0.402,0.488,0.012,0.978,0.901,0.038
+P52503,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial OS=Mus musculus GN=Ndufs6 PE=1 SV=2",0.255,0.261,0.410,0.376,0.386,1.102,0.012,0.977,0.896,0.040
+I7DM66,PexRAP OS=Mus musculus GN=Dhrs7b PE=2 SV=1,3.276,3.866,2.802,12.527,3.539,5.078,0.012,0.977,0.896,0.040
+Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial OS=Mus musculus GN=Hadh PE=1 SV=2",1.972,1.997,1.807,3.296,2.976,2.573,0.012,0.976,0.895,0.040
+Q61709,DNA for type IIB intracisternal A-particle element encoding integrase and gag OS=Mus musculus PE=4 SV=1,8.513,8.236,8.316,3.237,3.273,7.487,0.013,0.976,0.893,0.041
+Q5FWB6,"MCG17387, isoform CRA_a OS=Mus musculus GN=Rplp0 PE=2 SV=1",4.570,6.080,100.000,5.544,5.260,0.860,0.013,0.976,0.893,0.041
+Q8BIG7,Catechol O-methyltransferase domain-containing protein 1 OS=Mus musculus GN=Comtd1 PE=2 SV=1,2.019,1.977,1.958,2.903,2.888,2.823,0.014,0.974,0.885,0.044
+O88737,Protein bassoon OS=Mus musculus GN=Bsn PE=1 SV=4,0.140,0.033,0.178,0.221,0.285,0.184,0.014,0.974,0.885,0.044
+Q9CQJ8,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9 OS=Mus musculus GN=Ndufb9 PE=1 SV=3,0.246,0.216,0.239,0.370,0.350,0.342,0.015,0.973,0.880,0.046
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial OS=Mus musculus GN=Hadha PE=1 SV=1",1.874,1.757,1.856,2.565,2.464,2.536,0.015,0.973,0.879,0.047
+Q9D5T0,ATPase family AAA domain-containing protein 1 OS=Mus musculus GN=Atad1 PE=1 SV=1,2.434,1.980,2.267,3.811,3.411,2.988,0.016,0.972,0.874,0.049
+Q3V235,Prohibitin 2 OS=Mus musculus GN=Phb2 PE=2 SV=1,2.659,2.579,2.655,3.694,3.660,3.619,0.016,0.972,0.873,0.049
+P52480,Pyruvate kinase PKM OS=Mus musculus GN=Pkm PE=1 SV=4,0.290,0.343,0.319,0.201,0.194,0.218,0.018,0.969,0.861,0.055
+Q61171,Peroxiredoxin-2 OS=Mus musculus GN=Prdx2 PE=1 SV=3,0.305,0.339,0.353,0.236,0.205,0.258,0.018,0.968,0.857,0.056
+Q9D880,Mitochondrial import inner membrane translocase subunit TIM50 OS=Mus musculus GN=Timm50 PE=1 SV=1,2.870,2.668,3.162,3.782,3.935,4.176,0.019,0.967,0.854,0.057
+Q9JHU4,Cytoplasmic dynein 1 heavy chain 1 OS=Mus musculus GN=Dync1h1 PE=1 SV=2,0.503,0.517,0.650,0.378,0.425,0.467,0.019,0.967,0.852,0.058
+Q545S0,"Thiosulfate sulfurtransferase, mitochondrial, isoform CRA_a OS=Mus musculus GN=Tst PE=2 SV=1",0.310,0.263,0.386,0.505,0.354,0.506,0.020,0.966,0.849,0.060
+Q99P72,Reticulon-4 OS=Mus musculus GN=Rtn4 PE=1 SV=2,0.818,0.813,0.749,0.607,0.688,0.653,0.021,0.965,0.844,0.062
+Q4VAE8,Ndufb4 protein (Fragment) OS=Mus musculus GN=Ndufb4 PE=2 SV=1,0.285,0.241,0.352,0.417,0.372,0.494,0.021,0.965,0.843,0.062
+Q14CH7,"Alanine--tRNA ligase, mitochondrial OS=Mus musculus GN=Aars2 PE=2 SV=1",2.419,2.206,4.222,3.916,3.335,5.618,0.021,0.964,0.840,0.063
+Q6PB66,"Leucine-rich PPR motif-containing protein, mitochondrial OS=Mus musculus GN=Lrpprc PE=1 SV=2",3.052,2.779,2.888,3.804,4.126,3.898,0.021,0.964,0.840,0.063
+Q059G7,"MCG16762, isoform CRA_a OS=Mus musculus GN=Mrps21 PE=4 SV=1",4.028,4.012,3.645,5.434,5.084,6.376,0.022,0.963,0.834,0.065
+Q8CC88,von Willebrand factor A domain-containing protein 8 OS=Mus musculus GN=Vwa8 PE=2 SV=2,1.485,1.417,1.110,1.866,2.172,1.351,0.023,0.962,0.832,0.066
+Q9EQI8,"39S ribosomal protein L46, mitochondrial OS=Mus musculus GN=Mrpl46 PE=2 SV=1",4.042,3.931,4.021,6.860,4.644,6.027,0.028,0.955,0.801,0.082
+Q9DB15,"39S ribosomal protein L12, mitochondrial OS=Mus musculus GN=Mrpl12 PE=1 SV=2",4.340,4.068,4.018,6.076,5.788,5.790,0.029,0.954,0.796,0.084
+Q91V61,Sideroflexin-3 OS=Mus musculus GN=Sfxn3 PE=1 SV=1,0.255,0.242,0.263,0.373,0.345,0.369,0.031,0.953,0.789,0.087
+Q8BK72,"28S ribosomal protein S27, mitochondrial OS=Mus musculus GN=Mrps27 PE=2 SV=2",3.103,3.583,3.177,4.228,4.831,4.267,0.031,0.952,0.788,0.087
+Q6PGG8,Tdrkh protein OS=Mus musculus GN=Tdrkh PE=2 SV=1,2.730,2.890,1.413,4.566,3.191,2.935,0.032,0.951,0.780,0.091
+Q3TZZ7,Extended synaptotagmin-2 OS=Mus musculus GN=Esyt2 PE=1 SV=1,3.181,3.286,3.352,2.089,2.423,2.792,0.032,0.950,0.779,0.091
+B9EHN0,"Ubiquitin-activating enzyme E1, Chr X OS=Mus musculus GN=Uba1 PE=2 SV=1",0.416,0.410,0.519,0.279,0.266,0.456,0.033,0.950,0.778,0.091

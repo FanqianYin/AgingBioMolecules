@@ -1,0 +1,64 @@
+Uniprot Accession,Protein Name,5 month old mouse 1 H:L,5 month old mouse 2 H:L,5 month old mouse 3 H:L,24 month old mouse 1 H:L,24 month old mouse 2 H:L,24 month old mouse 3 H:L,P-value,Cum.PPDE (p),PPDE (p),BH (FDR)
+P63216,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-3 OS=Mus musculus GN=Gng3 PE=1 SV=1,1.431,1.348,0.836,0.076,0.035,0.116,0.000,1.000,1.000,0.000
+Q3UHL1,CaM kinase-like vesicle-associated protein OS=Mus musculus GN=Camkv PE=1 SV=2,0.055,0.031,0.050,0.231,0.170,0.330,0.000,1.000,1.000,0.000
+Q80TQ3,MKIAA0845 protein (Fragment) OS=Mus musculus GN=Nefh PE=2 SV=1,0.120,0.111,0.065,0.724,0.529,0.302,0.000,1.000,1.000,0.000
+P99024,Tubulin beta-5 chain OS=Mus musculus GN=Tubb5 PE=1 SV=1,1.047,0.904,0.992,0.541,0.523,0.559,0.000,1.000,0.999,0.000
+Q3TG37,Putative uncharacterized protein OS=Mus musculus GN=Slc9a3r1 PE=2 SV=1,0.431,0.638,0.200,1.153,1.411,1.199,0.000,1.000,0.999,0.000
+I7DM66,PexRAP OS=Mus musculus GN=Dhrs7b PE=2 SV=1,1.688,1.710,1.149,12.527,3.539,5.078,0.000,1.000,0.999,0.000
+E9Q7G1,Protein Tmed7 OS=Mus musculus GN=Tmed7 PE=3 SV=1,1.049,1.208,1.105,2.470,2.757,1.769,0.000,0.999,0.998,0.001
+Q8K0Z7,Translational activator of cytochrome c oxidase 1 OS=Mus musculus GN=Taco1 PE=1 SV=1,1.564,1.993,1.776,0.610,0.771,1.242,0.000,0.999,0.998,0.001
+P48036,Annexin A5 OS=Mus musculus GN=Anxa5 PE=1 SV=1,0.825,0.825,0.662,0.393,0.371,0.437,0.000,0.999,0.997,0.002
+P03995,Glial fibrillary acidic protein OS=Mus musculus GN=Gfap PE=1 SV=4,0.312,0.346,0.518,0.057,0.105,0.131,0.000,0.998,0.995,0.003
+Q9R0E1,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 OS=Mus musculus GN=Plod3 PE=1 SV=1",11.268,12.212,8.374,3.359,2.091,4.703,0.000,0.998,0.994,0.003
+A8DUN2,Beta-globin OS=Mus musculus GN=Hbbt1 PE=3 SV=1,0.039,0.018,0.059,0.117,0.111,0.329,0.000,0.997,0.993,0.004
+Q4FZK2,Eukaryotic translation elongation factor 1 gamma OS=Mus musculus GN=Eef1g PE=2 SV=1,4.062,4.881,4.551,2.259,1.889,2.975,0.000,0.997,0.992,0.004
+P62141,Serine/threonine-protein phosphatase PP1-beta catalytic subunit OS=Mus musculus GN=Ppp1cb PE=1 SV=3,0.677,1.058,0.832,0.416,0.333,0.594,0.000,0.997,0.991,0.005
+Q9JKL4,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3 OS=Mus musculus GN=Ndufaf3 PE=2 SV=1,1.754,2.024,2.083,0.765,0.907,1.649,0.000,0.996,0.990,0.005
+Q9Z2Q6,Septin-5 OS=Mus musculus GN=Sept5 PE=1 SV=2,0.060,0.129,0.080,0.018,0.017,0.031,0.000,0.996,0.990,0.005
+Q01853,Transitional endoplasmic reticulum ATPase OS=Mus musculus GN=Vcp PE=1 SV=4,1.091,0.949,0.959,0.649,0.700,0.674,0.000,0.996,0.989,0.005
+Q80X85,"28S ribosomal protein S7, mitochondrial OS=Mus musculus GN=Mrps7 PE=2 SV=1",2.638,3.173,2.154,5.503,6.145,4.515,0.000,0.996,0.989,0.006
+Q8BW75,Amine oxidase [flavin-containing] B OS=Mus musculus GN=Maob PE=1 SV=4,0.218,0.233,0.346,0.699,0.562,0.435,0.000,0.995,0.986,0.007
+E9PYH2,Cytosolic acyl coenzyme A thioester hydrolase OS=Mus musculus GN=Acot7 PE=4 SV=1,1.057,0.817,1.163,0.758,0.496,0.598,0.000,0.995,0.986,0.007
+P68369,Tubulin alpha-1A chain OS=Mus musculus GN=Tuba1a PE=1 SV=1,0.302,0.268,0.274,0.144,0.122,0.098,0.000,0.995,0.986,0.007
+Q5FWB6,"MCG17387, isoform CRA_a OS=Mus musculus GN=Rplp0 PE=2 SV=1",4.601,100.000,100.000,5.544,5.260,0.860,0.000,0.993,0.983,0.009
+Q3UR55,"ATPase, Na+/K+ transporting, beta 2 polypeptide, isoform CRA_b OS=Mus musculus GN=Atp1b2 PE=2 SV=1",0.203,0.222,0.353,0.057,0.046,0.122,0.000,0.993,0.980,0.011
+Q61709,DNA for type IIB intracisternal A-particle element encoding integrase and gag OS=Mus musculus PE=4 SV=1,9.988,9.576,11.270,3.237,3.273,7.487,0.001,0.990,0.974,0.016
+P63137,Gamma-aminobutyric acid receptor subunit beta-2 OS=Mus musculus GN=Gabrb2 PE=1 SV=2,1.528,4.120,0.568,0.060,0.012,1.193,0.001,0.990,0.973,0.016
+Q4VAE3,Transmembrane protein 65 OS=Mus musculus GN=Tmem65 PE=2 SV=1,1.241,0.631,0.363,0.326,0.220,0.306,0.001,0.990,0.973,0.016
+Q9CZD3,Glycine--tRNA ligase OS=Mus musculus GN=Gars PE=1 SV=1,3.620,3.118,3.784,1.870,2.230,2.253,0.001,0.989,0.972,0.016
+Q7TSZ6,Karyopherin (Importin) beta 1 OS=Mus musculus GN=Kpnb1 PE=2 SV=1,1.234,1.130,1.076,0.832,0.933,0.828,0.001,0.988,0.968,0.019
+P47857,"6-phosphofructokinase, muscle type OS=Mus musculus GN=Pfkm PE=1 SV=3",0.274,0.439,0.401,0.196,0.143,0.158,0.001,0.987,0.967,0.019
+Q3UZT7,Putative uncharacterized protein OS=Mus musculus GN=Ctnnb1 PE=2 SV=1,0.789,0.677,0.844,0.571,0.486,0.557,0.001,0.985,0.961,0.025
+Q99PU5,Long-chain-fatty-acid--CoA ligase ACSBG1 OS=Mus musculus GN=Acsbg1 PE=1 SV=1,0.534,0.547,0.291,0.109,0.183,0.276,0.001,0.985,0.960,0.025
+Q9R0Y5,Adenylate kinase isoenzyme 1 OS=Mus musculus GN=Ak1 PE=1 SV=1,0.627,0.501,0.603,0.396,0.199,0.370,0.001,0.984,0.959,0.025
+P09411,Phosphoglycerate kinase 1 OS=Mus musculus GN=Pgk1 PE=1 SV=4,0.652,0.440,0.455,0.304,0.279,0.323,0.002,0.984,0.957,0.027
+Q9CXW2,"28S ribosomal protein S22, mitochondrial OS=Mus musculus GN=Mrps22 PE=2 SV=1",3.646,4.233,4.163,3.363,1.450,2.317,0.002,0.983,0.956,0.027
+Q0PD62,"RAB3B, member RAS oncogene family, isoform CRA_a OS=Mus musculus GN=Rab3b PE=2 SV=1",0.991,1.058,1.052,0.817,0.728,0.764,0.002,0.983,0.955,0.027
+Q14C26,"RIKEN cDNA 2900064A13, isoform CRA_b OS=Mus musculus GN=Emc7 PE=2 SV=1",1.986,2.311,3.840,4.767,6.553,3.694,0.002,0.980,0.949,0.032
+Q4FJL0,"RAB10, member RAS oncogene family OS=Mus musculus GN=Rab10 PE=2 SV=1",1.261,1.228,1.289,0.991,0.995,1.007,0.002,0.980,0.949,0.032
+P60904,DnaJ homolog subfamily C member 5 OS=Mus musculus GN=Dnajc5 PE=1 SV=1,0.237,0.355,0.354,0.161,0.140,0.142,0.002,0.979,0.947,0.033
+Q3UHJ0,AP2-associated protein kinase 1 OS=Mus musculus GN=Aak1 PE=1 SV=2,0.161,0.128,0.130,0.037,0.027,0.106,0.003,0.974,0.933,0.047
+Q505D7,Optic atrophy 3 protein homolog OS=Mus musculus GN=Opa3 PE=1 SV=1,0.567,0.684,0.892,0.930,0.888,1.096,0.003,0.973,0.932,0.047
+Q3TXX4,Vesicular glutamate transporter 1 OS=Mus musculus GN=Slc17a7 PE=1 SV=2,0.010,0.073,0.027,0.314,0.076,0.057,0.003,0.973,0.931,0.047
+P08752,Guanine nucleotide-binding protein G(i) subunit alpha-2 OS=Mus musculus GN=Gnai2 PE=1 SV=5,0.985,0.851,0.925,0.732,0.714,0.681,0.004,0.972,0.929,0.049
+Q8VCF0,Mitochondrial antiviral-signaling protein OS=Mus musculus GN=Mavs PE=1 SV=1,5.251,3.157,6.551,13.032,8.068,8.813,0.004,0.972,0.927,0.049
+Q52L50,RAS related protein 1b OS=Mus musculus GN=Rap1b PE=2 SV=1,0.902,0.795,0.932,0.674,0.673,0.650,0.004,0.970,0.924,0.052
+B2RUK5,Methylcrotonoyl-Coenzyme A carboxylase 2 (Beta) OS=Mus musculus GN=Mccc2 PE=2 SV=1,1.219,1.652,1.267,2.083,2.323,1.723,0.004,0.969,0.921,0.055
+Q9Z2Y3,Homer protein homolog 1 OS=Mus musculus GN=Homer1 PE=1 SV=2,1.218,1.151,0.632,0.176,0.738,0.659,0.005,0.967,0.917,0.058
+Q99KE1,"NAD-dependent malic enzyme, mitochondrial OS=Mus musculus GN=Me2 PE=2 SV=1",1.725,2.231,1.836,3.799,3.427,2.610,0.005,0.967,0.916,0.058
+Q542X7,"Chaperonin subunit 2 (Beta), isoform CRA_a OS=Mus musculus GN=Cct2 PE=2 SV=1",1.541,1.264,1.388,1.136,0.916,1.084,0.006,0.963,0.907,0.068
+Q9ERD7,Tubulin beta-3 chain OS=Mus musculus GN=Tubb3 PE=1 SV=1,0.245,0.231,0.222,0.108,0.097,0.149,0.006,0.963,0.906,0.068
+Q542T7,"RAB3C, member RAS oncogene family OS=Mus musculus GN=Rab3c PE=2 SV=1",0.522,0.418,0.438,0.270,0.274,0.333,0.006,0.962,0.903,0.070
+B2RQQ5,Microtubule-associated protein 1B OS=Mus musculus GN=Map1b PE=2 SV=1,0.760,0.810,0.745,0.588,0.660,0.482,0.006,0.960,0.899,0.073
+B9EHN0,"Ubiquitin-activating enzyme E1, Chr X OS=Mus musculus GN=Uba1 PE=2 SV=1",0.578,0.487,0.455,0.279,0.266,0.456,0.007,0.960,0.898,0.073
+Q9QZQ8,Core histone macro-H2A.1 OS=Mus musculus GN=H2afy PE=1 SV=3,2.220,3.785,1.975,1.482,1.750,1.690,0.007,0.959,0.897,0.073
+Q50HX4,RAB14 protein OS=Mus musculus GN=Rab14 PE=2 SV=1,0.967,0.766,0.976,0.747,0.617,0.679,0.007,0.959,0.897,0.073
+Q9D8L3,"Signal sequence receptor, delta OS=Mus musculus GN=Ssr4 PE=2 SV=1",3.838,3.599,3.714,6.624,6.676,4.439,0.007,0.958,0.894,0.074
+Q6PCP5,Mitochondrial fission factor OS=Mus musculus GN=Mff PE=1 SV=1,0.955,1.470,0.938,1.548,1.430,1.534,0.007,0.957,0.891,0.077
+Q6ZWQ9,MCG5400 OS=Mus musculus GN=Myl12a PE=1 SV=1,19.442,100.000,12.060,6.469,10.492,11.739,0.008,0.955,0.887,0.081
+E9QN98,Inactive dipeptidyl peptidase 10 OS=Mus musculus GN=Dpp10 PE=4 SV=1,0.460,0.259,0.288,0.038,0.081,0.378,0.008,0.954,0.885,0.081
+Q3UGC8,"Propionyl-Coenzyme A carboxylase, alpha polypeptide, isoform CRA_b OS=Mus musculus GN=Pcca PE=2 SV=1",0.928,0.969,0.868,1.034,1.145,1.243,0.009,0.953,0.882,0.084
+P27661,Histone H2AX OS=Mus musculus GN=H2afx PE=1 SV=2,6.348,11.053,7.366,4.482,5.419,5.026,0.009,0.951,0.878,0.086
+Q540I4,Flotillin 1 OS=Mus musculus GN=Flot1 PE=2 SV=1,0.640,0.662,0.659,0.532,0.433,0.506,0.009,0.951,0.878,0.086
+Q5M8N0,CB1 cannabinoid receptor-interacting protein 1 OS=Mus musculus GN=Cnrip1 PE=1 SV=1,0.124,0.237,0.111,0.030,0.077,0.102,0.009,0.951,0.877,0.086
+Q9D0G0,"28S ribosomal protein S30, mitochondrial OS=Mus musculus GN=Mrps30 PE=2 SV=1",3.623,4.255,3.894,2.348,1.925,3.211,0.009,0.950,0.875,0.086

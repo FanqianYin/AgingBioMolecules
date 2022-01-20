@@ -1,0 +1,336 @@
+Accession,Gene Symbol,Kidney Young,Kidney Aged,p-value,Description,Direction
+Q3UEQ9,Aass,78.3,121.7,2.24E-03,Aminoadipate-semialdehyde synthase,Up
+E9QMV2,Abracl,77.97,122,5.67E-02,Costars family protein ABRACL,Up
+Q05117,Acp5,79.2,120.8,2.34E-02,Tartrate-resistant acid phosphatase type 5,Up
+A0A3B0ITG8,Adia,52.73,147.27,5.09E-02,Adiponectin a,Up
+A0A3B0INZ4,Adib,56.3,143.7,2.98E-02,Adiponectin b,Up
+O89020,Afm,80,120,3.77E-04,Afamin,Up
+Q60F90,Ahsp,75.43,124.57,1.98E-02,Alpha-hemoglobin stabilizing protein,Up
+Q571M4,Akr1c13,76.03,123.93,4.75E-04,MKIAA4014 protein (Fragment),Up
+Q546G4,Alb,79.27,120.77,6.02E-03,Albumin 1,Up
+P24549,Aldh1a1,55.23,144.77,2.03E-07,Retinal dehydrogenase 1,Up
+O35945,Aldh1a7,57.2,142.83,4.26E-04,"Aldehyde dehydrogenase, cytosolic 1",Up
+Q8R0Z6,Angptl6,45.37,154.6,9.01E-03,Angiopoietin-related protein 6,Up
+B7STB7,Anxa1,79.47,120.5,9.27E-03,Annexin,Up
+A7YL62,Apoa2,75.3,124.73,1.72E-02,Apolipoprotein A-II,Up
+Q8VBT6,Apobr,77.6,122.4,5.71E-04,Apolipoprotein B receptor,Up
+P34928,Apoc1,77.37,122.63,1.01E-02,Apolipoprotein C-I,Up
+Q61268,Apoc4,79.1,120.9,4.51E-02,Apolipoprotein C-IV,Up
+P08226,Apoe,62.07,137.9,6.67E-04,Apolipoprotein E,Up
+Q01339,Apoh,74.63,125.37,8.21E-03,Beta-2-glycoprotein 1,Up
+Q3TZR9,Atf7,65.1,134.9,3.07E-02,Activating transcription factor 7,Up
+A0A338P7G3,Atp5o,72.77,127.23,1.18E-02,"ATP synthase, H+ transporting, mitochondrial F1 complex",Up
+Q64726,Azgp1,77.47,122.53,1.26E-03,Zinc-alpha-2-glycoprotein,Up
+P28653,Bgn,67,133,3.29E-03,Biglycan,Up
+Q3TAF9,Bgn,70.2,129.8,1.68E-02,Biglycan,Up
+S4R270,Bin2,74.03,126,6.40E-04,Bridging integrator 2,Up
+P07743,Bpifa2,46.13,153.87,1.39E-04,BPI fold-containing family A member 2,Up
+P98086,C1qa,55.83,144.17,2.16E-02,Complement C1q subcomponent subunit A,Up
+D3YZ61,C1qtnf3,72.63,127.37,2.51E-02,Complement C1q tumor necrosis factor-related protein 3,Up
+Q566I6,C1ra,74.47,125.5,1.82E-02,"Complement component 1, r subcomponent",Up
+B2RWX2,C4b,73.27,126.73,3.76E-04,Complement component 4B (Childo blood group),Up
+P08607,C4bpa,66.4,133.6,3.59E-04,C4b-binding protein,Up
+P06684,C5,60.37,139.67,5.79E-04,Complement C5,Up
+Q91X70,C6,66,134,3.72E-05,Complement component 6,Up
+D3YXF5,C7,58.27,141.73,2.38E-03,Complement component 7,Up
+A0A0R4J032,C9,65.8,134.2,1.47E-04,Complement component 9,Up
+P13634,Ca1,75,125,4.12E-03,Carbonic anhydrase 1,Up
+E9PYN1,Cadm1,61.63,138.4,7.14E-03,Cell adhesion molecule 1,Up
+Q8K354,Cbr3,79.87,120.13,1.38E-03,Carbonyl reductase [NADPH] 3,Up
+A2APM2,Cd44,78.87,121.13,3.27E-03,CD44 antigen,Up
+Q9QWK4,Cd5l,43.63,156.37,2.71E-03,CD5 antigen-like,Up
+A0A0R4J0G1,Ceacam10,36.1,163.9,7.26E-02,Carcinoembryonic antigen-related cell adhesion molecule 10,Up
+Q9Z0H4,Celf2,77.5,122.47,3.34E-03,CUGBP Elav-like family member 2,Up
+P23953,Ces1c,72.2,127.8,3.68E-05,Carboxylesterase 1C,Up
+E9Q8I0,Cfh,67.73,132.23,2.48E-04,Complement factor H,Up
+Q61406,Cfhr1,58.5,141.5,1.19E-04,Complement factor H-related 1,Up
+Q4LDF6,Cfhr2,63.77,136.23,2.15E-03,Complement factor H-related 2,Up
+P11680,Cfp,63.87,136.13,1.70E-04,Properdin,Up
+O35744,Chil3,67.67,132.37,7.06E-02,Chitinase-like protein 3,Up
+P60824,Cirbp,72.8,127.2,4.12E-02,Cold-inducible RNA-binding protein,Up
+Q549A5,Clu,56.37,143.63,1.87E-04,Clusterin,Up
+Q60847,Col12a1,72.93,127.03,1.72E-06,Collagen alpha-1(XII) chain,Up
+P28481,Col2a1,76.8,123.17,1.98E-02,Collagen alpha-1(II) chain,Up
+P02463,Col4a1,77.77,122.23,7.08E-03,Collagen alpha-1(IV) chain,Up
+Q9QZS0,Col4a3,79.13,120.87,6.04E-03,Collagen alpha-3(IV) chain,Up
+Q9QZR9,Col4a4,61.73,138.3,2.33E-03,Collagen alpha-4(IV) chain,Up
+Q63ZW6,Col4a5,45.27,154.7,1.30E-04,Col4a5 protein,Up
+B1AWB9,Col5a1,63.03,136.97,6.41E-02,"Collagen, type V, alpha 1",Up
+A0A087WS16,Col6a3,79.83,120.13,4.38E-02,"Collagen, type VI, alpha 3",Up
+E9Q6A6,Col6a6,73.87,126.07,2.92E-03,Collagen alpha-6(VI) chain,Up
+Q3T9L1,Coro1a,77.3,122.7,2.31E-04,Coronin,Up
+P97315,Csrp1,74.8,125.17,8.35E-02,Cysteine and glycine-rich protein 1,Up
+P97314,Csrp2,78.37,121.63,1.19E-02,Cysteine and glycine-rich protein 2,Up
+Q9CX80,Cygb,66.07,133.93,1.54E-05,Cytoglobin,Up
+P15392,Cyp2a4,60.23,139.73,6.36E-07,Cytochrome P450 2A4,Up
+Q91X75,Cyp2a5,44.77,155.27,1.87E-04,Cyp2a4 protein,Up
+P11714,Cyp2d9,78.23,121.73,6.02E-04,Cytochrome P450 2D9,Up
+Q91WL5,Cyp4a12a,69.6,130.4,1.75E-03,Cytochrome P450 4A12A,Up
+A2A974,Cyp4a12b,70.7,129.3,1.53E-06,"Cytochrome P450, family 4, subfamily a, polypeptide 12B",Up
+Q3TSV1,Dcn,77.1,122.93,5.51E-02,Decorin,Up
+Q80TN4,Dnajc16,77.97,122,9.41E-03,DnaJ homolog subfamily C member 16,Up
+Q14BW6,Dnase1,78.93,121.1,1.40E-02,Deoxyribonuclease,Up
+Q8BPB5,Efemp1,71.87,128.17,2.67E-03,EGF-containing fibulin-like extracellular matrix protein 1,Up
+Q3U3V1,F10,78.17,121.83,2.51E-04,Coagulation factor X,Up
+P16294,F9,73.2,126.77,1.00E-03,Coagulation factor IX,Up
+Q8K1B8,Fermt3,69.97,130,1.10E-02,Fermitin family homolog 3,Up
+Q6YJU2,Fetub,67.7,132.3,5.45E-04,GUGU alpha,Up
+Q543D7,Fhl2,78.5,121.5,1.05E-02,Four and a half LIM domains 2,Up
+A0A087WSN6,Fn1,79.73,120.23,2.14E-02,Fibronectin,Up
+A2AKB4,Frmpd1,74.97,125,8.27E-03,FERM and PDZ domain-containing protein 1,Up
+Q91XD4,Ftcd,72.77,127.23,1.38E-03,Formimidoyltransferase-cyclodeaminase,Up
+P29391,Ftl1,70.87,129.13,1.15E-02,Ferritin light chain 1,Up
+A2RSS9,Ghrl,71.17,128.87,7.07E-02,Ghrelin,Up
+B1AVU4,Gm14744,61.03,139,5.12E-02,Predicted gene 14744,Up
+E9Q035,Gm20425,76.07,123.9,1.35E-03,Predicted gene 20425,Up
+E9PUM5,Gm4788,79.33,120.67,4.03E-02,Predicted gene 4788,Up
+E9Q8B5,Gm4788,74.57,125.43,1.43E-03,Predicted gene 4788,Up
+Q5I0T9,Gnmt,69.1,130.87,3.88E-03,Glycine N-methyltransferase,Up
+Q8QZR5,Gpt,68.4,131.6,1.34E-05,Alanine aminotransferase 1,Up
+P46412,Gpx3,77.43,122.57,9.49E-03,Glutathione peroxidase 3,Up
+P30115,Gsta3,78.47,121.53,1.72E-04,Glutathione S-transferase A3,Up
+P48774,Gstm5,79.47,120.53,2.01E-02,Glutathione S-transferase Mu 5,Up
+Q64471,Gstt1,78.2,121.83,3.34E-03,Glutathione S-transferase theta-1,Up
+P01898,H2-Q10,79.83,120.17,5.21E-03,"H-2 class I histocompatibility antigen, Q10 alpha chain",Up
+Q9NYQ2,Hao2,75.8,124.17,1.06E-03,Hydroxyacid oxidase 2,Up
+A0A0E4B366,HC,29.57,170.43,8.43E-02,MAb 44B1 heavy chain,Up
+P70349,Hint1,79.17,120.87,9.40E-02,Histidine triad nucleotide-binding protein 1,Up
+P17095,Hmga1,68.27,131.73,1.77E-02,High mobility group protein HMG-I/HMG-Y,Up
+A2AQK4,Hnmt,76.27,123.7,2.05E-02,Histamine N-methyltransferase,Up
+Q61646,Hp,56.03,144,1.22E-02,Haptoglobin,Up
+P49429,Hpd,56.47,143.5,1.25E-03,4-hydroxyphenylpyruvate dioxygenase,Up
+Q91X72,Hpx,76.6,123.4,1.93E-03,Hemopexin,Up
+Q9R118,Htra1,50.17,149.83,5.93E-05,Serine protease HTRA1,Up
+Q9D236,Htra3,51.33,148.67,3.30E-03,Serine protease HTRA3,Up
+Q4FJY6,Ifit3,78.87,121.13,2.03E-03,Ifit3 protein,Up
+O88477,Igf2bp1,79.23,120.73,2.97E-02,Insulin-like growth factor 2 mRNA-binding protein 1,Up
+Q5F2I8,IgG1,35.17,164.83,4.73E-03,Gamma heavy chain variable region (Fragment),Up
+Q6PIP8,Igh,58.23,141.77,3.22E-02,Igh protein,Up
+Q80ZI7,Igh,37.53,162.47,3.66E-03,Igh protein,Up
+Q8K0Z4,Igh,45.17,154.8,1.92E-05,Igh protein,Up
+Q91Z05,Ighg,38.93,161.03,7.82E-03,Ighg protein,Up
+A0A1Y7VJN6,Ighg3,54.43,145.57,5.91E-02,Immunoglobulin heavy constant gamma 3,Up
+A0A075B5P6,Ighm,29.33,170.63,2.77E-02,Immunoglobulin heavy constant mu,Up
+A0A0A6YXN4,Ighv1-18,39.77,160.23,3.83E-03,Immunoglobulin heavy variable V1-18,Up
+A0A075B5V0,Ighv1-26,44.53,155.5,1.40E-02,Immunoglobulin heavy variable 1-26,Up
+A0A075B5V1,Ighv1-31,44.13,155.87,1.20E-03,Immunoglobulin heavy variable 1-31,Up
+A0A075B5W5,Ighv1-54,44.5,155.5,1.18E-02,Immunoglobulin heavy variable V1-54,Up
+X5J4V1,Ighv1-62,51.03,148.93,5.71E-02,IgA heavy chain VDJ region,Up
+A0A0G2JFE9,Ighv1-76,66.8,133.2,4.89E-02,Immunoglobulin heavy variable 1-76,Up
+A0A075B5Y4,Ighv1-81,26.6,173.4,1.07E-02,Immunoglobulin heavy variable 1-81,Up
+P18531,Ighv3-6,33.17,166.83,9.10E-02,Ig heavy chain V region 3-6,Up
+A0A075B5R5,Ighv4-1,56.7,143.3,5.10E-02,Immunoglobulin heavy variable 4-1,Up
+A0A0B4J1P4,Ighv5-16,65.03,135,5.62E-04,Immunoglobulin heavy variable 5-16,Up
+J3QK03,Ighv6-5,32.13,167.87,1.34E-02,Immunoglobulin heavy variable V6-5,Up
+A0A0A6YXQ0,Ighv8-8,42.33,157.67,5.51E-02,Immunoglobulin heavy variable 8-8,Up
+I6L958,Igk,73.93,126.07,2.23E-03,Igk protein,Up
+A2NHM3,Igkc,31.07,168.97,9.40E-04,If kappa light chain,Up
+A0A140T8M2,Igkv12-44,48.37,151.67,9.26E-03,Immunoglobulin kappa variable 12-44,Up
+P01633,Igkv19-17,57.5,142.53,3.27E-02,Ig kappa chain V19-17,Up
+A0A0B4J1I9,Igkv4-55,39.4,160.63,9.06E-02,Immunoglobulin kappa variable 4-55,Up
+A0A075B5M1,Igkv4-63,66.67,133.33,8.87E-02,Immunoglobulin kappa variable 4-63,Up
+A0A140T8M5,Igkv6-15,61.83,138.17,2.40E-02,Immunoglobulin kappa variable 6-15,Up
+A0A0G2JEI6,Igkv6-29,34.47,165.53,2.54E-02,Immunoglobulin kappa chain variable 6-29,Up
+A0A075B5K2,Igkv9-124,43.17,156.83,1.32E-02,Immunoglobulin kappa chain variable 9-124,Up
+Q7TMY7,Ipo8,79.63,120.37,2.98E-03,Importin-8,Up
+A6X935,Itih4,76.53,123.47,3.13E-03,"Inter alpha-trypsin inhibitor, heavy chain 4",Up
+P01592,Jchain,54.33,145.67,5.37E-05,Immunoglobulin J chain,Up
+A0A0R4J038,Kng1,69.57,130.47,5.89E-03,Kininogen-1,Up
+Q9D312,Krt20,76.07,123.93,1.40E-02,"Keratin, type I cytoskeletal 20",Up
+Q8BTY1,Kyat1,78.83,121.17,9.12E-04,Kynurenine--oxoglutarate transaminase 1,Up
+A2ARD6,Kynu,74.23,125.73,1.36E-03,Kynureninase,Up
+Q9Z175,Loxl3,71,129.03,4.41E-03,Lysyl oxidase homolog 3,Up
+Q91XL1,Lrg1,72.57,127.43,2.44E-02,Leucine-rich HEV glycoprotein,Up
+P19973,Lsp1,79.6,120.43,4.35E-03,Lymphocyte-specific protein 1,Up
+O08999,Ltbp2,65.87,134.1,1.03E-02,Latent-transforming growth factor beta-binding protein 2,Up
+P51885,Lum,74.5,125.53,1.22E-02,Lumican,Up
+O88188,Ly86,69.63,130.4,1.15E-02,Lymphocyte antigen 86,Up
+P08905,Lyz2,75.5,124.5,1.88E-03,Lysozyme C-2,Up
+P98064,Masp1,66.13,133.87,2.98E-02,Mannan-binding lectin serine protease 1,Up
+Q91WP0,Masp2,78.47,121.57,7.12E-03,Mannan-binding lectin serine protease 2,Up
+P39039,Mbl1,77.17,122.83,3.72E-04,Mannose-binding protein A,Up
+B0R0U1,Mettl8,79.07,120.93,1.31E-02,Methyltransferase-like protein,Up
+P21956,Mfge8,52.43,147.57,3.70E-02,Lactadherin,Up
+P19788,Mgp,68.57,131.4,4.03E-02,Matrix Gla protein,Up
+Q62000,Mim,70.87,129.13,8.95E-05,Mimecan,Up
+P0DOV1,Mnda,77.67,122.33,2.80E-05,Interferon-activable protein 205-B,Up
+P02802,Mt1,67.3,132.67,2.87E-02,Metallothionein-1,Up
+P02798,Mt2,58.53,141.5,1.80E-02,Metallothionein-2,Up
+Q9D8I1,Mzb1,25.2,174.83,5.01E-02,Marginal zone B- and B1-cell-specific protein,Up
+Q8R007,Nectin4,77.13,122.87,1.84E-02,Nectin-4,Up
+P19246,Nefh,77.53,122.5,1.23E-02,Neurofilament heavy polypeptide,Up
+Q61982,Notch3,77.5,122.5,1.39E-02,Neurogenic locus notch homolog protein 3,Up
+Q0VEM1,Ntn4,66.57,133.47,5.09E-05,Netrin 4,Up
+Q61205,Pafah1b3,73.97,126.03,3.96E-04,Platelet-activating factor acetylhydrolase IB subunit gamma,Up
+B7ZN28,Papln,79.2,120.8,3.29E-04,Papilin,Up
+Q3ULW8,Parp3,70.97,129,2.29E-04,Poly [ADP-ribose] polymerase,Up
+Q09098,Pate4,28.9,171.1,9.17E-03,Prostate and testis expressed protein 4,Up
+O88502,Pde8a,64.93,135.03,3.92E-02,"High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A",Up
+Q6P8R3,Pf4,63.87,136.13,1.11E-02,C-X-C motif chemokine,Up
+Q80TL4,Phf24,71.4,128.6,2.31E-04,PHD finger protein 24,Up
+O70570,Pigr,55.07,144.93,3.74E-06,Polymeric immunoglobulin receptor,Up
+P55065,Pltp,64.13,135.83,2.22E-02,Phospholipid transfer protein,Up
+Q7TQ62,Podn,72.9,127.1,4.32E-03,Podocan,Up
+Q9EQI5,Ppbp,57.33,142.63,5.82E-04,"Chemokine (C-X-C motif) ligand 7, isoform CRA_b",Up
+G3X981,Prph,76,124,1.92E-05,Peripherin,Up
+O35955,Psmb10,77.83,122.1,1.28E-02,Proteasome subunit beta type-10,Up
+Q8K426,Retnlg,73.9,126.1,5.91E-04,Resistin-like gamma,Up
+Q7TT28,Rexo1,78,121.97,1.66E-02,RNA exonuclease 1 homolog,Up
+Q32MD7,Rgs10,64.13,135.87,5.04E-04,Regulator of G-protein signalling 10,Up
+Q9JJC6,Rilpl1,79.9,120.13,2.64E-02,RILP-like protein 1,Up
+P59729,Rin3,77.2,122.83,1.11E-02,Ras and Rab interactor 3,Up
+E9Q7F2,Rnf169,77.5,122.5,2.67E-02,E3 ubiquitin-protein ligase RNF169,Up
+Q9CQR2,Rps21,77.23,122.77,3.41E-02,40S ribosomal protein S21,Up
+P62274,Rps29,54.43,145.53,3.09E-02,40S ribosomal protein S29,Up
+P07091,S100a4,70.07,129.93,1.98E-03,Protein S100-A4,Up
+A0A3B2WCG9,Scube3,67.57,132.4,4.67E-04,"Signal peptide, CUB and EGF-like domain-containing protein 3",Up
+O08992,Sdcbp,70.63,129.37,2.43E-03,Syntenin-1,Up
+A0A0R4J135,Selenbp2,76.67,123.3,1.05E-02,Selenium-binding protein 2,Up
+Q8R121,Serpina10,59.67,140.3,7.07E-03,Protein Z-dependent protease inhibitor,Up
+P49182,Serpind1,79.83,120.13,1.38E-03,Heparin cofactor 2,Up
+Q07235,Serpine2,76.37,123.67,2.78E-02,Glia-derived nexin,Up
+E9Q5F9,Setd2,77.33,122.67,2.29E-02,Histone-lysine N-methyltransferase SETD2,Up
+Q91VW3,Sh3bgrl3,73.6,126.4,3.02E-02,SH3 domain-binding glutamic acid-rich-like protein 3,Up
+A0A0R4J1V1,Slc39a14,73.57,126.43,3.76E-02,"Solute carrier family 39 (Zinc transporter), member 14, isoform CRA_a",Up
+Q5GQ64,Sncg,76.83,123.17,4.51E-02,Gamma-synuclein (Fragment),Up
+Q8K1I3,Spp2,67.13,132.87,5.54E-02,Secreted phosphoprotein 24,Up
+Q3UN54,Sslp1,48.33,151.7,2.31E-04,Secreted seminal-vesicle Ly-6 protein 1,Up
+B7ZNH4,Stk-ps2,65.57,134.4,2.78E-02,EG212225 protein,Up
+Q9D939,Sult1c2,74.33,125.7,5.46E-05,Sulfotransferase 1C2,Up
+E9PX96,Sva,44.43,155.57,2.17E-02,Seminal vesicle antigen,Up
+Q6WIZ7,Svs1,52.33,147.67,4.10E-02,Amine oxidase,Up
+F2Z472,Svs3a,45.87,154.13,1.91E-02,Seminal vesicle secretory protein 3A,Up
+P18419,Svs4,32.23,167.77,7.81E-02,Seminal vesicle secretory protein 4,Up
+P30933,Svs5,40.1,159.93,1.39E-02,Seminal vesicle secretory protein 5,Up
+P37804,Tagln,77.4,122.6,1.05E-03,Transgelin,Up
+Q9WVA4,Tagln2,79.4,120.57,7.23E-03,Transgelin-2,Up
+Q921I1,Tf,75.37,124.63,6.05E-03,Serotransferrin,Up
+A1L353,Tgfbi,65.33,134.63,9.87E-05,"Transforming growth factor, beta induced",Up
+Q923W1,Tgs1,79.23,120.77,9.13E-02,Trimethylguanosine synthase,Up
+Q80YQ1,Thbs1,64.07,135.93,3.50E-05,Thrombospondin-1,Up
+Q54AE5,Timp3,75.57,124.43,9.41E-05,"Brain cDNA, clone MNCb-5810, similar to Mus musculus tissue inhibitor of metalloproteinase 3 (Timp3), mRNA",Up
+P20065,Tmsb4x,75.03,124.97,5.37E-02,Thymosin beta-4,Up
+Q80YX1,Tnc,72.63,127.37,9.43E-03,Tenascin,Up
+O35452,Tnxb,78.7,121.27,1.43E-04,Tenascin X,Up
+A0A0R4J018,Tpmt,74,126.03,9.77E-03,Thiopurine S-methyltransferase,Up
+B7ZNI7,Treml1,68.73,131.3,1.22E-03,Treml1 protein,Up
+E9PY03,Tstd1,62.5,137.53,4.00E-02,Thiosulfate sulfurtransferase (rhodanese)-like domain-containing 1,Up
+P07309,Ttr,77.63,122.4,2.27E-02,Transthyretin,Up
+Q9QZM0,Ubqln2,67.6,132.4,3.58E-02,Ubiquilin-2,Up
+Q9R0P9,Uchl1,75.37,124.6,1.12E-03,Ubiquitin carboxyl-terminal hydrolase isozyme L1,Up
+Q91X17,Umod,53.47,146.53,5.20E-04,Uromodulin,Up
+P29788,Vtn,68.83,131.17,1.08E-04,Vitronectin,Up
+Q8K1I7,Wipf1,74,126.03,9.48E-03,WAS/WASL-interacting protein family member 1,Up
+E9Q444,Zbtb21,79.93,120.07,2.36E-02,Zinc finger and BTB domain-containing 21,Up
+Q91X58,Zfand2b,75.77,124.2,3.53E-02,AN1-type zinc finger protein 2B,Up
+P55096,Abcd3,118.63,81.33,2.97E-02,ATP-binding cassette sub-family D member 3,Down
+P45952,Acadm,118.63,81.37,8.94E-04,"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",Down
+A2AKK5,Acnat1,121.43,78.57,2.97E-02,Acyl-coenzyme A amino acid acyltransferase 1,Down
+Q8BWN8,Acot4,118.53,81.43,8.03E-03,Acyl-coenzyme A thioesterase 4,Down
+Q3U965,Acot8,120.17,79.83,7.62E-04,Acyl-CoA thioesterase 8,Down
+Q9R0H0,Acox1,123.23,76.77,9.13E-04,Peroxisomal acyl-coenzyme A oxidase 1,Down
+Q9QXD1,Acox2,130.23,69.77,1.90E-02,Peroxisomal acyl-coenzyme A oxidase 2,Down
+Q91VA0,Acsm1,118.97,81.03,1.09E-02,Acyl-coenzyme A synthetase ACSM1,Down
+D3Z0L8,Actn4,158.53,41.47,3.13E-02,Alpha-actinin-4 ,Down
+A2AL50,Agps,117.43,82.57,1.49E-02,Alkylglycerone-phosphate synthase,Down
+A0A1L1SQE2,Ahi1,128.83,71.2,3.17E-02,Jouberin,Down
+F7BP55,Ak2,133.6,66.4,2.82E-04,"Adenylate kinase 2, mitochondrial",Down
+Q8K023,Akr1c18,149.7,50.33,8.59E-04,Aldo-keto reductase family 1 member C18,Down
+O09174,Amacr,118,81.97,4.30E-04,Alpha-methylacyl-CoA racemase,Down
+D3YX85,Asap2,129.5,70.53,4.70E-02,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 2",Down
+Q6ZQ17,Atp11b,122.93,77.07,2.20E-02,Phospholipid-transporting ATPase ,Down
+G3UW46,Atp23,118.13,81.87,1.46E-04,Mitochondrial inner membrane protease ATP23,Down
+Q99L60,Atp6v1c2,119.57,80.47,5.62E-02,V-type proton ATPase subunit C 2,Down
+Q8BMC1,Atp6v1g3,121.33,78.63,1.23E-02,V-type proton ATPase subunit G 3,Down
+O08734,Bak1,118.43,81.57,3.89E-02,Bcl-2 homologous antagonist/killer,Down
+Q6QD59,Bnip1,119.03,80.97,4.31E-02,Vesicle transport protein SEC20,Down
+P12658,Calb1,124.07,75.93,1.94E-05,Calbindin,Down
+Q9DC50,Carn,138.47,61.57,5.89E-04,Peroxisomal carnitine,Down
+P24270,Cat,119.27,80.8,1.21E-02,Catalase,Down
+P60334,Cdo1,121.47,78.53,1.69E-03,Cysteine dioxygenase type 1,Down
+Q5FWI3,Cemip2,127.13,72.87,4.49E-02,Cell surface hyaluronidase,Down
+Q6PDB7,Ces2b,121.67,78.37,1.20E-02,Carboxylic ester hydrolase,Down
+D3YU39,Chpt1,139,61,3.33E-02,Cholinephosphotransferase 1,Down
+Q8VDH2,Cinp,155.53,44.47,3.96E-02,2810452K22Rik protein,Down
+Q99LI9,Clp1,132.13,67.87,3.28E-02,Polyribonucleotide 5'-hydroxyl-kinase Clp1,Down
+O35206,Col15a1,120.8,79.2,2.29E-03,Collagen alpha-1(XV) chain,Down
+B1AVH5,Coro2a,119.47,80.5,3.13E-02,Coronin,Down
+Q8K0C4,Cyp51a1,117.37,82.63,2.18E-02,Lanosterol 14-alpha demethylase,Down
+Q3UQE2,Defb1,123.7,76.3,3.05E-02,Defensin beta 1,Down
+Q8R0K9,E2f4,117.83,82.1,3.77E-02,Transcription factor E2F4,Down
+Q78JN3,Eci3,124.67,75.37,8.71E-08,"Enoyl-CoA delta isomerase 3, peroxisomal",Down
+Q9DBM2,Ehhadh,130.73,69.27,1.97E-04,Peroxisomal bifunctional enzyme,Down
+Q7TSV9,Enkd1,134.63,65.37,6.59E-03,Enkurin domain-containing protein 1,Down
+D0VYV6,Epb41l3,123.67,76.3,1.54E-02,Band 4.1-like protein 3,Down
+Q9QXB3,FBP1,132.83,67.1,2.72E-02,"Fructose-1,6-bisphosphatase (Fragment)",Down
+Q8BG80,Fbxo46,120.23,79.73,2.11E-02,F-box only protein 46,Down
+A2AFQ9,Gemin5,119.33,80.63,4.10E-02,Gem-associated protein 5,Down
+A0A1B0GRV7,Gm17949,128.83,71.13,3.91E-02,"Predicted gene, 17949",Down
+Q5U4C1,Gprasp1,187.8,12.23,4.67E-02,G-protein coupled receptor-associated sorting protein 1,Down
+Q9QXE0,Hacl1,117.83,82.13,4.17E-02,2-hydroxyacyl-CoA lyase 1,Down
+P43276,Hist1h1b,141.93,58.07,8.02E-03,Histone H1.5,Down
+P43274,Hist1h1e,117.8,82.2,3.19E-02,Histone H1.4,Down
+Q8CGP5,Hist1h2af,141.37,58.63,4.79E-02,Histone H2A type 1-F,Down
+Q6NSP9,Hmga2,154.87,45.1,1.36E-04,High mobility group protein HMGI-C,Down
+P51660,Hsd17b4,119.73,80.3,3.83E-04,Peroxisomal multifunctional enzyme type 2,Down
+Q9EQD6,K16,118.8,81.2,2.81E-02,Keratin intermediate filament 16a,Down
+O35738,Klf12,119.23,80.77,5.96E-02,Krueppel-like factor 12,Down
+P15947,Klk1,133.5,66.5,2.81E-03,Kallikrein-1,Down
+B2RTP7,Krt2,124.77,75.23,2.27E-02,Krt2 protein,Down
+Q32P04,Krt5,120.97,79.07,5.57E-02,Keratin 5,Down
+Q6NXH9,Krt73,132.5,67.53,2.17E-02,"Keratin, type II cytoskeletal 73",Down
+Q3UV17,Krt76,124.37,75.63,3.50E-02,"Keratin, type II cytoskeletal 2 oral",Down
+E9Q0F0,Krt78,134,66.03,3.33E-02,Keratin 78,Down
+Q8VED5,Krt79,125.87,74.13,2.95E-02,"Keratin, type II cytoskeletal 79",Down
+Q61789,Lama3,119.47,80.57,4.22E-02,Laminin subunit alpha-3,Down
+Q3U2W5,Lgals8,122.33,77.67,3.48E-02,Galectin ,Down
+Q9DBN5,Lonp2,123.23,76.73,7.83E-04,"Lon protease homolog 2, peroxisomal",Down
+G5E8Y2,Lrrcc1,155.87,44.17,3.42E-02,Leucine rich repeat and coiled-coil domain containing 1,Down
+A2CEL1,Mup1,124.73,75.3,3.48E-02,Major urinary protein 1,Down
+A2AKN8,Mup8,117.9,82.1,3.68E-02,Major urinary protein 5,Down
+F8VQL9,Ncor2,118.23,81.77,2.39E-02,Nuclear receptor corepressor 2,Down
+A0A2R8VHX1,Ndufa6,122.03,78,4.42E-02,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 ,Down
+E9Q8I7,Nfxl1,153.43,46.53,3.81E-02,"Nuclear transcription factor, X-box-binding-like 1",Down
+P11930,Nudt19,119.97,80.03,7.73E-04,Nucleoside diphosphate-linked moiety X motif 19,Down
+A0A0R4J0G5,Parpbp,125.37,74.63,2.55E-02,PCNA-interacting partner,Down
+Q8CI37,Pck1,121.83,78.2,4.91E-02,"Phosphoenolpyruvate carboxykinase 1, cytosolic",Down
+Q99MZ7,Pecr,118.63,81.37,2.26E-03,Peroxisomal trans-2-enoyl-CoA reductase,Down
+P0DJE0,Pet100,117.83,82.17,3.08E-02,"Protein PET100 homolog, mitochondrial",Down
+Q8R2H9,Phospho1,141.93,58.1,4.71E-02,Phosphoethanolamine/phosphocholine phosphatase,Down
+B2RPU2,Plekhd1,122.23,77.73,8.44E-04,Pleckstrin homology domain-containing family D member 1,Down
+Q62087,Pon3,119.27,80.77,1.09E-02,Serum paraoxonase/lactonase 3,Down
+Q8R3K3,Ptcd2,118.93,81.07,2.02E-02,"Pentatricopeptide repeat-containing protein 2, mitochondrial",Down
+P35831,Ptpn12,167.87,32.17,4.00E-02,Tyrosine-protein phosphatase non-receptor type 12,Down
+A0A2I3BPN8,Ralgapa2,118.03,81.97,3.20E-02,Ral GTPase-activating protein subunit alpha-2,Down
+A0A0A6YG7,Rapgef2,120.9,79.1,4.28E-02,Rap guanine nucleotide exchange factor 2,Down
+P35230,Reg3b,130.37,69.63,3.19E-04,Regenerating islet-derived protein 3-beta,Down
+Q545I1,Reg3g,119.4,80.57,1.45E-03,Regenerating islet-derived 3 gamma,Down
+P06281,Ren1,138.33,61.7,2.09E-02,Renin-1,Down
+G3UWX1,Rfc1,123.47,76.53,4.22E-02,Replication factor C subunit 1,Down
+Q5I0T8,Rpl19,122.67,77.3,3.31E-02,Ribosomal protein L19,Down
+Q6ZWV7,Rpl35,119.17,80.83,3.57E-02,60S ribosomal protein L35,Down
+P83882,Rpl36a,119.8,80.23,3.34E-02,60S ribosomal protein L36a,Down
+Q8K1J5,Sde2,125.43,74.57,4.70E-02,Replication stress response regulator SDE2,Down
+Q3U9N9,Slc16a10,131.13,68.87,5.20E-02,Monocarboxylate transporter 10,Down
+Q8VCA0,Slc22a19,136.63,63.37,3.12E-02,Solute carrier family 22 member 19,Down
+A0A0R4J122,Slc22a7,125.8,74.17,1.78E-02,Solute carrier family 22 member 7,Down
+B0LAB5,Slc25a5,152.77,47.23,4.05E-02,Solute carrier family 25 member 5 ,Down
+P14246,Slc2a2,120.1,79.87,4.09E-02,"Solute carrier family 2, facilitated glucose transporter member 2",Down
+P10852,Slc3a2,122.93,77.07,2.56E-02,4F2 cell-surface antigen heavy chain,Down
+O88343,Slc4a4,117.37,82.6,9.10E-03,Electrogenic sodium bicarbonate cotransporter 1,Down
+E9Q3M5,Slc4a5,122.53,77.43,7.53E-03,Anion exchange protein,Down
+Q9QXW9,Slc7a8,122.57,77.43,3.27E-02,Large neutral amino acids transporter small subunit 2,Down
+G3X9J1,Slc8a1,121.93,78.1,4.92E-02,Sodium/calcium exchanger 1,Down
+Q3V460,Smim26,119.9,80.07,5.17E-02,Gene model 561,Down
+Q69ZV4,Ssx2ip,122.67,77.37,5.98E-02,MKIAA0923 protein ,Down
+Q9D0I4,Stx17,124.63,75.4,4.37E-02,Syntaxin-17,Down
+E9PUP1,Syde2,149.8,50.17,2.43E-02,"Synapse defective 1, Rho GTPase ",Down
+F6SEU4,Syngap1,130.03,69.93,4.03E-02,Ras/Rap GTPase-activating protein SynGAP,Down
+A0A0R4J293,Tgm1,118.3,81.7,1.55E-05,Protein-glutamine gamma-glutamyltransferase K,Down
+Q7TSH8,Tmem94,129.27,70.73,3.77E-02,Transmembrane protein 94,Down
+A2ASS6,Ttn,125.67,74.33,4.08E-03,Titin,Down
+D5MR34,Tubb3,126.63,73.37,3.10E-02,Tubulin beta chain ,Down
+Q3TTF2,Ubxn8,124.7,75.3,4.65E-02,UBX domain-containing protein 8,Down
+B1AVD2,Xpnpep2,123.77,76.27,7.83E-03,Xaa-Pro aminopeptidase 2,Down
+Q9Z2C8,Ybx2,118.57,81.43,5.39E-04,Y-box-binding protein 2,Down
+Q0VGT4,Zgrf1,118.57,81.43,1.57E-02,Protein ZGRF1,Down

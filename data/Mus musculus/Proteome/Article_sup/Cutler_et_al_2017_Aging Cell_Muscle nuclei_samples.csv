@@ -1,0 +1,933 @@
+Supplemental Table 2:  Old vs young brain and muscle nuclei proteins,,,,
+Uniprot ID,Gene name,Protein name,log2 fold change,-log 10 t.test
+P43276,Hist1h1b,Histone H1.5,-2.185040182,2.061360548
+Q70IV5,Synm,Synemin,-2.117716218,1.855348854
+P05202,Got2,"Aspartate aminotransferase, mitochondrial",-2.046195949,1.250042952
+P11087,Col1a1,Collagen alpha-1(I) chain,-1.903939709,1.060652302
+A2AQB2,Neb,"Isoform of E9Q1W3, Protein Neb",-1.859884229,0.752206138
+Q64475,Hist1h2bb,Histone H2B type 1-B,-1.835167985,0.606635329
+P10854,Hist1h2bm,Histone H2B type 1-M,-1.813527781,1.029194661
+A0A0G2JDW2,Myl3,"Isoform of P09542, Myosin light chain 3",-1.77481269,0.836802269
+Q6PIC6,Atp1a3,Sodium/potassium-transporting ATPase subunit alpha-3,-1.728270929,1.714111999
+Q9D2U9,Hist3h2ba,Histone H2B type 3-A,-1.706162652,1.188510405
+P08249,Mdh2,"Malate dehydrogenase, mitochondrial",-1.696024713,0.731412201
+O54941,Smarce1,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1,-1.668354703,1.392956945
+E9Q1W3,Neb,Protein Neb,-1.646181501,0.660250224
+P21107,Tpm3,Tropomyosin alpha-3 chain,-1.604987744,0.955247967
+Q9QZ47,Tnnt3,"Troponin T, fast skeletal muscle",-1.573860236,0.943584681
+P63038,Hspd1,"60 kDa heat shock protein, mitochondrial",-1.562539578,0.78385343
+Q99KI0,Aco2,"Aconitate hydratase, mitochondrial",-1.535394262,0.795630867
+Q91XV3,Basp1,Brain acid soluble protein 1,-1.455200585,1.740080548
+P49813,Tmod1,Tropomodulin-1,-1.398270962,1.327859819
+Q8C494,Prr33,Proline-rich protein 33,-1.388443272,1.289728475
+Q9D6R2,Idh3a,"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",-1.381152538,1.446647679
+Q9D9P1,Chchd3,"Isoform of Q9CRB9, MICOS complex subunit Mic19",-1.313728206,1.010819536
+P47754,Capza2,F-actin-capping protein subunit alpha-2,-1.275662452,0.61413264
+P45591,Cfl2,Cofilin-2,-1.249735314,0.999126068
+P62242,Rps8,40S ribosomal protein S8,-1.24271056,1.412205291
+Q9QZ47,Tnnt3,"Troponin T, fast skeletal muscle",-1.226142417,0.857281743
+A2AUC9,Klhl41,Kelch-like protein 41,-1.222650417,1.497034871
+Q7TMM9,Tubb2a,Tubulin beta-2A chain,-1.218606082,0.996958899
+O70548,Tcap,Telethonin,-1.202315866,0.803358448
+P70333,Hnrnph2,Heterogeneous nuclear ribonucleoprotein H2,-1.158012994,0.938510146
+P08553,Nefm,Neurofilament medium polypeptide,-1.134560081,0.739512203
+P11031,Sub1,Activated RNA polymerase II transcriptional coactivator p15,-1.121717876,0.809115896
+Q01149,Col1a2,Collagen alpha-2(I) chain,-1.117348149,0.593012167
+P58774,Tpm2,Tropomyosin beta chain,-1.092357101,0.944252742
+Q3TJD7,Pdlim7,PDZ and LIM domain protein 7,-1.086788632,0.508420234
+Q9CQR2,Rps21,40S ribosomal protein S21,-1.086567606,1.241078316
+Q9ESU6,Brd4,Bromodomain-containing protein 4,-1.081613478,1.601124285
+Q8CHH9,8-Sep,Septin-8,-1.052383867,0.846479581
+G3UW82,Myh2,"MCG140437, isoform CRA_d",-1.052260161,0.478562391
+P68368,Tuba4a,Tubulin alpha-4A chain,-1.038412389,0.779333529
+Q5SX40,Myh1,Myosin-1,-1.038370204,0.567090806
+P13542,Myh8,Myosin-8,-1.010891299,0.928792977
+D3YU08,Synpo2l,"Isoform of Q8BWB1, Synaptopodin 2-like protein",-1.006584313,0.743191272
+Q9D7M8,Polr2d,DNA-directed RNA polymerase II subunit RPB4,-0.996693613,0.91049485
+Q9DB77,Uqcrc2,"Cytochrome b-c1 complex subunit 2, mitochondrial",-0.976141703,0.628958424
+P62627,Dynlrb1,Dynein light chain roadblock-type 1,-0.972264407,1.665206569
+Q3TWW8,Srsf6,Serine/arginine-rich splicing factor 6,-0.965790951,0.905042538
+Q5SFM8,Rbm27,RNA-binding protein 27,-0.961188052,1.241504015
+Q9DC77,Smpx,Small muscular protein,-0.955470528,1.199153569
+Q8BMS1,Hadha,"Trifunctional enzyme subunit alpha, mitochondrial",-0.953679797,1.256799019
+P14602,Hspb1,Heat shock protein beta-1,-0.952856279,1.010283279
+P51667,Myl2,"Myosin regulatory light chain 2, ventricular/cardiac muscle isoform",-0.948657426,0.386878716
+Q91VD9,Ndufs1,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",-0.943876988,1.062668541
+P62204,Calm1,Calmodulin,-0.93675334,0.358883517
+Q9JK37,Myoz1,Myozenin-1,-0.91481458,0.575080884
+E9Q3W4,Plec,"Isoform of Q9QXS1, Plectin",-0.909176718,0.738065852
+P05977,Myl1,"Myosin light chain 1/3, skeletal muscle isoform",-0.885101596,0.600316827
+E0CX65,Sirpa,"Isoform of P97797, Tyrosine-protein phosphatase non-receptor type substrate 1",-0.878305389,0.959039854
+Q8R4R6,Nup35,Nucleoporin NUP53,-0.875443282,0.389489397
+P50396,Gdi1,Rab GDP dissociation inhibitor alpha,-0.833810905,1.289677619
+P47757,Capzb,F-actin-capping protein subunit beta,-0.828241295,0.301977441
+Q9CPW7,Zmat2,Zinc finger matrin-type protein 2,-0.819409554,0.734557097
+P32848,Pvalb,Parvalbumin alpha,-0.816351162,0.602249379
+Q64433,Hspe1,"10 kDa heat shock protein, mitochondrial",-0.811302039,1.156357367
+P97457,Mylpf,"Myosin regulatory light chain 2, skeletal muscle isoform",-0.811176596,0.503853135
+Q9D6J6,Ndufv2,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial",-0.809732374,0.671351894
+Q501J6,Ddx17,Probable ATP-dependent RNA helicase DDX17,-0.807966857,0.391460676
+P19123,Tnnc1,"Troponin C, slow skeletal and cardiac muscles",-0.807646695,0.536173856
+S4R2F3,Ank2,"Isoform of Q8C8R3, Ankyrin-2",-0.806781897,1.004126148
+Q9D3R8,Ifitm7,"Isoform of G3X9Z2, Interferon induced transmembrane protein 7",-0.805374779,0.444484174
+B1AWE0,Clta,"Isoform of O08585, Clathrin light chain A",-0.803819998,0.530862995
+P15105,Glul,Glutamine synthetase,-0.79985698,0.6637597
+E9Q557,Dsp,Desmoplakin,-0.791776995,0.431558956
+Q9JKS4,Ldb3,LIM domain-binding protein 3,-0.790362905,0.681000112
+A0A023T672,RBM8,"Isoform of Q9CWZ3, RNA-binding protein 8A",-0.790237292,0.438585125
+P63101,Ywhaz,14-3-3 protein zeta/delta,-0.786715988,0.454580797
+P58771,Tpm1,Tropomyosin alpha-1 chain,-0.778837032,0.538895153
+A2AAJ9,Obscn,Obscurin,-0.776808596,0.642566015
+P13412,Tnni2,"Troponin I, fast skeletal muscle",-0.771516845,0.51413821
+A2AFJ1,Rbbp7,"Isoform of Q60973, Histone-binding protein RBBP7",-0.769403667,0.345237498
+Q8R326,Pspc1,Paraspeckle component 1,-0.749798852,0.506637049
+Q9D1R9,Rpl34,60S ribosomal protein L34,-0.747474078,0.565417316
+B7ZNL3,Tpm1,"Isoform of P58771, Tpm1 protein",-0.746310663,0.35954698
+P63213,Gng2,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2,-0.741045162,1.338446039
+P51637,Cav3,Caveolin-3,-0.733225222,1.807401758
+Q9D554,Sf3a3,Splicing factor 3A subunit 3,-0.729251619,0.383328016
+Q8K4Z5,Sf3a1,Splicing factor 3A subunit 1,-0.7284813,0.565101897
+O88990,Actn3,Alpha-actinin-3,-0.727650259,0.407238256
+P11499,Hsp90ab1,Heat shock protein HSP 90-beta,-0.72699478,0.592856952
+Q91Z83,Myh7,Myosin-7,-0.726406924,0.353980746
+A2A6J0,Tnnt3,"Isoform of Q9QZ47, Troponin T, fast skeletal muscle",-0.717597109,1.136032105
+Q9JKN6,Nova1,RNA-binding protein Nova-1,-0.716172873,1.279615436
+P62754,Rps6,40S ribosomal protein S6,-0.713181084,0.371830464
+Q91VC3,Eif4a3,Eukaryotic initiation factor 4A-III,-0.708565425,0.275524477
+P61327,Magoh,Protein mago nashi homolog,-0.700357689,1.196908568
+Q8BFZ3,Actbl2,Beta-actin-like protein 2,-0.697986495,0.239549061
+P04370,Mbp,Myelin basic protein,-0.697718559,0.553729126
+A0A087WNS0,Rpl3,"Isoform of P27659, 60S ribosomal protein L3",-0.692327605,0.259005416
+P35486,Pdha1,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",-0.688383271,0.537687518
+Q8BMF4,Dlat,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",-0.683923863,0.435831717
+P20801,Tnnc2,"Troponin C, skeletal muscle",-0.677865849,0.408200848
+Z4YJF5,Myom1,"Isoform of Q62234, Myomesin-1",-0.676194105,0.483724245
+P62259,Ywhae,14-3-3 protein epsilon,-0.666596957,0.42136576
+Q5SX39,Myh4,Myosin-4,-0.66268797,0.347528791
+Q923T9,Camk2g,Calcium/calmodulin-dependent protein kinase type II subunit gamma,-0.650156892,0.560955899
+Q9DCJ5,Ndufa8,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8,-0.644174133,0.235374398
+Q60605,Myl6,Myosin light polypeptide 6,-0.635636697,0.476094562
+Q64324,Stxbp2,Syntaxin-binding protein 2,-0.626316262,0.412357013
+Q8C854,Myef2,Myelin expression factor 2,-0.626251876,0.389844774
+Q9CQC7,Ndufb4,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4,-0.616749009,0.264425096
+Q60932,Vdac1,Voltage-dependent anion-selective channel protein 1,-0.597616305,0.356425793
+P63163,Snrpn,Small nuclear ribonucleoprotein-associated protein N,-0.593173948,0.615986757
+Q91YE8,Synpo2,Synaptopodin-2,-0.59254964,0.286654371
+P56135,Atp5j2,"ATP synthase subunit f, mitochondrial",-0.583473726,0.264654599
+Q8VBT3,Oscar,Osteoclast-associated immunoglobulin-like receptor,-0.582942313,0.22721878
+Q9CZ13,Uqcrc1,"Cytochrome b-c1 complex subunit 1, mitochondrial",-0.582175048,0.28240245
+P62082,Rps7,40S ribosomal protein S7,-0.578825899,0.321904262
+Q80WS3,Fbll1,rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1,-0.573254524,0.572318742
+P12787,Cox5a,"Cytochrome c oxidase subunit 5A, mitochondrial",-0.572754016,0.440705321
+Q9D051,Pdhb,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",-0.567421084,0.22939537
+Q14BI5,Myom2,Myomesin 2,-0.565251336,0.366468558
+P19783,Cox4i1,"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial",-0.553547125,0.184843141
+Q9CRB2,Nhp2,H/ACA ribonucleoprotein complex subunit 2,-0.548823562,0.831090818
+Q7TQ48,Srl,Sarcalumenin,-0.540850857,0.194787901
+Q8BTV2,Cpsf7,Cleavage and polyadenylation specificity factor subunit 7,-0.534854798,0.177982464
+O35691,Pnn,Pinin,-0.533220093,0.336846103
+Q04447,Ckb,Creatine kinase B-type,-0.528022063,0.363118839
+Q6PDG5,Smarcc2,SWI/SNF complex subunit SMARCC2,-0.517278859,0.209414833
+P62855,Rps26,40S ribosomal protein S26,-0.506267922,0.691688179
+E9QP59,Lemd3,"Isoform of Q9WU40, Inner nuclear membrane protein Man1",-0.498666947,0.296044333
+Q9EQS3,Mycbp,C-Myc-binding protein,-0.496839295,0.255850047
+Q61029,Tmpo,"Lamina-associated polypeptide 2, isoforms beta/delta/epsilon/gamma",-0.495444388,0.515797943
+Q9D3D9,Atp5d,"ATP synthase subunit delta, mitochondrial",-0.495202069,0.324628315
+Q7TMY4,Thoc7,THO complex subunit 7 homolog,-0.494953071,0.264916277
+Q9JHY4,Wfdc15b,WAP four-disulfide core domain protein 15B,-0.494612227,0.300513589
+Q2NKI4,Prkcg,"Isoform of P63318, Protein kinase C",-0.490571475,0.365063744
+P97315,Csrp1,Cysteine and glycine-rich protein 1,-0.486552197,0.399483443
+Q9R059,Fhl3,Four and a half LIM domains protein 3,-0.480543056,0.42625715
+Q9JI91,Actn2,Alpha-actinin-2,-0.473889009,0.146698667
+Q9QWF0,Chaf1a,Chromatin assembly factor 1 subunit A,-0.471582202,0.089909973
+P19536,Cox5b,"Cytochrome c oxidase subunit 5B, mitochondrial",-0.466861221,0.222569792
+Q9JJW5,Myoz2,Myozenin-2,-0.465164369,0.273846655
+D3YZ62,Myo5a,"Isoform of Q99104, Unconventional myosin-Va",-0.461001431,0.50337769
+Q9Z1P6,Ndufa7,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7,-0.459710443,0.285863906
+Q6ZPZ3,Zc3h4,Zinc finger CCCH domain-containing protein 4,-0.458077847,0.474925249
+P09405,Ncl,Nucleolin,-0.455981406,0.17819571
+P10126,Eef1a1,Elongation factor 1-alpha 1,-0.454402542,0.292889981
+A2ABU4,Myom3,Myomesin-3,-0.45403345,0.390461799
+P17742,Ppia,Peptidyl-prolyl cis-trans isomerase A,-0.451833606,0.454750507
+Q60596,Xrcc1,DNA repair protein XRCC1,-0.439032925,0.226640698
+P68134,Acta1,"Actin, alpha skeletal muscle",-0.438153948,0.407094422
+Q8BFR5,Tufm,"Elongation factor Tu, mitochondrial",-0.428336573,0.222211386
+E9QPE7,Myh11,"Isoform of O08638, Myosin-11",-0.424863675,0.472159944
+P46660,Ina,Alpha-internexin,-0.420608015,0.447836337
+Q9CWL8,Ctnnbl1,Beta-catenin-like protein 1,-0.419764774,0.445222766
+P10711,Tcea1,Transcription elongation factor A protein 1,-0.411130035,0.284021704
+Q9Z2Q6,5-Sep,Septin-5,-0.410732305,0.557025209
+Q921I9,Exosc4,Exosome complex component RRP41,-0.407049018,0.263228828
+P59708,Sf3b6,Splicing factor 3B subunit 6,-0.399717975,0.141145234
+P97868,Rbbp6,E3 ubiquitin-protein ligase RBBP6,-0.389982127,0.513209322
+Q8CH18,Ccar1,Cell division cycle and apoptosis regulator protein 1,-0.388756985,0.210826752
+Q8C845,Efhd2,"Isoform of Q9D8Y0, EF-hand domain-containing protein D2",-0.387423109,0.439298943
+P17095,Hmga1,High mobility group protein HMG-I/HMG-Y,-0.381712896,0.157024615
+P26369,U2af2,Splicing factor U2AF 65 kDa subunit,-0.381232484,0.282011953
+O08553,Dpysl2,Dihydropyrimidinase-related protein 2,-0.380303976,0.307896354
+Q91ZZ3,Sncb,Beta-synuclein,-0.378608493,0.511419768
+O54724,Ptrf,Polymerase I and transcript release factor,-0.37279952,0.161718399
+P68372,Tubb4b,Tubulin beta-4B chain,-0.369676493,0.238393071
+E9Q1G8,7-Sep,"Isoform of O55131, Septin-7",-0.368328524,0.170065527
+P70288,Hdac2,Histone deacetylase 2,-0.361572537,0.451096848
+P56480,Atp5b,"ATP synthase subunit beta, mitochondrial",-0.361213599,0.352916666
+Q6NZF1,Zc3h11a,Zinc finger CCCH domain-containing protein 11A,-0.361051293,0.215046185
+E9PZB4,Tnnt1,"Isoform of O88346, Troponin T, slow skeletal muscle",-0.356401633,0.325164016
+P60202,Plp1,Myelin proteolipid protein,-0.355983564,0.145238469
+Q8BFZ9,Erlin2,Erlin-2,-0.355201618,0.436100945
+Q03265,Atp5a1,"ATP synthase subunit alpha, mitochondrial",-0.355176898,0.128281537
+P62874,Gnb1,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1,-0.355025098,0.443457118
+A2A6I3,Tnnt3,"Isoform of Q9QZ47, Troponin T, fast skeletal muscle",-0.353225209,0.093221426
+Q9JLV1,Bag3,BAG family molecular chaperone regulator 3,-0.345207072,0.509013429
+A0A0A6YVU8,Gm9774,MCG119397,-0.340689877,0.208295138
+P83917,Cbx1,Chromobox protein homolog 1,-0.339697495,0.253945316
+Q9Z1X4,Ilf3,Interleukin enhancer-binding factor 3,-0.334250836,0.111395282
+A2AUM6,Srp14,"Isoform of P16254, Signal recognition particle 14 kDa protein",-0.333294155,0.211318292
+Q6A068,Cdc5l,Cell division cycle 5-like protein,-0.332812548,0.224286533
+B1ASE2,Atp5h,"Isoform of Q9DCX2, ATP synthase subunit d, mitochondrial",-0.33009832,0.151270042
+Q68FD5,Cltc,Clathrin heavy chain 1,-0.328100449,0.453031889
+P62751,Rpl23a,60S ribosomal protein L23a,-0.326841602,0.139934743
+P06837,Gap43,Neuromodulin,-0.325989942,0.827287573
+P11798,Camk2a,Calcium/calmodulin-dependent protein kinase type II subunit alpha,-0.323413934,0.160064335
+Q3U4F0,Sfxn3,"Isoform of Q91V61, Sideroflexin-3",-0.32236725,0.363849289
+P97450,Atp5j,"ATP synthase-coupling factor 6, mitochondrial",-0.317874562,0.210494259
+Q9CQS8,Sec61b,Protein transport protein Sec61 subunit beta,-0.31460469,0.154571504
+Q7TQD2,Tppp,Tubulin polymerization-promoting protein,-0.311129047,0.117989749
+D3Z0M9,Ddx23,"MCG18410, isoform CRA_a",-0.310063463,0.207843739
+Q8C570,Rae1,mRNA export factor,-0.307489271,0.13849895
+G3UXF3,Cct4,"Isoform of P80315, T-complex protein 1 subunit delta",-0.303260714,0.780403549
+Q91VR8,Brk1,Protein BRICK1,-0.300263196,0.269192116
+O88935,Syn1,Synapsin-1,-0.294607474,0.265622222
+P52480,Pkm,Pyruvate kinase PKM,-0.288750881,0.215872904
+S4R2L4,Rsrc2,"Isoform of A2RTL5, Arginine/serine-rich coiled-coil protein 2",-0.28836293,0.245527862
+Q3UEB3,Puf60,Poly(U)-binding-splicing factor PUF60,-0.287939818,0.237247149
+A2A9S2,Elavl4,"Isoform of Q61701, ELAV-like protein",-0.287319339,0.38117785
+J3QQ16,Col6a3,"Isoform of E9PWQ3, Protein Col6a3",-0.28627695,0.281385018
+Q06185,Atp5i,"ATP synthase subunit e, mitochondrial",-0.284382595,0.278735815
+Q922F4,Tubb6,Tubulin beta-6 chain,-0.281309769,0.318857111
+Q91VA7,Idh3b,"Isocitrate dehydrogenase [NAD] subunit, mitochondrial",-0.279415213,0.293787249
+P27773,Pdia3,Protein disulfide-isomerase A3,-0.278132177,0.176189002
+Z4YKF8,Tnnt3,"Isoform of Q9QZ47, Troponin T, fast skeletal muscle",-0.276513699,0.230950945
+G5E8G0,Hnrnpd,"Isoform of Q60668, Heterogeneous nuclear ribonucleoprotein D, isoform CRA_b",-0.264215417,0.41407731
+Q3UJB0,Sf3b2,Protein Sf3b2,-0.261829988,0.118580936
+B0V2N8,Anxa2,"Isoform of P07356, Annexin",-0.255578916,0.263367531
+Q9JMD0,Znf207,BUB3-interacting and GLEBS motif-containing protein ZNF207,-0.253478802,0.231197355
+A2AJ72,Fubp3,"Isoform of Q3TIX6, MCG130458",-0.253115498,0.309317206
+I7HIF3,Atp1b2,"Isoform of P14231, ATPase, Na+/K+ transporting, beta 2 polypeptide",-0.252084911,0.230457432
+P11531,Dmd,Dystrophin,-0.248937459,0.434212518
+P50518,Atp6v1e1,V-type proton ATPase subunit E 1,-0.247631996,0.149671434
+O08599,Stxbp1,Syntaxin-binding protein 1,-0.246857834,0.193805629
+O54962,Banf1,Barrier-to-autointegration factor,-0.243933408,0.110714032
+Q7TMF3,Ndufa12,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12,-0.241982828,0.190335304
+A0A087WQF8,Ktn1,"Isoform of Q61595, Kinectin",-0.241021056,0.208926769
+Q8VC60,Glb1l,Beta-galactosidase-1-like protein,-0.24093034,0.073669972
+Q9CPP6,Ndufa5,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,-0.239988535,0.239665709
+E9Q805,Farp1,"Isoform of F8VPU2, FERM, RhoGEF and pleckstrin domain-containing protein 1",-0.239835476,0.165042326
+P38647,Hspa9,"Stress-70 protein, mitochondrial",-0.238665225,0.251604821
+P31001,Des,Desmin,-0.236858825,0.283310239
+Q8BW22,Ss18l1,Calcium-responsive transactivator,-0.234978834,0.126837824
+P04370,Mbp,Myelin basic protein,-0.234950394,0.166561935
+P56379,Mp68,6.8 kDa mitochondrial proteolipid,-0.234067186,0.10689378
+Q8BJ71,Nup93,Nuclear pore complex protein Nup93,-0.230544089,0.173977148
+E9Q507,Gon4l,"Isoform of Q9DB00, GON-4-like protein",-0.229968756,0.218022941
+Q9CY58,Serbp1,Plasminogen activator inhibitor 1 RNA-binding protein,-0.227767459,0.159748191
+Q61495,Dsg1a,Desmoglein-1-alpha,-0.22680255,0.214456579
+P16546,Sptan1,"Spectrin alpha chain, non-erythrocytic 1",-0.225335722,0.252465474
+Q3UKJ7,Smu1,WD40 repeat-containing protein SMU1,-0.224643317,0.184514645
+Q91XU0,Wrnip1,ATPase WRNIP1,-0.221208516,0.175000132
+P18760,Cfl1,Cofilin-1,-0.219575785,0.055129517
+Q9DAW6,Prpf4,U4/U6 small nuclear ribonucleoprotein Prp4,-0.216011924,0.1393261
+Q61361,Bcan,Brevican core protein,-0.214238354,0.097124186
+D3YU50,Mybpc1,Protein Mybpc1,-0.212537467,0.205621561
+Q3UB74,Tbrg1,Transforming growth factor beta regulator 1,-0.211346881,0.227276851
+E9Q8K5,Ttn,"Isoform of A2ASS6, Titin",-0.210306158,0.070845423
+P62137,Ppp1ca,Serine/threonine-protein phosphatase PP1-alpha catalytic subunit,-0.208075673,0.21259643
+P12970,Rpl7a,60S ribosomal protein L7a,-0.206550435,0.16123874
+G5E8J6,Hrc,"Histidine rich calcium binding protein, isoform CRA_a",-0.204283692,0.059220583
+P20065,Tmsb4x,Thymosin beta-4,-0.203377582,0.217442596
+P43024,Cox6a1,"Cytochrome c oxidase subunit 6A1, mitochondrial",-0.200850387,0.076187153
+P60867,Rps20,40S ribosomal protein S20,-0.195672124,0.094335542
+Q60597,Ogdh,"2-oxoglutarate dehydrogenase, mitochondrial",-0.192626809,0.146118151
+Q61164,Ctcf,Transcriptional repressor CTCF,-0.19199467,0.252786517
+Q8CI43,Myl6b,Myosin light chain 6B,-0.191267529,0.156877151
+P17182,Eno1,Alpha-enolase,-0.19112757,0.078134993
+G3UXT7,Fus,"Isoform of P56959, RNA-binding protein FUS",-0.190811763,0.199276275
+P63017,Hspa8,Heat shock cognate 71 kDa protein,-0.188596266,0.123666693
+D3Z1T4,Gnb2,"Isoform of P62880, Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2",-0.185599302,0.072188164
+A0A0A6YXQ7,Prdx6,"Isoform of O08709, Peroxiredoxin-6",-0.182066962,0.11877301
+E9Q317,Gm10094,"Isoform of O55128, Histone deacetylase complex subunit SAP18",-0.175593932,0.071375722
+O55022,Pgrmc1,Membrane-associated progesterone receptor component 1,-0.172391774,0.18228705
+Q8CC35,Synpo,Synaptopodin,-0.171238918,0.143561574
+Q8BL66,Eea1,Early endosome antigen 1,-0.170970772,0.147762036
+Q99JF8,Psip1,PC4 and SFRS1-interacting protein,-0.16991976,0.149659629
+Q0P678,Zc3h18,Zinc finger CCCH domain-containing protein 18,-0.16915175,0.202477033
+Q62347,Creb1,"Isoform of Q01147, Cyclic AMP-responsive element-binding protein 1",-0.167826648,0.094777429
+Q9CPQ1,Cox6c,Cytochrome c oxidase subunit 6C,-0.167684033,0.102509607
+Q5RL57,Akap8l,"Isoform of Q9R0L7, A kinase (PRKA) anchor protein 8-like",-0.165762789,0.121723406
+Q91Z31,Ptbp2,Polypyrimidine tract-binding protein 2,-0.163547038,0.071184641
+Q9JJZ2,Tuba8,Tubulin alpha-8 chain,-0.159848107,0.185780562
+Q99M28,Rnps1,RNA-binding protein with serine-rich domain 1,-0.157094222,0.043903656
+O89104,Sypl2,Synaptophysin-like protein 2,-0.155527342,0.097198032
+Q99KP6,Prpf19,Pre-mRNA-processing factor 19,-0.149390199,0.025711072
+P63260,Actg1,"Actin, cytoplasmic 2",-0.148276823,0.060761182
+G3UVV4,Hk1,"Isoform of P17710, Hexokinase",-0.148090794,0.156956115
+Q9CQX8,Mrps36,"28S ribosomal protein S36, mitochondrial",-0.148002383,0.107060777
+P39053,Dnm1,Dynamin-1,-0.146628469,0.07830736
+Q01853,Vcp,Transitional endoplasmic reticulum ATPase,-0.144324952,0.19866574
+Q00547,Hmmr,Hyaluronan mediated motility receptor,-0.143129484,0.112605299
+E9QAY6,Immt,"Isoform of Q8CAQ8, MICOS complex subunit Mic60",-0.142992205,0.132041819
+G5E8R0,Tpm1,"Isoform of P58771, Tropomyosin 1, alpha, isoform CRA_i",-0.141583189,0.094570401
+Q9JLC6,Tef,Thyrotroph embryonic factor,-0.137252247,0.120848471
+P61264,Stx1b,Syntaxin-1B,-0.135779185,0.123641858
+Q91XL9,Osbpl1a,Oxysterol-binding protein-related protein 1,-0.129037218,0.117109827
+Q8CIE6,Copa,Coatomer subunit alpha,-0.127769338,0.171460277
+P14152,Mdh1,"Malate dehydrogenase, cytoplasmic",-0.127226934,0.07779603
+B1AR28,Acadvl,"Isoform of P50544, Very long-chain-specific acyl-CoA dehydrogenase, mitochondrial",-0.12414057,0.138770007
+Q9DCC5,Cbx3,"Isoform of P23198, Cbx3 protein",-0.121822965,0.069975741
+Q7TN99,Cpeb3,Cytoplasmic polyadenylation element-binding protein 3,-0.120835903,0.130090395
+Q8CBW3,Abi1,Abl interactor 1,-0.118697578,0.11105345
+O88737,Bsn,Protein bassoon,-0.116918478,0.123418166
+Q9D824,Fip1l1,Pre-mRNA 3'-end-processing factor FIP1,-0.113086292,0.066555977
+P43275,Hist1h1a,Histone H1.1,-0.112405122,0.049625874
+P62889,Rpl30,60S ribosomal protein L30,-0.110961416,0.058230012
+Q6NZN0,Rbm26,RNA-binding protein 26,-0.105211924,0.072049393
+A2A6H1,Lasp1,"Isoform of Q61792, LIM and SH3 domain protein 1",-0.104312783,0.103642967
+Q29ZQ5,Mog,"Isoform of Q61885, Myelin-oligodendrocyte glycoprotein",-0.104094305,0.081287302
+Q8K2B3,Sdha,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",-0.103399278,0.098512804
+E9Q7G0,Numa1,Protein Numa1,-0.101370592,0.01591049
+P63044,Vamp2,Vesicle-associated membrane protein 2,-0.09662005,0.05508759
+P05063,Aldoc,Fructose-bisphosphate aldolase C,-0.095205425,0.072537481
+F6V9F1,Pcmt1,"Isoform of P23506, Protein-L-isoaspartate O-methyltransferase",-0.094728181,0.136798575
+P26883,Fkbp1a,Peptidyl-prolyl cis-trans isomerase FKBP1A,-0.093475569,0.144892716
+E9PXC0,Srp54c,"Isoform of P14576, Protein Srp54b",-0.093082377,0.119310301
+P14115,Rpl27a,60S ribosomal protein L27a,-0.093072743,0.076086751
+Q5SU73,Coil,Coilin,-0.085891009,0.08371605
+Q9D1M4,Eef1e1,Eukaryotic translation elongation factor 1 epsilon-1,-0.085665504,0.100423853
+P97351,Rps3a,40S ribosomal protein S3a,-0.08544816,0.051542971
+Q61142,Spin1,Spindlin-1,-0.084189259,0.113206649
+B1ARA3,Rpl26,"Isoform of P61255, 60S ribosomal protein L26",-0.083915384,0.015961001
+Q9CQ75,Ndufa2,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2,-0.079320238,0.069713074
+Q8JZX4,Rbm17,Splicing factor 45,-0.079313678,0.022689839
+Q8CCK0,H2afy2,Core histone macro-H2A.2,-0.076519755,0.028851488
+P07310,Ckm,Creatine kinase M-type,-0.075662396,0.037132559
+Q9Z130,Hnrnpdl,Heterogeneous nuclear ribonucleoprotein D-like,-0.071195255,0.031481286
+Q9JIF9,Myot,Myotilin,-0.070968503,0.031946185
+Q8BL97,Srsf7,Serine/arginine-rich splicing factor 7,-0.070817362,0.016518794
+P68033,Actc1,"Actin, alpha cardiac muscle 1",-0.070364369,0.062266801
+G5E883,Snrpa1,"Isoform of P57784, Small nuclear ribonucleoprotein polypeptide A', isoform CRA_a",-0.063728574,0.038681962
+A0A087WSI9,Snap91,"Isoform of Q61548, Clathrin coat assembly protein AP180",-0.062784609,0.039289477
+Q9D8N0,Eef1g,Elongation factor 1-gamma,-0.060792007,0.099355592
+Q9CWZ7,Napg,Gamma-soluble NSF attachment protein,-0.060782037,0.006368161
+Q04857,Col6a1,Collagen alpha-1(VI) chain,-0.060539246,0.043219891
+Q61686,Cbx5,Chromobox protein homolog 5,-0.059555364,0.062261834
+Q8K021,Scamp1,Secretory carrier-associated membrane protein 1,-0.058855364,0.05316217
+P20152,Vim,Vimentin,-0.058341304,0.052882202
+Q8BVY0,Rsl1d1,Ribosomal L1 domain-containing protein 1,-0.055350449,0.021790443
+Q99LT0,Dpy30,Protein dpy-30 homolog,-0.053119302,0.026066815
+A0A0A6YWP6,Atp6v1h,"Isoform of Q8BVE3, V-type proton ATPase subunit H",-0.053059024,0.050667154
+Q3TML0,Pdia6,"Isoform of Q922R8, Protein disulfide-isomerase A6",-0.050098335,0.022126104
+D3YVX1,Ggt1,"Isoform of Q60928, Gamma-glutamyltranspeptidase 1",-0.049263864,0.039478338
+P84086,Cplx2,Complexin-2,-0.049123649,0.031629516
+Q6P9Z1,Smarcd3,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3,-0.048794577,0.006128589
+Q5NCR9,Nsrp1,Nuclear speckle splicing regulatory protein 1,-0.0484583,0.041599249
+K3W4M2,Ryr1,"Isoform of E9PZQ0, Ryanodine receptor 1",-0.044605651,0.023563445
+Q9DB20,Atp5o,"ATP synthase subunit O, mitochondrial",-0.044263936,0.029299702
+Q9EQY0,Ern1,Serine/threonine-protein kinase/endoribonuclease IRE1,-0.043562027,0.050882817
+A2ACZ1,Ebna1bp2,"Isoform of Q9D903, Probable rRNA-processing protein EBP2",-0.042830531,0.030644796
+A2ASS6,Ttn,Titin,-0.041682685,0.038497655
+P09103,P4hb,Protein disulfide-isomerase,-0.041184824,0.037811852
+D6RGU9,Ubxn2a,"Isoform of Q99KJ0, UBX domain containing 4, isoform CRA_d",-0.039120196,0.033046538
+P62900,Rpl31,60S ribosomal protein L31,-0.038984753,0.025140811
+Q61602,Gli3,Transcriptional activator GLI3,-0.038402189,0.013861609
+O08749,Dld,"Dihydrolipoyl dehydrogenase, mitochondrial",-0.038339015,0.029598879
+Q3UDD3,Poldip3,"Isoform of Q8BG81, Polymerase delta-interacting protein 3",-0.037763751,0.014966754
+Q0VBL3,Rbm15,Protein Rbm15,-0.036415802,0.017584994
+Q63912,Omg,Oligodendrocyte-myelin glycoprotein,-0.035404806,0.061891942
+Q64332,Syn2,Synapsin-2,-0.034575225,0.021369277
+P62305,Snrpe,Small nuclear ribonucleoprotein E,-0.032190801,0.012844268
+P60710,Actb,"Actin, cytoplasmic 1",-0.028592431,0.024086182
+P09411,Pgk1,Phosphoglycerate kinase 1,-0.025045162,0.034654372
+P62918,Rpl8,60S ribosomal protein L8,-0.023382482,0.010242802
+Q8VEM8,Slc25a3,"Phosphate carrier protein, mitochondrial",-0.023045212,0.022870671
+Q6ZWZ6,Rps12,"Isoform of P63323, 40S ribosomal protein S12",-0.015741277,0.013424376
+O08784,Tcof1,Treacle protein,-0.010812438,0.004701396
+A0A087WRG2,U2surp,"Isoform of Q6NV83, U2 snRNP-associated SURP motif-containing protein",-0.008885322,0.002469165
+P97379,G3bp2,Ras GTPase-activating protein-binding protein 2,-0.007117015,0.002311803
+P28663,Napb,Beta-soluble NSF attachment protein,-0.00658832,0.004756357
+Q8K3J1,Ndufs8,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial",-0.005624943,0.006570516
+Q91WK2,Eif3h,Eukaryotic translation initiation factor 3 subunit H,-0.003319608,0.007540265
+0,0,0,0,0
+Q80UK8,Ints2,Integrator complex subunit 2,0.003030233,0.004754132
+Q9CQR4,Acot13,Acyl-coenzyme A thioesterase 13,0.003426905,0.000970127
+D3Z4K7,Usp5,"Isoform of P56399, Ubiquitin carboxyl-terminal hydrolase 5",0.004878771,0.000607809
+O55143,Atp2a2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,0.004902999,0.004013559
+Q9CZY3,Ube2v1,Ubiquitin-conjugating enzyme E2 variant 1,0.01022258,0.010753156
+Q9QY81,Nup210,Nuclear pore membrane glycoprotein 210,0.010604826,0.015110236
+P05201,Got1,"Aspartate aminotransferase, cytoplasmic",0.011432141,0.022623181
+Q9WTT4,Atp6v1g2,V-type proton ATPase subunit G 2,0.013112403,0.011486631
+A2BFF8,Dync1i2,"Isoform of O88487, Cytoplasmic dynein 1 intermediate chain 2",0.013251045,0.006321264
+P35564,Canx,Calnexin,0.017612484,0.017496776
+P84228,Hist1h3b,Histone H3.2,0.019542434,0.010817565
+B1ARS3,Mfsd2a,"Isoform of Q9DA75, Sodium-dependent lysophosphatidylcholine symporter 1",0.020907074,0.030173395
+Q61687,Atrx,Transcriptional regulator ATRX,0.021503746,0.025800225
+Q9QYX7,Pclo,Protein piccolo,0.022863306,0.018300914
+D3YUK4,Ndufb10,"Isoform of Q9DCS9, NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10",0.023348392,0.011018612
+A2APD7,Nop56,"Isoform of Q9D6Z1, Nucleolar protein 56",0.024811333,0.031359244
+D3YUW8,Pogz,"Isoform of Q8BZH4, Pogo transposable element with ZNF domain",0.024827087,0.024695705
+Q8VHX6,Flnc,Filamin-C,0.02680744,0.01181219
+Q7TMI3,Uhrf2,E3 ubiquitin-protein ligase UHRF2,0.03036006,0.017039873
+P62317,Snrpd2,Small nuclear ribonucleoprotein Sm D2,0.031526611,0.021706296
+Q61103,Dpf2,Zinc finger protein ubi-d4,0.032950552,0.036703952
+Q8R081,Hnrnpl,Heterogeneous nuclear ribonucleoprotein L,0.034414323,0.028062096
+Q02257,Jup,Junction plakoglobin,0.036397817,0.03283387
+Q99MR0,Actl6b,Actin-like protein 6B,0.036601795,0.030164134
+Q02566,Myh6,Myosin-6,0.039010765,0.039902656
+Q9CQZ5,Ndufa6,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6,0.039069492,0.037347569
+Q3UTJ2,Sorbs2,Sorbin and SH3 domain-containing protein 2,0.040239557,0.020502776
+Q8K0U4,Hspa12a,Heat shock 70 kDa protein 12A,0.043395924,0.03789638
+P68254,Ywhaq,14-3-3 protein theta,0.043514662,0.048891734
+O55042,Snca,Alpha-synuclein,0.043868304,0.041155957
+Q6PE01,Snrnp40,U5 small nuclear ribonucleoprotein 40 kDa protein,0.04392497,0.035725904
+Q62261,Sptbn1,"Spectrin beta chain, non-erythrocytic 1",0.047795208,0.027139605
+Q99JB8,Pacsin3,Protein kinase C and casein kinase II substrate protein 3,0.054366767,0.050037025
+F6RJ39,Acin1,"Isoform of Q9JIX8, Apoptotic chromatin condensation inducer in the nucleus",0.057341892,0.045664881
+P16125,Ldhb,L-lactate dehydrogenase B chain,0.057687285,0.078413987
+P51881,Slc25a5,ADP/ATP translocase 2,0.059293022,0.034739014
+Q04750,Top1,DNA topoisomerase 1,0.063388373,0.057760124
+O55125,Nipsnap1,Protein NipSnap homolog 1,0.067826018,0.076856957
+Q8BMD5,Cdadc1,Cytidine and dCMP deaminase domain-containing protein 1,0.067911059,0.069190469
+Q8QZY9,Sf3b4,Splicing factor 3B subunit 4,0.070885949,0.054313176
+B1ARH1,Dph1,"Isoform of Q5NCQ5, Diphthamide biosynthesis protein 1",0.073349493,0.05447814
+P01831,Thy1,Thy-1 membrane glycoprotein,0.074010662,0.090130515
+Q6P4T2,Snrnp200,U5 small nuclear ribonucleoprotein 200 kDa helicase,0.075206891,0.043243619
+Q8R2U0,Seh1l,Nucleoporin SEH1,0.075755334,0.077021836
+Q9D7A8,Armc1,Armadillo repeat-containing protein 1,0.076069047,0.039900732
+F7B2B4,Atp6v1f,"Isoform of Q9D1K2, V-type proton ATPase subunit F",0.079823276,0.059321797
+P61979,Hnrnpk,Heterogeneous nuclear ribonucleoprotein K,0.080449152,0.053629978
+P63276,Rps17,40S ribosomal protein S17,0.080696765,0.058564252
+Q3TH63,Brd2,"Isoform of Q7JJ13, Bromodomain-containing protein 2",0.085680393,0.06761309
+F8WI31,Plrg1,"Isoform of Q922V4, Pleiotropic regulator 1",0.086153532,0.063516907
+Q8BWT1,Acaa2,"3-ketoacyl-CoA thiolase, mitochondrial",0.087836032,0.116906043
+Q8BTF8,Ralyl,RNA-binding Raly-like protein,0.088948993,0.063805277
+Q9D287,Bcas2,Pre-mRNA-splicing factor SPF27,0.090746751,0.070037009
+Q9D1J3,Sarnp,SAP domain-containing ribonucleoprotein,0.092612107,0.066627835
+P15864,Hist1h1c,Histone H1.2,0.092717016,0.055998751
+P06745,Gpi,Glucose-6-phosphate isomerase,0.094811806,0.056785661
+E9QK16,Fat3,"Isoform of Q8BNA6, Protocadherin Fat 3",0.095073024,0.091260653
+Q91VB8,haemaglobin alpha 2,"Isoform of P01942, Alpha globin 1",0.095772106,0.060229971
+E9PUM3,Pygm,"Isoform of Q9WUB3, Alpha-1,4 glucan phosphorylase",0.096483648,0.051346447
+A0A0G2JFD4,Ampd1,"Isoform of Q3V1D3, AMP deaminase 1",0.097229425,0.091932244
+Q99PV0,Prpf8,Pre-mRNA-processing-splicing factor 8,0.097241055,0.134873821
+S4R1N6,Rps18,"Isoform of P62270, 40S ribosomal protein S18",0.100931363,0.14919415
+Q5SX61,Eno3,"Isoform of P21550, Beta-enolase",0.102430748,0.035612061
+P61358,Rpl27,60S ribosomal protein L27,0.107948415,0.057786064
+P16330,Cnp,"2',3'-cyclic-nucleotide 3'-phosphodiesterase",0.110777387,0.125496192
+P54227,Stmn1,Stathmin,0.113640444,0.047543212
+Q6P6L5,Mybpc1,"Isoform of D3YU50, Protein Mybpc1",0.119702374,0.031014508
+Q3ZB60,Mag,"Isoform of P20917, Mag protein",0.119797487,0.082041651
+P52479,Usp10,Ubiquitin carboxyl-terminal hydrolase 10,0.119968608,0.144561315
+P26443,Glud1,"Glutamate dehydrogenase 1, mitochondrial",0.122655357,0.151007061
+A2AWT6,Ubtf,"Isoform of P25976, Nucleolar transcription factor 1",0.124154439,0.13549094
+Q3V1Z5,Rps4l,40S ribosomal protein S4,0.127904419,0.114471444
+A0A087WQY9,Hdlbp,"Isoform of Q8VDJ3, Vigilin",0.128223792,0.12589727
+Q8BGC0,Htatsf1,HIV Tat-specific factor 1 homolog,0.129472122,0.080737385
+Q569Z5,Ddx46,Probable ATP-dependent RNA helicase DDX46,0.131042923,0.173990773
+D3Z1A1,Qdpr,"Isoform of Q8BVI4, Dihydropteridine reductase",0.131692074,0.225761802
+Q9ES97,Rtn3,Reticulon-3,0.133810618,0.211752882
+Q91VR5,Ddx1,ATP-dependent RNA helicase DDX1,0.135020751,0.106730658
+P63330,Ppp2ca,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,0.135066663,0.16692504
+P99027,Rplp2,60S acidic ribosomal protein P2,0.135776142,0.148131193
+Q8VDN2,Atp1a1,Sodium/potassium-transporting ATPase subunit alpha-1,0.138579643,0.23196746
+Q8CGP0,Hist3h2bb,Histone H2B type 3-B,0.140994683,0.091947226
+D3Z6W1,Map6,"Isoform of Q7TSJ2, Microtubule-associated protein 6",0.141047073,0.171602162
+G3UYZ1,Igsf8,"Isoform of Q8R366, Immunoglobulin superfamily member 8",0.146424388,0.083260027
+A0A0G2JFA5,Atrx,"Isoform of Q61687, Transcriptional regulator ATRX",0.15737688,0.120008646
+Q8CCS6,Pabpn1,Polyadenylate-binding protein 2,0.157719223,0.060011923
+D3Z055,Pabpn1,"Isoform of Q8CCS6, Polyadenylate-binding protein 2",0.157930638,0.191995047
+Q5SW86,Rab1,"Isoform of P62821, Ras-related protein Rab-1A",0.158051643,0.138696945
+P08775,Polr2a,DNA-directed RNA polymerase II subunit RPB1,0.160921384,0.030927945
+Q9CR06,Asph,"Isoform of Q8BSY0, Aspartate-beta-hydroxylase, isoform CRA_a",0.16315573,0.109958351
+Q8CGP1,Hist1h2bk,Histone H2B type 1-K,0.16441564,0.042925965
+P50516,Atp6v1a,V-type proton ATPase catalytic subunit A,0.168304686,0.167087536
+Q9ET80,Jph1,Junctophilin-1,0.168413,0.114914403
+Q8CH09,Sugp2,SURP and G-patch domain-containing protein 2,0.170079877,0.121337684
+Q9CQB4,Uqcrb,"Isoform of Q9D855, Cytochrome b-c1 complex subunit 7",0.170583851,0.069188074
+A2AR81,Tbr1,"Isoform of Q64336, T-box brain protein 1",0.171920388,0.140106241
+G3UWJ8,Kpna1,"Isoform of Q60960, Importin subunit alpha-5",0.174096279,0.121787719
+D3Z6E4,Eno2,"Isoform of P17183, Enolase",0.178806236,0.095368467
+A8DUK4,Hbbt1,Beta-globin,0.178813455,0.089091871
+Q5NC79,Nme1,"Isoform of P15532, Nucleoside diphosphate kinase A",0.179846488,0.154972761
+Q99020,Hnrnpab,Heterogeneous nuclear ribonucleoprotein A/B,0.180168121,0.125138153
+P62311,Lsm3,U6 snRNA-associated Sm-like protein LSm3,0.18203073,0.201502629
+D3Z4U0,Zranb2,"Isoform of Q9R020, Zinc finger Ran-binding domain-containing protein 2",0.182288644,0.244774054
+Q8BHS3,Rbm22,Pre-mRNA-splicing factor RBM22,0.185693231,0.206965273
+P05213,Tuba1b,Tubulin alpha-1B chain,0.187045829,0.077032537
+P14733,Lmnb1,Lamin-B1,0.188395209,0.100454689
+Q63850,Nup62,Nuclear pore glycoprotein p62,0.191522324,0.130267738
+Q62167,Ddx3x,ATP-dependent RNA helicase DDX3X,0.193366269,0.151621578
+P14131,Rps16,40S ribosomal protein S16,0.194267016,0.069551767
+Q9CYH6,Rrs1,Ribosome biogenesis regulatory protein homolog,0.202388126,0.237939922
+P16330,Cnp,"2',3'-cyclic-nucleotide 3'-phosphodiesterase",0.203212402,0.156221416
+Q8BFU2,Hist3h2a,Histone H2A type 3,0.204597783,0.065383733
+Q9DCU2,Pllp,Plasmolipin,0.20518266,0.145604979
+P59235,Nup43,Nucleoporin Nup43,0.205989479,0.139212357
+A2ALV1,Sh3gl2,"Isoform of Q62420, Endophilin-A1",0.206255504,0.09476554
+P10637,Mapt,Microtubule-associated protein tau,0.207270426,0.159004694
+E9Q3G8,Nup153,Protein Nup153,0.20866134,0.104494576
+Q542V3,Srsf4,"Isoform of Q8VE97, Serine/arginine-rich-splicing factor 4",0.209115753,0.093833727
+Q9QYB8,Add2,Beta-adducin,0.210580861,0.220336765
+A2BI12,Psip1,"Isoform of Q99JF8, PC4 and SFRS1-interacting protein",0.212945312,0.131294811
+Q9JJV2,Pfn2,Profilin-2,0.214078006,0.119958602
+P61965,Wdr5,WD repeat-containing protein 5,0.214131056,0.100678234
+Q7TNC4,Luc7l2,Putative RNA-binding protein Luc7-like 2,0.214650109,0.144442634
+P61982,Ywhag,14-3-3 protein gamma,0.216302543,0.090002608
+P47963,Rpl13,60S ribosomal protein L13,0.22072027,0.141441769
+P70372,Elavl1,ELAV-like protein 1,0.221417937,0.112187862
+E9Q7L0,Ogdhl,Protein Ogdhl,0.22306227,0.495757323
+Q60675,Lama2,Laminin subunit alpha-2,0.223734729,0.191040749
+P43006,Slc1a2,Excitatory amino acid transporter 2,0.224382383,0.178127933
+P05064,Aldoa,Fructose-bisphosphate aldolase A,0.226950326,0.122312108
+G5E850,Cyb5a,"Isoform of P56395, Cytochrome b-5, isoform CRA_a",0.226983779,0.168395346
+P97807,Fh,"Fumarate hydratase, mitochondrial",0.227363697,0.238603942
+Q3TXX4,Slc17a7,Vesicular glutamate transporter 1,0.227390451,0.337615292
+Q9R190,Mta2,Metastasis-associated protein MTA2,0.229040973,0.134606541
+Q9JLI8,Sart3,Squamous cell carcinoma antigen recognized by T-cells 3,0.230441418,0.153344815
+O70622,Rtn2,Reticulon-2,0.233904373,0.100975072
+Q64012,Raly,RNA-binding protein Raly,0.241527842,0.142207434
+Q9D8T7,Slirp,"SRA stem-loop-interacting RNA-binding protein, mitochondrial",0.241675808,0.0653997
+Q8C391,Exoc4,"Isoform of O35382, Exocyst complex component 4",0.243219424,0.250603738
+Q3TSG4,Alkbh5,RNA demethylase ALKBH5,0.243265122,0.268146148
+Q8BIQ5,Cstf2,Cleavage stimulation factor subunit 2,0.245262632,0.169390235
+Q8BP67,Rpl24,60S ribosomal protein L24,0.247358558,0.254212977
+Q5XKE0,Mybpc2,"Myosin-binding protein C, fast-type",0.247992819,0.074251339
+P56382,Atp5e,"ATP synthase subunit epsilon, mitochondrial",0.249454052,0.145217405
+Q61656,Ddx5,Probable ATP-dependent RNA helicase DDX5,0.250263778,0.113609127
+E9PUX0,Mtdh,"Isoform of Q80WJ7, Protein LYRIC",0.250559239,0.325569966
+P21619,Lmnb2,Lamin-B2,0.251480877,0.133606295
+Q9ESX5,Dkc1,H/ACA ribonucleoprotein complex subunit 4,0.252073423,0.166563749
+Q8BIF2,Rbfox3,RNA binding protein fox-1 homolog 3,0.255042272,0.380018919
+Q60847,Col12a1,Collagen alpha-1(XII) chain,0.257493921,0.282247457
+P23927,Cryab,Alpha-crystallin B chain,0.273732561,0.3690677
+Q9ERD7,Tubb3,Tubulin beta-3 chain,0.275141098,0.223577917
+P14094,Atp1b1,Sodium/potassium-transporting ATPase subunit beta-1,0.275638794,0.243362561
+D3YVV9,Synpo2,"Isoform of Q91YE8, Synaptopodin-2",0.275929915,0.209776996
+Q5SVI0,Camk2b,"Isoform of P28652, Calcium/calmodulin-dependent protein kinase type II subunit beta",0.281913714,0.271217921
+Q91WM3,Rrp9,U3 small nucleolar RNA-interacting protein 2,0.282268021,0.231095277
+D3YXK2,Safb,Scaffold attachment factor B1,0.284201677,0.119569121
+Q9JJ43,Rbfox1,RNA binding protein fox-1 homolog 1,0.287128129,0.334349173
+A2A6J1,Tnnt3,"Isoform of Q9QZ47, Troponin T, fast skeletal muscle",0.288177909,0.137684956
+Q99KX1,Mlf2,Myeloid leukemia factor 2,0.288911348,0.521390244
+Q3THW5,H2afv,Histone H2A.V,0.290384228,0.145584607
+P03995,Gfap,Glial fibrillary acidic protein,0.292869181,0.19605459
+Q99KG3,Rbm10,RNA-binding protein 10,0.29355362,0.923856038
+P14211,Calr,Calreticulin,0.295662023,0.487279374
+Q9Z204,Hnrnpc,Heterogeneous nuclear ribonucleoproteins C1/C2,0.29829372,0.170485312
+Q9JK53,Prelp,Prolargin,0.29989011,0.170967127
+Q64521,Gpd2,"Glycerol-3-phosphate dehydrogenase, mitochondrial",0.300172843,0.439007429
+P70670,Naca,"Nascent polypeptide-associated complex subunit alpha, muscle-specific form",0.302915043,0.248471514
+P62281,Rps11,40S ribosomal protein S11,0.303597975,0.180163664
+Q7TPV4,Mybbp1a,Myb-binding protein 1A,0.305133626,0.193521675
+Q8VCH9,Lrrc3b,Leucine-rich repeat-containing protein 3B,0.305556591,0.056029533
+Q05816,Fabp5,"Fatty acid-binding protein, epidermal",0.306257699,0.244414068
+E9Q9K8,Akap6,Protein Akap6,0.310277393,0.265095939
+P0C0S6,H2afz,Histone H2A.Z,0.311254551,0.274439651
+Q9WUM5,Suclg1,"Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",0.312011137,0.151609302
+Q6PFD9,Nup98,Nuclear pore complex protein Nup98-Nup96,0.313061354,0.171811585
+Q99MQ4,Aspn,Asporin,0.31466175,0.146739674
+Q9R1T4,6-Sep,Septin-6,0.318491741,0.418917781
+Q9CYN2,Spcs2,Signal peptidase complex subunit 2,0.31985452,0.239027188
+I7HJS1,Emd,"Isoform of O08579, Emerin",0.32080502,0.30519292
+Q9ERU9,Ranbp2,E3 SUMO-protein ligase RanBP2,0.323899128,0.239304239
+P62274,Rps29,40S ribosomal protein S29,0.327285538,0.509554596
+F8VQJ3,Lamc1,"Isoform of P02468, Laminin subunit gamma-1",0.327888585,0.270819089
+Q6NVF9,Cpsf6,Cleavage and polyadenylation specificity factor subunit 6,0.330516695,0.179582143
+A2A8V8,Srrm1,"Isoform of Q52KI8, Serine/arginine repetitive matrix protein 1",0.335893985,0.517756651
+P63154,Crnkl1,Crooked neck-like protein 1,0.336151282,0.344606859
+P68404,Prkcb,Protein kinase C beta type,0.33677938,0.372891039
+E9QPX3,Ndufs4,"Isoform of Q9CXZ1, NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",0.337204743,0.237920919
+P28659,Celf1,CUGBP Elav-like family member 1,0.337355919,0.278836095
+P83870,Phf5a,PHD finger-like domain-containing protein 5A,0.339797402,0.14895196
+D3Z1U9,Ndufv1,"Isoform of Q91YT0, NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial",0.341537488,0.374684013
+Q9CXS4,Cenpv,Centromere protein V,0.345553665,0.146617037
+P41105,Rpl28,60S ribosomal protein L28,0.35142348,0.541704199
+P63325,Rps10,40S ribosomal protein S10,0.35695156,0.279462719
+Q9CR57,Rpl14,60S ribosomal protein L14,0.359341803,0.229392985
+P60335,Pcbp1,Poly(rC)-binding protein 1,0.365296998,0.607330827
+Q8VDS4,Rprd1a,Regulation of nuclear pre-mRNA domain-containing protein 1A,0.369011943,0.873747865
+P62830,Rpl23,60S ribosomal protein L23,0.369451503,0.362818904
+Q9CZU6,Cs,"Citrate synthase, mitochondrial",0.370660486,0.455589342
+Q99K48,Nono,Non-POU domain-containing octamer-binding protein,0.373923458,0.172356432
+E9PWZ3,Rpl3l,Protein Rpl3l,0.3750232,0.322718124
+P14873,Map1b,Microtubule-associated protein 1B,0.375159128,1.414280424
+Q9CWF2,Tubb2b,Tubulin beta-2B chain,0.375424185,0.519093727
+Q7TQF7,Amph,Amphiphysin,0.376095024,0.374245238
+S4R1W1,Gm3839,Glyceraldehyde-3-phosphate dehydrogenase,0.376766107,0.228105371
+Q9JKC6,Cend1,Cell cycle exit and neuronal differentiation protein 1,0.379954277,0.337113135
+Q8K0H5,Taf10,Transcription initiation factor TFIID subunit 10,0.381073638,0.457884393
+A2AR02,Ppig,Peptidyl-prolyl cis-trans isomerase G,0.381660445,0.52515851
+P48758,Cbr1,Carbonyl reductase [NADPH] 1,0.385006878,0.653704737
+Q80UW8,Polr2e,"DNA-directed RNA polymerases I, II, and III subunit RPABC1",0.386924137,0.137021622
+D3YW09,Sf3a2,"Isoform of Q62203, Splicing factor 3A subunit 2",0.387773189,0.221503288
+P84089,Erh,Enhancer of rudimentary homolog,0.390558403,0.149120972
+Q9JKK7,Tmod2,Tropomodulin-2,0.390652239,0.572558336
+Q62093,Srsf2,Serine/arginine-rich splicing factor 2,0.390914929,0.186780858
+Q8R480,Nup85,Nuclear pore complex protein Nup85,0.391754519,0.061797111
+O35900,Lsm2,U6 snRNA-associated Sm-like protein LSm2,0.392194279,0.662241568
+Q3UPR7,Tmem102,Transmembrane protein 102,0.393197697,0.178315087
+Q9CR68,Uqcrfs1,"Cytochrome b-c1 complex subunit Rieske, mitochondrial",0.393583638,0.244525333
+Q8CB77,Tceb3,Transcription elongation factor B polypeptide 3,0.39381862,0.323571877
+Q91VE6,Nifk,MKI67 FHA domain-interacting nucleolar phosphoprotein,0.394922468,0.109732955
+F6T0A8,Adck3,"Isoform of Q60936, Atypical kinase ADCK3, mitochondrial",0.395019851,0.602966999
+D3YYN7,Atp1a2,"Isoform of Q6PIE5, Sodium/potassium-transporting ATPase subunit alpha-2",0.395210048,0.233411001
+O88532,Zfr,Zinc finger RNA-binding protein,0.395963121,0.376005724
+Q9QYG0,Ndrg2,Protein NDRG2,0.397023655,0.678025902
+P84104,Srsf3,Serine/arginine-rich splicing factor 3,0.398062283,0.227113721
+Q8VH51,Rbm39,RNA-binding protein 39,0.398404792,0.273759819
+Q923D4,Sf3b5,Splicing factor 3B subunit 5,0.398875484,0.243054562
+A2AL12,Hnrnpa3,"Isoform of Q8BG05, Heterogeneous nuclear ribonucleoprotein A3",0.399223424,0.37099185
+Q80U93,Nup214,Nuclear pore complex protein Nup214,0.401563091,0.323630689
+D3Z4A4,Prdx2,"Isoform of Q61171, Peroxiredoxin-2",0.401662325,0.513970286
+Q6VGS5,Ccdc88c,Protein Daple,0.402974467,0.433034944
+D3Z4D9,C2cd3,"Isoform of Q52KB6, C2 domain-containing protein 3",0.402998842,0.553515346
+Q6GSS7,Hist2h2aa1,Histone H2A type 2-A,0.403657875,0.296993845
+Q7M739,Tpr,"Isoform of F6ZDS4, Nuclear pore complex-associated intranuclear coiled-coil protein TPR",0.404051868,0.197950687
+F6ZDS4,Tpr,Nucleoprotein TPR,0.406049728,0.753367269
+G3UZK4,Rpl18,"Isoform of P35980, 60S ribosomal protein L18",0.406810157,0.285576988
+Q9CQU1,Mfap1,Microfibrillar-associated protein 1,0.409543623,0.241985937
+P19246,Nefh,Neurofilament heavy polypeptide,0.411124212,0.285171374
+Q9CQ69,Uqcrq,Cytochrome b-c1 complex subunit 8,0.413064073,0.453272483
+P47915,Rpl29,60S ribosomal protein L29,0.413557158,0.239968961
+P43274,Hist1h1e,Histone H1.4,0.416469865,0.360076587
+Q9JKS4,Ldb3,LIM domain-binding protein 3,0.416523042,0.142148939
+Q9Z2Y3,Homer1,Homer protein homolog 1,0.419621929,0.373603991
+Q9WV02,Rbmx,"RNA-binding motif protein, X chromosome",0.419729434,0.141726665
+A0A0A6YW67,Gm8797,"MCG23377, isoform CRA_b",0.420748957,0.211712975
+Q9CX86,Hnrnpa0,Heterogeneous nuclear ribonucleoprotein A0,0.422634099,0.386638575
+O35737,Hnrnph1,Heterogeneous nuclear ribonucleoprotein H,0.422919646,0.21230769
+Q7TNV0,Dek,Protein DEK,0.424091403,0.344355486
+Q8BH80,Vapb,"Isoform of Q9QY76, Vesicle-associated membrane protein, associated protein B and C",0.425031391,0.222878318
+Q6ZQI3,Mlec,Malectin,0.426012668,0.550430732
+P99029,Prdx5,"Peroxiredoxin-5, mitochondrial",0.427736574,0.266521453
+Q9WV92,Epb41l3,Band 4.1-like protein 3,0.428504429,0.772450199
+O70172,Pip4k2a,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,0.429363485,0.836898768
+Q80VD1,Fam98b,Protein FAM98B,0.434449797,0.511399702
+Q9QXV0,Pcsk1n,ProSAAS,0.435660877,0.653435895
+Q9CQI3,Gmfb,Glia maturation factor beta,0.436490632,0.329302081
+P48678,Lmna,Prelamin-A/C,0.44258113,0.23274482
+P14206,Rpsa,40S ribosomal protein SA,0.44427473,0.228027596
+Q8BYI9,Tnr,Tenascin-R,0.44473804,0.905185306
+Q921M3,Sf3b3,Splicing factor 3B subunit 3,0.445022546,0.313268128
+Q61990,Pcbp2,Poly(rC)-binding protein 2,0.44503642,0.499883191
+Q99P88,Nup155,Nuclear pore complex protein Nup155,0.445352686,0.451392071
+G5E924,Hnrnpl,"Isoform of Q8R081, Heterogeneous nuclear ribonucleoprotein L",0.446297826,0.166457111
+E9QML5,Zfp638,"Isoform of Q61464, Zinc finger protein 638",0.447115118,0.665166025
+Q9D2G2,Dlst,"2-oxoglutarate dehydrogenase complex, mitochondrial",0.447473973,0.217879538
+Q9Z315,Sart1,U4/U6.U5 tri-snRNP-associated protein 1,0.449602913,0.272851596
+Q60972,Rbbp4,Histone-binding protein RBBP4,0.452335446,0.153297458
+B1AXZ4,Elavl2,"Isoform of Q60899, ELAV-like protein",0.455661844,0.341901858
+Q9JIX0,Eny2,Transcription and mRNA export factor ENY2,0.458702592,0.364811039
+Q9CR51,Atp6v1g1,V-type proton ATPase subunit G 1,0.460108634,0.77919321
+P60824,Cirbp,Cold-inducible RNA-binding protein,0.461143746,0.200554742
+O35344,Kpna3,Importin subunit alpha-4,0.462680562,0.216748744
+Q6ZWZ7,Rpl17,"Isoform of Q9CPR4, 60S ribosomal protein L17",0.464876592,0.354850239
+Q9CRA2,Pdlim5,"Isoform of Q8CI51, PDZ and LIM domain protein 5",0.465147408,0.52748468
+D6RG95,Ythdc1,"Isoform of E9Q5K9, YTH domain-containing protein 1",0.466160268,0.349431286
+Q8C2Q3,Rbm14,RNA-binding protein 14,0.466195377,0.263863209
+P60879,Snap25,Synaptosomal-associated protein 25,0.466778375,0.579177199
+P53986,Slc16a1,Monocarboxylate transporter 1,0.468016403,0.425210843
+P20357,Map2,Microtubule-associated protein 2,0.468836107,0.461667215
+Q91Z69,Srgap1,SLIT-ROBO Rho GTPase-activating protein 1,0.469659841,0.157821075
+P47911,Rpl6,60S ribosomal protein L6,0.472939417,0.269963859
+D3Z4B0,Srsf11,"Isoform of E9Q6E5, Protein Srsf11",0.473111324,0.492913751
+E9Q9K5,Trdn,Triadin,0.475970293,0.412730869
+D3YYW8,Rbm42,"Isoform of Q91V81, RNA-binding protein 42",0.477868408,1.104407103
+P05977,Myl1,"Myosin light chain 1/3, skeletal muscle isoform",0.480061245,0.275723701
+Q8K019,Bclaf1,Bcl-2-associated transcription factor 1,0.482922808,0.208382826
+B8JKK2,Rpl15,"Isoform of Q9CZM2, Ribosomal protein L15",0.484662427,0.430779071
+G5E866,Sf3b1,"Isoform of Q99NB9, Splicing factor 3B subunit 1",0.484935363,0.45236422
+Q8BZ71,Stac3,SH3 and cysteine-rich domain-containing protein 3,0.485756166,0.571492264
+O88291,Znf326,DBIRD complex subunit ZNF326,0.486022339,0.349066687
+P34884,Mif,Macrophage migration inhibitory factor,0.490071699,0.363069601
+Q80ZM5,H1fx,"H1 histone family, member X",0.490259197,0.769063158
+Q62318,Trim28,Transcription intermediary factor 1-beta,0.491527946,0.23170258
+P68510,Ywhah,14-3-3 protein eta,0.491740233,0.44286894
+P09671,Sod2,"Superoxide dismutase [Mn], mitochondrial",0.492208604,0.962738685
+Q8C0L0,Tmx4,Thioredoxin-related transmembrane protein 4,0.494413377,0.553666809
+P60122,Ruvbl1,RuvB-like 1,0.495200348,0.315532912
+O08583,Alyref,THO complex subunit 4,0.497463369,0.198117131
+P18872,Gnao1,Guanine nucleotide-binding protein G(o) subunit alpha,0.50006789,0.576625742
+O35295,Purb,Transcriptional activator protein Pur-beta,0.501839844,0.257383157
+Q78PY7,Snd1,Staphylococcal nuclease domain-containing protein 1,0.502249964,0.432427865
+Q9D883,U2af1,Splicing factor U2AF 35 kDa subunit,0.503448052,0.232425943
+Q62241,Snrpc,U1 small nuclear ribonucleoprotein C,0.504723456,0.719308401
+Q8BI08,Mal2,Protein MAL2,0.510447629,0.341044412
+Q9Z1M8,Ik,Protein Red,0.512311109,0.395126746
+Q6IRU5,Cltb,Clathrin light chain B,0.51234579,0.376847535
+E9PUL5,Prrt2,Proline-rich transmembrane protein 2,0.513289535,0.493419538
+Q9DCW4,Etfb,Electron transfer flavoprotein subunit beta,0.514095612,0.546639617
+Q921K2,Parp1,"Isoform of P11103, Poly (ADP-ribose) polymerase family, member 1",0.516915514,0.230546911
+P99024,Tubb5,Tubulin beta-5 chain,0.521773225,0.558187299
+P62814,Atp6v1b2,"V-type proton ATPase subunit B, brain isoform",0.522958754,0.470731749
+O88569,Hnrnpa2b1,Heterogeneous nuclear ribonucleoproteins A2/B1,0.525269725,0.327911982
+Q6P8J7,Ckmt2,"Creatine kinase S-type, mitochondrial",0.526200093,0.353801856
+Q6PFR5,Tra2a,Transformer-2 protein homolog alpha,0.526499276,0.227706602
+Q9CQQ7,Atp5f1,"ATP synthase F(0) complex subunit B1, mitochondrial",0.527182904,0.509245111
+Q9JL35,Hmgn5,High mobility group nucleosome-binding domain-containing protein 5,0.52770461,0.609484559
+P80314,Cct2,T-complex protein 1 subunit beta,0.527835146,1.127122584
+P20029,Hspa5,78 kDa glucose-regulated protein,0.529667766,0.204041549
+F6ZBL2,Mib1,"Isoform of Q80SY4, E3 ubiquitin-protein ligase MIB1",0.532367144,0.711372319
+Q91VL8,Terf2ip,Telomeric repeat-binding factor 2-interacting protein 1,0.536457962,0.490043981
+Q9JHS9,Cwc15,Spliceosome-associated protein CWC15 homolog,0.53817581,0.346851574
+P29341,Pabpc1,Polyadenylate-binding protein 1,0.545841119,0.681935642
+Q9Z103,Adnp,Activity-dependent neuroprotector homeobox protein,0.546894916,0.538114836
+Q9R1C7,Prpf40a,Pre-mRNA-processing factor 40 homolog A,0.547247494,0.603415126
+P97427,Crmp1,Dihydropyrimidinase-related protein 1,0.548631617,0.287648367
+Q9DBJ1,Pgam1,Phosphoglycerate mutase 1,0.554162463,0.761626258
+E9Q279,Ptbp1,"Isoform of P17225, Polypyrimidine tract-binding protein 1",0.555598224,0.585540167
+Q8R1M2,H2afj,Histone H2A.J,0.55575493,0.381709786
+V9GXT5,Nav2,"Isoform of E9Q842, Protein Nav2",0.557323442,0.781502644
+P62869,Tceb2,Transcription elongation factor B polypeptide 2,0.557404894,0.496375912
+Q9JIG8,Praf2,PRA1 family protein 2,0.557948381,0.52455962
+Q640R3,Hepacam,Hepatocyte cell adhesion molecule,0.557957261,0.533597372
+Q9QYS9,Qki,Protein quaking,0.558547096,0.561704772
+E9Q070,Gm8730,Uncharacterized protein,0.565214446,0.94333615
+Q9CQI7,Snrpb2,U2 small nuclear ribonucleoprotein B'',0.569191178,0.460913223
+Q99N28,Cadm3,Cell adhesion molecule 3,0.57090343,0.622706623
+Q8CI03,Flywch1,FLYWCH-type zinc finger-containing protein 1,0.576816623,1.671469242
+Q80TB8,Vat1l,Synaptic vesicle membrane protein VAT-1 homolog-like,0.57890145,0.694309281
+O35730,Ring1,E3 ubiquitin-protein ligase RING1,0.580627379,0.722827469
+E9Q0T8,Dnah7a,Protein Dnah7a,0.582513891,0.43578833
+Q9CR62,Slc25a11,Mitochondrial 2-oxoglutarate/malate carrier protein,0.58984803,0.676828622
+A2APA3,Cstf1,"Isoform of Q99LC2, Cleavage stimulation factor subunit 1",0.591687841,0.845131059
+Q64525,Hist2h2bb,Histone H2B type 2-B,0.600714896,0.227104637
+P63158,Hmgb1,High mobility group protein B1,0.601678953,0.386916346
+G3X8Z3,Ccdc146,"Isoform of E9Q9F7, MCG120103, isoform CRA_b",0.603626768,0.882771426
+E9Q6R3,Sec22b,"Isoform of O08547, Vesicle-trafficking protein SEC22b",0.604493175,0.656683981
+P56391,Cox6b1,Cytochrome c oxidase subunit 6B1,0.605993738,0.236010036
+Q8CGY8,Ogt,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit,0.607335014,1.485238556
+Q9R0U0,Srsf10,Serine/arginine-rich splicing factor 10,0.61380119,0.341172228
+Q61937,Npm1,Nucleophosmin,0.61409708,0.278106168
+P62806,Hist1h4a,Histone H4,0.619108519,0.601561962
+G3UZ34,Eftud2,"Isoform of O08810, 116 kDa U5 small nuclear ribonucleoprotein component",0.628714253,1.069991232
+P49586,Pcyt1a,Choline-phosphate cytidylyltransferase A,0.629058782,0.257971494
+B1ARW4,Ndufs5,"Isoform of Q99LY9, NADH dehydrogenase [ubiquinone] iron-sulfur protein 5",0.629354076,0.437627632
+E9QPT4,Phc3,"Isoform of Q8CHP6, Polyhomeotic-like protein 3",0.629901317,0.506817054
+P63011,Rab3a,Ras-related protein Rab-3A,0.631174053,0.610418164
+Q9QYR6,Map1a,Microtubule-associated protein 1A,0.638338638,1.512277385
+Q9QX47,Son,Protein SON,0.639338002,0.321279537
+Q8C078,Camkk2,Calcium/calmodulin-dependent protein kinase kinase 2,0.650093662,0.311983779
+Q9CWE0,Mtfr1l,Mitochondrial fission regulator 1-like,0.655079705,0.765628595
+Q9CRB6,Tppp3,Tubulin polymerization-promoting protein family member 3,0.657809108,0.459253476
+P35979,Rpl12,60S ribosomal protein L12,0.659461336,0.943867487
+Q8C2Q8,Atp5c1,"Isoform of Q91VR2, ATP synthase subunit gamma",0.659533412,0.838469266
+P62849,Rps24,40S ribosomal protein S24,0.659960233,0.591111648
+Q8BTI8,Srrm2,Serine/arginine repetitive matrix protein 2,0.661533018,0.317901712
+F8WHF9,Sf1,"Isoform of Q64213, Splicing factor 1",0.662276612,0.494632277
+Q8BMK4,Ckap4,Cytoskeleton-associated protein 4,0.664389193,0.376942627
+P70399,Tp53bp1,Tumor suppressor p53-binding protein 1,0.664616296,0.666687284
+Q923D5,Wbp11,WW domain-binding protein 11,0.670360067,0.45995822
+Q8R3Y5,C19orf47,Uncharacterized protein C19orf47 homolog,0.672752898,0.437612014
+P17665,Cox7c,"Cytochrome c oxidase subunit 7C, mitochondrial",0.678801288,0.732809072
+P43277,Hist1h1d,Histone H1.3,0.682020711,0.590630673
+Q9D4T3,Pelp1,"Isoform of Q9DBD5, Proline, glutamic acid and leucine rich protein 1, isoform CRA_b",0.68350141,1.267995658
+P62313,Lsm6,U6 snRNA-associated Sm-like protein LSm6,0.683872528,0.539054494
+Q810A7,Ddx42,ATP-dependent RNA helicase DDX42,0.686198093,1.618235759
+Q8CGC6,Rbm28,RNA-binding protein 28,0.689695542,0.34803267
+P63040,Cplx1,Complexin-1,0.690190039,1.051396575
+P62307,Snrpf,Small nuclear ribonucleoprotein F,0.690732743,0.380672734
+P46061,Rangap1,Ran GTPase-activating protein 1,0.696975496,0.602687953
+G5E8R3,Pcx,"Isoform of Q05920, Pyruvate carboxylase",0.700674168,0.590396205
+Q9R0L6,Pcm1,Pericentriolar material 1 protein,0.701670878,0.869804881
+G3UX35,Smarca4,"Isoform of Q3TKT4, Transcription activator BRG1",0.702016003,1.384507671
+Q3THK3,Gtf2f1,General transcription factor IIF subunit 1,0.70442002,1.101231641
+P60761,Nrgn,Neurogranin,0.704655452,1.064841571
+E9Q5C9,Nolc1,Protein Nolc1,0.705419696,0.296973298
+D3YWC2,Arl6ip4,"Isoform of Q9JM93, ADP-ribosylation factor-like 6 interacting protein 4",0.707674708,0.709013689
+Q9WVA3,Bub3,Mitotic checkpoint protein BUB3,0.710344037,0.957961183
+G3UWL6,Ube2i,"Isoform of P63280, SUMO-conjugating enzyme UBC9",0.710400843,0.400284589
+Q6P542,Abcf1,ATP-binding cassette sub-family F member 1,0.712149348,1.061480868
+P27546,Map4,Microtubule-associated protein 4,0.712490129,0.737296722
+P04370,Mbp,Myelin basic protein,0.712957448,0.50839503
+D3Z0S6,Snrpa,"Isoform of Q62189, U1 small nuclear ribonucleoprotein A",0.717770437,0.329122675
+Q3TXT3,Inip,SOSS complex subunit C,0.717894685,1.234252731
+Q6DVA0,Lemd2,LEM domain-containing protein 2,0.72649289,0.455878246
+Q9WTX8,Mad1l1,Mitotic spindle assembly checkpoint protein MAD1,0.728269277,0.626914632
+A0A0G2JD95,Rsbn1,"Isoform of Q80T69, Round spermatid basic protein 1",0.731598555,1.601140133
+D3Z7R4,Syt1,"Isoform of P46096, Synaptotagmin-1",0.732899905,0.887255356
+Q9D787,Ppil2,Peptidyl-prolyl cis-trans isomerase-like 2,0.732952641,1.023629591
+Q61029,Tmpo,"Lamina-associated polypeptide 2, isoforms beta/delta/epsilon/gamma",0.734189729,0.368691528
+D3Z0V9,Sun1,"Isoform of Q9D666, SUN domain-containing protein 1",0.751302016,0.876763698
+Q6PDM2,Srsf1,Serine/arginine-rich splicing factor 1,0.758329922,0.359964007
+O70209,Pdlim3,PDZ and LIM domain protein 3,0.771886833,0.323257122
+A0A0G2JFH2,Map4,"Isoform of P27546, Microtubule-associated protein 4",0.772753367,0.524448336
+Q9CY57,Chtop,PRMT1 protein,0.777799889,0.307361901
+Q99LF4,Rtcb,tRNA-splicing ligase RtcB homolog,0.782557893,0.460127105
+Q99KJ8,Dctn2,Dynactin subunit 2,0.782785512,0.631935004
+D3YWT1,Hnrnph3,"Isoform of D3Z3N4, MCG11326, isoform CRA_b",0.788784122,0.379754577
+Q3TZX8,Nol9,Polynucleotide 5'-hydroxyl-kinase NOL9,0.78984195,0.709746825
+Q61699,Hsph1,Heat shock protein 105 kDa,0.791235442,0.841651272
+H7BXC3,Tpi1,"Isoform of P17751, Triosephosphate isomerase",0.795687308,1.072835959
+O88712,Ctbp1,C-terminal-binding protein 1,0.798696424,0.870658554
+G3X956,Supt16,"Isoform of Q920B9, FACT complex subunit SPT16",0.804865689,0.709904639
+P49312,Hnrnpa1,Heterogeneous nuclear ribonucleoprotein A1,0.805951967,0.396797456
+P10922,H1f0,Histone H1.0,0.80603278,0.479161679
+D3YTQ3,Hnrnpdl,"Isoform of Q9Z130, Heterogeneous nuclear ribonucleoprotein D-like",0.806816359,0.53229394
+Q9D0E1,Hnrnpm,Heterogeneous nuclear ribonucleoprotein M,0.809109209,0.508589886
+F8WJG3,Tra2b,"Isoform of P62996, Transformer-2 protein homolog beta",0.809776483,0.453551423
+Q9CYI4,Luc7l,Putative RNA-binding protein Luc7-like 1,0.810049918,1.025398416
+A1BN54,Actn1,"Isoform of Q7TPR4, Alpha actinin 1a",0.811230936,0.454039836
+Q9CXY6,Ilf2,Interleukin enhancer-binding factor 2,0.811719332,0.940442292
+A2A6I8,Tnnt3,"Isoform of Q9QZ47, Troponin T, fast skeletal muscle",0.812382878,0.436079335
+P47955,Rplp1,60S acidic ribosomal protein P1,0.814121812,0.513277454
+Q8R4H7,Nags,"N-acetylglutamate synthase, mitochondrial",0.815256327,0.302886032
+Q8VIJ6,Sfpq,"Splicing factor, proline- and glutamine-rich",0.817297564,0.62024763
+D3Z786,Mpc1,"Isoform of P63030, Mitochondrial pyruvate carrier 1",0.818324019,0.74617443
+P47962,Rpl5,60S ribosomal protein L5,0.820159428,0.736403423
+Q8CGZ0,Cherp,Calcium homeostasis endoplasmic reticulum protein,0.820168126,1.61264719
+Q921T2,Tor1aip1,Torsin-1A-interacting protein 1,0.823826611,0.269641182
+P62908,Rps3,40S ribosomal protein S3,0.823966048,1.503693604
+Q9Z0H4,Celf2,CUGBP Elav-like family member 2,0.82547892,1.42902228
+Q8K4Q8,Colec12,Collectin-12,0.835280415,1.422600147
+Q60865,Caprin1,Caprin-1,0.843775284,1.68657387
+Q64524,Hist2h2be,Histone H2B type 2-E,0.850332492,0.56691745
+G3XA10,Gm28062,"Heterogeneous nuclear ribonucleoprotein U, isoform CRA_b",0.850467533,0.648311882
+P62631,Eef1a2,Elongation factor 1-alpha 2,0.850514813,1.204438545
+Q91W39,Ncoa5,Nuclear receptor coactivator 5,0.851547184,0.470429057
+Q64511,Top2b,DNA topoisomerase 2-beta,0.857106742,1.882281392
+P48962,Slc25a4,ADP/ATP translocase 1,0.859764414,0.26638945
+F7BUB8,Epb4.1,"Isoform of P48193, Protein 4.1",0.862162335,1.205856241
+E9Q7Q3,Tpm3,"Isoform of P21107, Tropomyosin alpha-3 chain",0.866344443,1.334515894
+Q62376,Snrnp70,U1 small nuclear ribonucleoprotein 70 kDa,0.874206184,0.61347645
+Q9WTM5,Ruvbl2,RuvB-like 2,0.874456952,0.689113513
+Q8R429,Atp2a1,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,0.874566589,0.542306564
+Q8BJS4,Sun2,SUN domain-containing protein 2,0.878615247,0.44132413
+Q9QZE5,Copg1,Coatomer subunit gamma-1,0.884990295,0.4269842
+Q9CQV8,Ywhab,14-3-3 protein beta/alpha,0.891607579,0.66841001
+A2AKU9,Atp5c1,"Isoform of Q91VR2, ATP synthase subunit gamma",0.894409165,0.727590631
+Q921F2,Tardbp,TAR DNA-binding protein 43,0.903110376,0.545121597
+O09165,Casq1,Calsequestrin-1,0.907453095,0.684613113
+Q6ZWY8,Tmsb10,Thymosin beta-10,0.911308178,1.224228192
+P62264,Rps14,40S ribosomal protein S14,0.91557996,0.412457625
+M0QWU8,Dbi,"Isoform of P31786, Acyl-CoA-binding protein",0.919857494,1.762394282
+Q8K2T8,Paf1,RNA polymerase II-associated factor 1 homolog,0.925390033,1.396973308
+Q9Z2X1,Hnrnpf,Heterogeneous nuclear ribonucleoprotein F,0.928047007,0.667766023
+Q60987,Foxg1,Forkhead box protein G1,0.932388121,0.91283151
+Q9D0T1,Nhp2l1,NHP2-like protein 1,0.934013513,0.465326233
+Q922U1,Prpf3,U4/U6 small nuclear ribonucleoprotein Prp3,0.934096795,1.278131712
+Q9R1P4,Psma1,Proteasome subunit alpha type-1,0.935795512,0.678069763
+Q69Z99,Znf512,Zinc finger protein 512,0.937098842,0.525037043
+P97863,Nfib,Nuclear factor 1 B-type,0.943521491,2.064076405
+Q8VDP4,Ccar2,Cell cycle and apoptosis regulator protein 2,0.94441025,0.936862546
+Q3TMP8,Tmem38a,Trimeric intracellular cation channel type A,0.9445573,0.685676979
+P67778,Phb,Prohibitin,0.948101612,0.277460489
+P62322,Lsm5,U6 snRNA-associated Sm-like protein LSm5,0.948518262,0.296190875
+Q9CW03,Smc3,Structural maintenance of chromosomes protein 3,0.961735776,0.501745577
+Q64522,Hist2h2ab,Histone H2A type 2-B,0.971687984,1.566298934
+Q8CH25,Sltm,SAFB-like transcription modulator,0.979568451,0.580871539
+E9PUC5,Psd3,"Isoform of Q2PFD7, PH and SEC7 domain-containing protein 3",0.982451441,0.689923946
+Q9DCT2,Ndufs3,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",0.985725738,1.118048665
+Q61191,Hcfc1,Host cell factor 1,0.993194309,0.606301974
+O88569,Hnrnpa2b1,Heterogeneous nuclear ribonucleoproteins A2/B1,0.994301984,0.532232814
+S4R1C4,Atp2b2,"Isoform of Q9R0K7, Calcium-transporting ATPase",1.000465955,2.638936221
+Q9CZX8,Rps19,40S ribosomal protein S19,1.004290416,0.586730648
+P10853,Hist1h2bf,Histone H2B type 1-F/J/L,1.009564587,0.799128269
+P62309,Snrpg,Small nuclear ribonucleoprotein G,1.026910242,1.599192156
+P84244,H3f3a,Histone H3.3,1.028824504,0.824883272
+Q60668,Hnrnpd,Heterogeneous nuclear ribonucleoprotein D0,1.034376681,0.787029477
+H3BKM2,Zc3hc1,ALK,1.040319226,0.466458479
+Q00PI9,Hnrnpul2,Heterogeneous nuclear ribonucleoprotein U-like protein 2,1.042172149,1.098445046
+P67984,Rpl22,60S ribosomal protein L22,1.043509702,0.936735292
+E9QN08,Eef1d,"Isoform of P57776, Elongation factor 1-delta",1.045823683,0.913418837
+B0R1E3,Hint1,"Isoform of P70349, Histidine triad nucleotide-binding protein 1",1.047225147,0.767261441
+Q9CU62,Smc1a,Structural maintenance of chromosomes protein 1A,1.056585513,0.56903212
+Q8BH74,Nup107,Nuclear pore complex protein Nup107,1.066067299,1.500551331
+Q9JLH8,Tmod4,Tropomodulin-4,1.066094818,0.615049755
+P13541,Myh3,Myosin-3,1.073151644,0.526553664
+Q5EBG6,Hspb6,Heat shock protein beta-6,1.091567125,0.820832336
+Q9Z2D6,Mecp2,Methyl-CpG-binding protein 2,1.106235621,0.790021016
+Q9CQS2,Nop10,H/ACA ribonucleoprotein complex subunit 3,1.110778347,0.777776469
+A1L3S7,Gatad2b,"Isoform of Q8VHR5, Gatad2b protein",1.111362888,0.898789459
+Q9JKB3,Ybx3,Y-box-binding protein 3,1.118476804,0.897451988
+Q91VM5,Rbmxl1,"RNA binding motif protein, X-linked-like-1",1.119401287,0.698423322
+Q9Z0W3,Nup160,Nuclear pore complex protein Nup160,1.125130856,0.551342369
+Q3UN88,Mcpt4,"Isoform of P21812, Mast cell protease 4",1.126630142,1.543663569
+Q8BKL1,Ss18,"Isoform of Q62280, Protein SSXT",1.131364587,0.800099733
+P46460,Nsf,Vesicle-fusing ATPase,1.134830384,0.975750624
+P27661,H2afx,Histone H2AX,1.144506727,0.524051116
+A0A0B4J1E2,Snw1,"Isoform of Q9CSN1, SNW domain-containing protein 1",1.149796234,0.460214868
+J3QNY1,Gm9242,Protein Gm9242,1.15674045,0.855701993
+E9QJU4,Myoz3,"Isoform of Q8R4E4, Myozenin-3",1.158885912,0.35699503
+Q8C5U4,C17orf74,Uncharacterized protein C17orf74 homolog,1.165467751,0.631185044
+Q91Z49,Fyttd1,UAP56-interacting factor,1.167963873,1.008143213
+P08551,Nefl,Neurofilament light polypeptide,1.181603386,0.95566789
+E9QMX7,Arhgap30,"Isoform of Q640N3, Rho GTPase-activating protein 30",1.197274326,1.139765413
+Q8C1B7,11-Sep,Septin-11,1.203600367,0.901328921
+Q9CPP0,Npm3,Nucleoplasmin-3,1.220281951,0.683514444
+P31648,Slc6a1,Sodium- and chloride-dependent GABA transporter 1,1.22583421,3.407642883
+Q9R0Y5,Ak1,Adenylate kinase isoenzyme 1,1.233682932,0.398446177
+Q8K310,Matr3,Matrin-3,1.239470723,0.903611378
+B1ATS4,Atp2a3,"Isoform of Q64518, Calcium-transporting ATPase",1.246788587,0.842746359
+Q569Z6,Thrap3,Thyroid hormone receptor-associated protein 3,1.254717193,0.785180075
+Q922P9,Glyr1,Putative oxidoreductase GLYR1,1.256545301,1.576880894
+E9PVI4,Unc5c,"Isoform of O08747, Netrin receptor UNC5C",1.257309039,0.551766533
+P62827,Ran,GTP-binding nuclear protein Ran,1.276581553,0.667307879
+B2RY56,Rbm25,RNA-binding protein 25,1.294292757,1.128177372
+P48678,Lmna,Prelamin-A/C,1.295781297,0.642100101
+Q61644,Pacsin1,Protein kinase C and casein kinase substrate in neurons protein 1,1.298566202,1.755562744
+Q3UMU9,Hdgfrp2,Hepatoma-derived growth factor-related protein 2,1.313478646,1.158029598
+Q7TNT2,Far2,Fatty acyl-CoA reductase 2,1.331449451,1.664719458
+G3UVU8,Supt4a,"Isoform of P63271, MCG7669, isoform CRA_a",1.332517556,0.802903259
+G3UZI2,Syncrip,"Isoform of Q7TMK9, Heterogeneous nuclear ribonucleoprotein Q",1.345045653,1.480514967
+Q99LC3,Ndufa10,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",1.346706129,1.188289526
+Q99JY0,Hadhb,"Trifunctional enzyme subunit beta, mitochondrial",1.353146161,1.309122858
+E9QNN1,Dhx9,"Isoform of O70133, ATP-dependent RNA helicase A",1.353972463,0.831015367
+P08113,Hsp90b1,Endoplasmin,1.355393095,2.81920421
+Q9QZQ8,H2afy,Core histone macro-H2A.1,1.356764141,0.448777439
+Q8CJF7,Ahctf1,Protein ELYS,1.361402506,1.395695335
+A2AEX8,Fhl1,"Isoform of P97447, Four and a half LIM domains 1, isoform CRA_b",1.361654095,0.760663616
+Q9JIK5,Ddx21,Nucleolar RNA helicase 2,1.372467342,0.87336863
+Q9CR67,Tmem33,Transmembrane protein 33,1.3815847,0.681363248
+P32067,Ssb,Lupus La protein homolog,1.384353424,2.256624779
+Q60900,Elavl3,ELAV-like protein 3,1.393975075,0.803230516
+Q8K212,Pacs1,Phosphofurin acidic cluster sorting protein 1,1.394108295,0.904823189
+P68040,Gnb2l1,Guanine nucleotide-binding protein subunit beta-2-like 1,1.395301405,1.396677729
+P47857,Pfkm,"ATP-dependent 6-phosphofructokinase, muscle type",1.42936659,1.600410939
+Q91YQ5,Rpn1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,1.43226702,2.626906079
+Q60749,Khdrbs1,"KH domain-containing, RNA-binding, signal transduction-associated protein 1",1.438400051,1.319881704
+O08539,Bin1,Myc box-dependent-interacting protein 1,1.442769878,1.644197636
+Q8QZT1,Acat1,"Acetyl-CoA acetyltransferase, mitochondrial",1.458704219,1.519359302
+P62320,Snrpd3,Small nuclear ribonucleoprotein Sm D3,1.460197127,1.082093737
+P35550,Fbl,rRNA 2'-O-methyltransferase fibrillarin,1.490888657,0.752642745
+O35326,Srsf5,Serine/arginine-rich splicing factor 5,1.499311363,1.786293071
+P62858,Rps28,40S ribosomal protein S28,1.511680107,2.643113399
+Q6A078,Cep290,Centrosomal protein of 290 kDa,1.513017425,0.689682906
+P10852,Slc3a2,4F2 cell-surface antigen heavy chain,1.515140831,3.09571387
+Q9Z1N5,Ddx39b,Spliceosome RNA helicase Ddx39b,1.521626474,1.096985449
+E9QAS4,Chd4,"Isoform of Q6PDQ2, Chromodomain-helicase-DNA-binding protein 4",1.569931976,0.710277783
+Q9D8E6,Rpl4,60S ribosomal protein L4,1.57080173,1.595234628
+O35343,Kpna4,Importin subunit alpha-3,1.593626531,1.546953589
+P42669,Pura,Transcriptional activator protein Pur-alpha,1.609584656,1.791440354
+Q99MR6,Srrt,Serrate RNA effector molecule homolog,1.613055234,1.812964024
+A2A6A1,Gpatch8,G patch domain-containing protein 8,1.629561674,0.992734819
+Q9R226,Khdrbs3,"KH domain-containing, RNA-binding, signal transduction-associated protein 3",1.70200715,1.23792954
+Q9D6F9,Tubb4a,Tubulin beta-4A chain,1.705182167,1.241778886
+P28654,Dcn,Decorin,1.727922186,0.963109455
+A2AW05,Ssrp1,"Isoform of Q08943, FACT complex subunit SSRP1",1.777311112,2.405062014
+E9PYL9,Gm10036,Protein Gm10036,1.778957638,1.718758264
+Q3TEA8,Hp1bp3,Heterochromatin protein 1-binding protein 3,1.795089844,0.79526124
+Q8VHE6,Dnah5,"Dynein heavy chain 5, axonemal",1.808912232,0.879746695
+Q8VHM5,Hnrnpr,Heterogeneous nuclear ribonucleoprotein R,1.811389246,2.097228117
+P30275,Ckmt1,"Creatine kinase U-type, mitochondrial",1.841455151,2.662170961
+Q6ZWY9,Hist1h2bc,Histone H2B type 1-C/E/G,1.853914808,1.338519045
+Q91VJ5,Pqbp1,Polyglutamine-binding protein 1,1.873984096,1.180715122
+P70168,Kpnb1,Importin subunit beta-1,1.903713776,1.331615123
+P62315,Snrpd1,Small nuclear ribonucleoprotein Sm D1,1.904605251,1.458013264
+E9Q9W7,Pdzd7,Protein Pdzd7,1.918367011,0.563445466
+Q9CQF3,Nudt21,Cleavage and polyadenylation specificity factor subunit 5,1.942026967,1.592779566
+Q8VDD5,Myh9,Myosin-9,2.037304902,0.42834558
+D3YWX2,Ylpm1,"Isoform of Q9R0I7, YLP motif-containing protein 1",2.052457369,1.647493485
+Q8BH59,Slc25a12,Calcium-binding mitochondrial carrier protein Aralar1,2.095912134,0.523990985
+P62852,Rps25,40S ribosomal protein S25,2.176502088,1.183911613
+Q8VE37,Rcc1,Regulator of chromosome condensation,2.331611035,1.900796595
+Q80W68,Kirrel,IRRE-like protein 1,2.37769992,0.939648332
+Q99KK2,Cmas,N-acylneuraminate cytidylyltransferase,2.887412261,2.318645496

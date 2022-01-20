@@ -1,0 +1,201 @@
+Supplementary table S1: All significant changes during aging,,,,,,,,,,
+Protein name,Gene symbol,SWISS Prot.,MW,pI,Mowse Score,Total no. of peptides,Number of nr peptides,Seq. cov. [%],MS type,Spot ID
+put. beta-actin,Actb,P60710,39161,5.78,691,37,12,35,ESI,1026
+put. beta-actin,Actb,P60710,41724,5.56,756,40,14,36,ESI,1027
+"Actin-like 6B [Mus musculus], actin-like 6B",Actl6b,Q99MR0,46861,5.48,321,18,6,6,ESI,738
+Actin-like 6B [Mus musculus]. actin-like 6B,Actl6b,Q99MR0,46861,5.48,321,18,6,6,ESI,837
+"AHA1, activator of heat shock 90kDa protein ATPase homolog 1 [Mus musculus]",Ahsa1,Q8BK64,38093,5.41,94,16,9,24,MALDI-TOF,987
+Adenylate kinase isoenzyme 1 (ATP-AMP transphosphorylase) (AK1) (Myokinase),Ak1,Q9CPU0,21526,5.67,122,61,59,18,MALDI-TOF,1614
+apolipoprotein A-IV,Apoa4,P06728,44545,5.48,306,12,6,16,ESI,1089
+Actin-related protein 2/3 complex subunit 5 (ARP2/3 complex 16 kDa subunit) (p16-ARC),Arpc5,Q9CPW4,16278,5.47,482,17,7,46,ESI,1809
+acetylserotonin O-methyltransferase [Mus musculus],Asmt,Q9D927,25051,5.18,166,8,3,14,ESI,1241
+"ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit, isoform 1 [Mus musculus]",Atp5a1,Q03265,59716,9.22,1249,20,14,59,ESI,612
+"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d [Mus musculus]",Atp5d,Q9D3D9,18738,5.52,519,21,10,61,ESI,1615
+"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d [Mus musculus]",Atp5d,Q9D3D9,18738,5.52,519,21,10,61,ESI,1633
+"ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit",Atp5d,Q9D3D9,17619,5.03,130,9,2,13,ESI,1888
+"ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit",Atp5d,Q9D3D9,17619,5.03,130,9,2,13,ESI,1898
+Vacuolar ATP synthase subunit E (V-ATPase E subunit),Atp6v1e1,P50518,26571,9.28,68,1,1,6,ESI,1090
+Vacuolar ATP synthase subunit E (V-ATPase E subunit),Atp6v1e1,P50518,26571,9.28,404,9,8,39,ESI,1107
+Vacuolar ATP synthase subunit E (V-ATPase E subunit),Atp6v1e1,P50518,26571,9.28,404,9,8,39,ESI,1115
+Vacuolar ATP synthase subunit E (V-ATPase E subunit),Atp6v1e1,P50518,26571,9.28,404,9,8,39,ESI,1120
+Vacuolar ATP synthase subunit E (V-ATPase E subunit),Atp6v1e1,P50518,26571,9.28,404,9,8,39,ESI,1133
+Vacuolar ATP synthase subunit E (V-ATPase E subunit),Atp6v1e1,P50518,26571,9.28,404,9,8,39,ESI,1300
+"ATPase, H+ transporting, V1 subunit F [Rattus norvegicus]",Atp6v1f,P50408,13362,5.52,115,7,3,22,ESI,1989
+"ATPase, H+ transporting, V1 subunit G isoform 1 [Mus musculus]",Atp6v1g1,Q9CR51,13716,7.77,174,3,3,12,ESI,1861
+calreticulin [Mus musculus],Calr,P14211,47965,4.33,139,7,4,9,ESI,560
+capping protein alpha 1 subunit [Mus musculus],Capza1,P47753,32731,5.43,188,6,4,16,ESI,1212
+"capping protein (actin filament) muscle Z-line, alpha 2 [Mus musculus]",Capza2,Q2QLD1,32947,5.57,152,5,3,14,ESI,1240
+Carbonyl reductase 1 [Mus musculus],Cbr1,P48758,30622,8.53,402,7,5,44,ESI,1130
+Chromobox protein homolog 1,Cbx1,P83917,21405,4.85,84,35,13,6,MALDI-TOF,1607
+chaperonin subunit 5 (epsilon) [Mus musculus],Cct5,P80316,59586,5.72,279,9,5,8,ESI,764
+"UMP-CMP kinase, Adenylate kinase (ADK) [Mus musculus]",Cmpk,Q9DBP5,22151,5.68,267,11,5,22,MALDI-TOF,1631
+"calponin 3, acidic [Mus musculus]",Cnn3,Q9DAW9,36406,5.46,555,18,9,35,ESI,1060
+COP9 signalosome subunit 8 [Mus musculus],Cops8,Q8VBV7,23241,5.09,92,41,16,8,MALDI-TOF,1649
+coactosin-like 1 (Dictyostelium),Cotl1,Q9CQI6,15934,5.28,425,23,9,60,ESI,1914
+"cytochrome c oxidase, subunit Va",Cox5a,P12787,16020,6.08,185,9,3,22,ESI,1960
+dimethylarginine dimethylaminohydrolase 1 [Mus musculus],Ddah1,Q9CWS0,31361,5.54,242,12,5,18,ESI,1186
+Ddah2 protein [Mus musculus],Ddah2,Q99LD8,29627,5.66,112,4,3,12,ESI,1472
+dihydropyrimidinase-like 3 [Mus musculus],Dpysl3,Q62188,61897,6.04,519,21,9,9,ESI,671
+destrin  [Mus musculus],Dstn,Q4FK36,18509,8.14,98,2,2,,ESI,1668
+"dynein, cytoplasmic, intermediate chain 2 [Mus musculus].",Dync1i2,O88487,72378,5.16,89,2,2,4,ESI,525
+"Elongation factor 1-beta, eukaryotic translation elongation factor 1 beta 3",Eef1b,O70251,27813,4.63,103,41,13,8,MALDI-TOF,1385
+eukaryotic translation elongation factor 1-delta [Mus musculus],Eef1d,P57776,31274,4.91,120,5,2,9,ESI,1911
+eukaryotic translation elongation factor 1-delta [Mus musculus],Eef1d,P57776,31273,4.91,247,10,5,19,MALDI-TOF,1298
+"Eukaryotic translation initiation factor 3, subunit 2 (beta) [Mus musculus]",Eif3s2,Q9QZD9,36438,5.38,394,18,8,22,ESI,1071
+enhancer of rudimentary homolog [Mus musculus],erh,P84089,12200,5.63,86,2,2,10,ESI,1501
+enhancer of rudimentary homolog [Mus musculus],erh,P84089,12200,5.63,86,2,2,10,ESI,1992
+endoplasmic reticulum protein ERp29 precursor [Mus musculus],Erp29,P57759,28805,5.9,215,67,49,23,ESI,1494
+endoplasmic reticulum protein ERp29 precursor [Mus musculus],Erp29,P57759,28805,5.9,215,67,49,23,ESI,1496
+"fatty acid binding protein 7, brain [Mus musculus]",Fabp7,Q09139,14900,5.06,290,11,11,53,ESI,1922
+Glyoxalase 1 [Mus musculus],Glo1,Q9CPU0,20796,5.24,112,86,46,18,MALDI-TOF,1588
+Glyoxalase 1 [Mus musculus],Glo1,Q9CPU0,20796,5.24,112,86,46,18,MALDI-TOF,1617
+"G protein beta 2 subunit [Mus musculus] (guanine nucleotide-binding protein, beta-2 subunit)",Gnb2,P62880,37309,5.6,239,9,4,12,ESI,1223
+"G protein beta 2 subunit [Mus musculus] (guanine nucleotide-binding protein, beta-2 subunit)",Gnb2,P62880,37309,5.6,239,9,4,12,ESI,1263
+"C10 protein [Mus musculus], gene rich cluster, C10 gene",Grcc10,O35127,13200,5.04,80,3,1,12,ESI,1882
+"Glutathione S-transferase, mu 1 [Mus musculus]",Gstm1,P10649,25953,7.71,515,11,8,,ESI,1322
+"histone cluster 1, H2bp, 'spermatid-specific",Hist1h2bp,P62807,15099,10.36,126,4,2,16,ESI,1880
+heterogeneous nuclear ribonucleoprotein H1 [Mus musculus],Hnrph1,O35737,49168,5.89,693,22,12,35,ESI,916
+heterogeneous nuclear ribonucleoprotein H2 [Mus musculus],Hnrph2,P70333,49248,5.89,328,16,6,20,ESI,838
+Homeo box A5 [Mus musculus],Hoxa5,P09021,29247,9.41,71,33,32,9,MALDI-TOF,1510
+"heat shock protein, 110 kDa",Hsp110,Q61699,96371,5.42,313,8,4,10,ESI,416
+Heat shock 70 kDa protein 4 (Heat shock 70-related protein APG-2),Hspa4,Q61316,94073,5.15,742,32,14,18,ESI,351
+Heat shock protein 4 [Mus musculus],Hspa4,Q61316,94021,5.13,1201,39,19,29,ESI,355
+Heat shock protein 4 [Mus musculus],Hspa4,Q61316,94021,5.13,1201,32,21,29,ESI,374
+Heat shock protein 4 [Mus musculus],Hspa4,Q61316,94021,5.13,1201,32,21,29,ESI,375
+BiP [Mus musculus],Hspa5,P20029,72422,5.1,1305,50,25,45,MALDI-TOF,538
+BiP [Mus musculus],Hspa5,P20029,72422,5.1,1103,45,20,40,MALDI-TOF,539
+BiP [Mus musculus],Hspa5,P20029,72422,5.1,968,40,18,38,MALDI-TOF,561
+BiP [Mus musculus),Hspa5,P20029,72422,5.1,1659,58,29,50,MALDI-TOF,543
+BiP [Mus musculus),Hspa5,P20029,72422,5.1,934,42,16,29,ESI,524
+heat shock 70 protein [Mus musculus],Hspa8,P63017,70793,5.37,98,2,2,2,ESI,1967
+heat shock 70 protein [Mus musculus],Hspa8,P63017,70793,5.37,156,7,4,4,ESI,1287
+heat shock 70 protein [Mus musculus],Hspa8,P63017,70793,5.37,184,4,3,11,ESI,1247
+Heat shock protein 8 [Mus musculus],Hspa8,P63017,71000,5.28,72,59,14,21,MALDI-TOF,656
+Heat shock protein 9A,Hspa9,P38647,73416,5.81,235,12,4,7,ESI,709
+Heat shock protein 9A [Mus musculus],Hspa9,P38647,73416,5.81,222,6,5,9,ESI,1231
+Heat shock protein 9A [Mus musculus].,Hspa9,P38647,73416,5.81,553,20,9,16,ESI,564
+heat shock protein 1 (chaperonin) [Mus musculus],Hspd1,P63038,58833,5.48,635,18,10,22,ESI,968
+Heat shock protein 1 (chaperonin) [Mus musculus].,Hspd1,P63038,58833,5.48,457,15,8,14,ESI,801
+Heat shock protein 1 (chaperonin) [Mus musculus].,Hspd1,P63038,58833,5.48,457,15,8,14,ESI,802
+heat shock protein 1 (chaperonin)[Mus musculus],Hspd1,P63038,59388,8.09,219,87,63,40,MALDI-TOF,781
+heat shock protein 65 [Mus musculus],Hspd1,P63038,60903,5.91,2390,76,33,70,ESI,785
+170 kDa glucose regulated protein GRP170 precursor [Mus musculus],Hyou1,Q9JKR6,111112,5.12,348,9,5,7,ESI,277
+170 kDa glucose regulated protein GRP170 precursor [Mus musculus],Hyou1,Q9JKR6,111112,5.12,348,9,5,7,ESI,302
+170 kDa glucose regulated protein GRP170 precursor [Mus musculus],Hyou1,Q9JKR6,111112,5.12,348,9,5,7,ESI,303
+isocitrate dehydrogenase 3 (NAD+) alpha [Mus musculus],Idh3a,Q9D6R2,39643,6.27,140,43,41,19,MALDI-TOF,1210
+isocitrate dehydrogenase 3 (NAD+) alpha [Mus musculus],Idh3a,Q9D6R2,39643,6.27,141,38,36,89,MALDI-TOF,1176
+leucine zipper and CTNNBIP1 domain containing [Mus musculus],Lzic,Q8C4P8,21523,4.9,39,1,1,6,MALDI-TOF,1673
+myristoylated alanine rich protein kinase C substrate [Mus musculus],Marcks,Q8K3C3,29644,4.34,274,6,4,27,ESI,2014
+"malate dehydrogenase 2, NAD (mitochondrial) [Mus musculus]",Mdh2,P26645,35589,8.93,798,15,10,34,ESI,949
+Mitochondrial ribosomal protein L39 [Mus musculus],Mrpl39,P08249,34478,7.04,41,1,1,4,ESI,483
+myotrophin [Mus musculus],Mtpn,P62774,12853,5.27,137,2,2,16,ESI,2004
+"Nascent polypeptide-associated complex alpha subunit, muscle-specific form (Alpha-NAC, muscle-speci",Naca,P70670,220466,4.52,276,9,2,19,ESI,1177
+"Nascent polypeptide-associated complex alpha subunit, muscle-specific form (Alpha-NAC, muscle-speci",Naca,P70670,220466,4.52,280,7,3,19,ESI,1189
+"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10 [Mus musculus]",Ndufb10,Q9DCS9,21010,8.19,292,6,4,14,ESI,1391
+"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10 [Mus musculus]",Ndufb11,Q4VBC9,21010,8.19,141,3,3,11,ESI,1180
+"NADH dehydrogenase (ubiquinone) flavoprotein 2, 'Ndufv2, NuoE",Ndufv,Q9D6J6,27298,7,108,8,2,8,ESI,1583
+nuclear transport factor 2 [Homo sapiens],NUTF2,P61970,14500,5.1,71,6,4,40,MALDI-TOF,1990
+programmed cell death 5 [Mus musculus],Pdcd5,P56812,14440,5.55,305,16,5,42,MALDI-TOF,1891
+Protein disulfide isomerase associated 3 [Mus musculus],Pdia3,P27773,56643,5.88,1120,47,21,38,ESI,754
+pyridoxal phosphate phosphatase [Mus musculus],Pdxp,P60487,31492,5.53,261,9,5,20,ESI,1294
+Pyridoxal phosphate phosphatase (PLP phosphatase) (Reg I-binding protein 1).eukaryotic translation elongation factor 1-delta,Pdxp,Q8VD52,34519,5.21,190,7,4,12,ESI,1468
+Phosphatidylethanolamine binding protein [Mus musculus],Pebp1,P70296,20817,5.19,86,74,47,11,MALDI-TOF,1619
+prefoldin 5 isoform 1 [Mus musculus],Pfdn5,Q9WU28,21626,5.95,81,2,2,7,ESI,1881
+profilin 2 [Mus musculus],Pfn2,Q9JJV2,15022,6.55,211,9,4,30,ESI,1920
+prohibitin [Mus musculus],Phb,P67778,29802,5.57,291,13,5,20,ESI,1459
+ubiquilin 1 isoform 2 [Mus musculus],PILIC-1,Q8R317,58641,4.58,331,11,5,13,ESI,556
+ubiquilin 1 isoform 2 [Mus musculus],PILIC-1,Q8R317,58641,4.58,331,11,5,13,ESI,566
+ubiquilin 1 isoform 2 [Mus musculus],PILIC-1,Q8R317,58641,4.58,331,11,5,13,ESI,570
+ubiquilin 1 isoform 2 [Mus musculus],PILIC-1,Q8R317,58641,4.58,331,11,5,13,ESI,581
+ubiquilin 1 isoform 2 [Mus musculus],PILIC-1,Q8R317,58641,4.85,106,29,28,15,MALDI-TOF,592
+Ubqln1 protein [Mus musculus],PILIC-1,Q8R317,46730,4.62,388,14,5,15,ESI,586
+peroxidase,Prdx2,Q61171,21792,5.2,94,4,2,9,ESI,1632
+peroxidase,Prdx2,Q61171,21792,5.2,196,7,4,22,ESI,679
+"peroxidase, thioredoxin-dependent peroxide reductase",Prdx2,Q61171,21792,5.2,365,15,7,30,ESI,1640
+peroxiredoxin V [Mus musculus],Prdx5,Q91YU9,21975,8.96,196,4,4,19,ESI,1766
+peroxiredoxin V [Mus musculus],Prdx5,Q91YU9,21975,8.96,196,4,4,19,ESI,1771
+peroxiredoxin 6 [Mus musculus],Prdx6,O08709,25000,6,113,15,8,36,MALDI-TOF,1579
+Proteasome subunit alpha type-3,Psma3,O70435,28405,5.29,350,25,7,3,ESI,754
+Proteasome subunit alpha type-5,Psma5,Q9Z2U1,26411,4.74,216,17,3,3,ESI,1569
+Proteasome subunit beta type-1,Psmb1,O09061,26372,8.29,407,36,7,3,ESI,1383
+Proteasome subunit beta type-1,Psmb1,O09061,26372,8.29,407,36,7,3,ESI,1386
+Proteasome subunit beta type-1,Psmb1,O09061,26372,8.29,407,36,7,3,ESI,1404
+delta proteasome subunit,Psmb6,Q60692,21668,4.95,155,5,3,15,ESI,1088
+delta proteasome subunit,Psmb6,Q60692,21668,4.95,155,5,3,15,ESI,1606
+Proteasome subunit beta type-6,Psmb6,Q60692,21668,4.95,155,5,3,15,ESI,1601
+"Proteasome (prosome, macropain) 26S subunit, ATPase 3 [Mus musculus]",Psmc3,Q63569,49518,5.09,1009,34,11,38,ESI,971
+"Proteasome (prosome, macropain) 26S subunit, ATPase 3 [Rattus norvegicus]",Psmc3,Q63569,49518,5.13,237,8,5,14,ESI,637
+proteasome 26S  ATPase subunit 4 [Rattus norvegicus],Psmc4,Q63570,47379,5.18,747,25,9,28,ESI,943
+proteasome 26S non-ATPase subunit 4 [Mus musculus],Psmd4,O35226,40678,4.67,848,25,13,36,ESI,762
+26S proteasome non-ATPase regulatory subunit,Psmd4,Q9ESH1,40678,4.67,848,25,13,36,ESI,804
+26S proteasome non-ATPase regulatory subunit,Psmd4,Q9ESH1,40678,4.67,848,25,13,36,ESI,805
+26S proteasome non-ATPase regulatory subunit,Psmd4,Q9ESH1,40678,4.67,848,25,13,36,ESI,806
+26S proteasome non-ATPase regulatory subunit,Psmd4,Q9ESH1,40678,4.67,848,25,13,36,ESI,814
+26S proteasome non-ATPase regulatory subunit,Psmd4,Q9ESH1,40678,4.67,848,25,13,36,ESI,818
+26S proteasome non-ATPase regulatory subunit,Psmd4,Q9ESH1,40678,4.67,848,25,13,36,ESI,829
+26S proteasome non-ATPase regulatory subunit,Psmd4,Q9ESH1,40678,4.67,848,25,13,36,ESI,1960
+retinoblastoma binding protein 9 [Mus musculus],Rbbp9,O88851,20898,5.64,113,56,24,10,MALDI-TOF,1691
+"ribosomal protein, large P2 [Mus musculus]",Rplp2,P99027,11644,4.42,305,11,4,60,ESI,1862
+"ribosomal protein, large P2 [Mus musculus]",Rplp2,P99027,11644,4.42,483,21,5,76,ESI,1859
+40S ribosomal protein SA (p40) (34/67 kDa laminin receptor),Rpsa,P14206,32698,4.74,218,7,4,16,ESI,988
+Selenophosphate synthase [Mus musculus],Sephs1,Q8BH69,42879,5.64,200,7,4,11,ESI,1091
+"serine (or cysteine) proteinase inhibitor, clade H, member 1 [Mus musculus]",Serpinh1,P19324,46560,8.9,497,9,7,35,ESI,778
+SH3-binding domain glutamic acid-rich protein like [Mus musculus],Sh3bgrl,Q9JJU8,12803,4.87,219,8,4,44,ESI,1952
+"synuclein, alpha [Mus musculus]",Snca,O55042,14476,4.74,621,23,10,69,ESI,1796
+"synuclein, beta [Mus musculus]",Sncb,Q91ZZ3,14043,4.83,131,3,2,10,ESI,1765
+"synuclein, beta [Mus musculus]",Sncb,Q91ZZ3,14043,4.38,387,18,6,33,ESI,1590
+Snrpf protein [Mus musculus],Snrpf,P62307,12700,4.7,181,9,9,18,ESI,2009
+stathmin 1 [Mus musculus],Stmn1,P54227,17264,5.76,472,27,12,51,ESI,1849
+"stathmin1, Stmn1 protein [Mus musculus], (Phosphoprotein p19)",Stmn1,P54227,17264,5.76,98,49,20,8,MALDI-TOF,1830
+serine/threonine kinase receptor associated protein [Mus musculus],Strap,Q9Z1Z2,38489,4.99,564,23,11,37,ESI,1220
+SUMO-1/Smt3-specific isopeptidase 2 [Mus musculus],Sumo1,P63166,62188,9.44,52,1,1,2,ESI,1242
+small ubiquitin-like modifier 2 isoform a precursor [Homo sapiens],Sumo2,P61957,10900,5.32,153,4,4,27,ESI,1832
+translocase of outer mitochondrial membrane 22 homolog (TOM22) [Mus musculus],Tomm22,Q9CPQ3,15579,4.41,80,8,4,12,MALDI-TOF,1180
+Tropomyosin 1,Tpm1,A2RRI1,32661,4.69,373,13,7,13,MALDI-TOF,1180
+alpha-tropomyosin slow,Tpm3,Q58E70,32978,4.72,82,3,2,7,ESI,1845
+tropomyosin 4 [Mus musculus],Tpm4,Q6IRU2,28450,4.65,272,15,7,15,ESI,1818
+tropomyosin 4 [Mus musculus],Tpm4,Q6IRU2,28450,4.65,903,44,19,31,ESI,1823
+"tumor protein, translationally-controlled 1 [Mus musculus]",Tpt1,P63028,19450,4.76,265,11,5,25,ESI,1559
+ubiquitous alpha-tubulin [Mus musculus],Tuba1,P68369,28842,5.98,51,1,1,2,ESI,1858
+"tubulin, beta 5 [Mus musculus]",Tubb5,Q80ZV2,49639,4.78,647,33,14,,ESI,1489
+Thioredoxin 1 [Mus musculus],Txn1,P10639,11668,4.7,257,8,8,31,ESI,1902
+Thioredoxin 1 [Mus musculus],Txn1,P10639,11668,4.81,70,1,1,12,ESI,1949
+Thioredoxin 1 [Mus musculus],Txn1,P10639,11668,4.81,70,1,1,12,ESI,1959
+endoplasmic reticulum protein ERp19 [Mus musculus],Txndc12,Q498E0,19000,5,101,8,7,44,MALDI-TOF,1779
+Txndc5 protein [Mus musculus],Txndc5,Q91W90,36061,5.18,324,7,5,19,ESI,993
+Thioredoxin-like 2,Txnl2,Q5I0V8,38000,5.42,67,5,4,22,MALDI-TOF,1169
+glutaredoxin 3,Txnl2,Q9CQM9,37758,5.42,491,17,10,28,ESI,1160
+Ubiquitin,Ubc,P62991,39815,8.93,534,27,11,26,ESI,2006
+ubiquitin-conjugating enzyme E2D 3 isoform 1 [Homo sapiens],Ube2d3,Q05CK8,16676,7.67,142,1,1,4,ESI,1784
+ubiquitin-conjugating enzyme E2D 3 isoform 1 [Homo sapiens],Ube2d3,Q05CK8,16676,7.67,142,1,1,4,ESI,1798
+"Ubiquitin-conjugating enzyme E2, catalytic (UBCc)[Mus musculus]",Ube2n,P61089,17171,5.71,158,8,3,25,ESI,1895
+Ubiquitin-conjugating enzyme E2 variant 1 [Mus musculus],Ube2v1,Q569Y6,16344,7.74,250,7,4,31,ESI,1732
+ubiquilin 2 [Mus musculus],Ubqln2,Q9QZM0,67308,5.16,66,20,15,10,MALDI-TOF,514
+ubiquilin 2 [Mus musculus],Ubqln2,Q9QZM0,67308,5.16,88,48,23,18,MALDI-TOF,520
+Ubiquitin carboxy-terminal hydrolase L1 [Mus musculus],Uchl1,Q9R0P9,24822,5.14,462,20,8,34,MALDI-TOF,1550
+ubiquitin carboxy-terminal hydrolase L1 [Mus musculus],Uchl1,Q9R0P9,24822,5.14,60,2,2,3,ESI,1556
+ubiquitin carboxy-terminal hydrolase L1 [Mus musculus],Uchl1,Q9R0P9,24822,5.33,85,39,27,9,MALDI-TOF,1730
+ubiquitin carboxy-terminal hydrolase L1 [Mus musculus],Uchl1,Q9R0P9,24822,5.33,178,6,4,13,ESI,1548
+ubiquitin carboxy-terminal hydrolase L1 [Rattus norvegicus],Uchl1,Q9R0P9,24822,5.14,149,59,27,13,MALDI-TOF,1544
+ubiquitin carboxy-terminal hydrolase L1 [Rattus norvegicus],Uchl1,Q9R0P9,24822,5.14,149,59,27,13,MALDI-TOF,1760
+ubiquitin carboxy-terminal hydrolase L1 [Rattus norvegicus],Uchl1,Q9R0P9,24822,5.14,100,56,33,14,MALDI-TOF,1530
+"Uchl1, unnamed protein product [Mus musculus]",Uchl1,Q9R0P9,25063,5.21,130,67,47,13,MALDI-TOF,1655
+"Uchl1, unnamed protein product [Mus musculus]",Uchl1,Q9R0P9,25063,5.21,130,67,47,13,MALDI-TOF,1686
+Ulip4 protein [Mus musculus],Ulip4,O35098,61817,6.39,73,2,2,4,ESI,406
+Ulip4 protein [Mus musculus],Ulip4,O35098,61817,6.39,332,6,3,6,ESI,442
+"Ubiquinol-cytochrome-c reductase complex core protein I, mitochondrial precursor",Uqcrc1,Q9CZ13,52735,5.75,891,33,15,33,ESI,974
+ubiquinol cytochrome c reductase core protein 2 [Mus musculus],Uqcrc2,Q9DB77,48205,9.26,592,13,11,15,ESI,811
+Voltage-dependent anion-selective channel protein 1 (VDAC-1) (mVDAC1) (mVDAC5),Vdac1,Q60932,32331,8.55,222,4,4,8,ESI,1139
+Voltage-dependent anion-selective channel protein 1 (VDAC-1) (mVDAC1) (mVDAC5),Vdac1,Q60932,32331,8.55,91,2,2,3,ESI,1061
+Voltage-dependent anion-selective channel protein 1 (VDAC-1) (mVDAC1) (mVDAC5),Vdac1,Q60932,32331,8.55,296,4,4,9,ESI,1077
+Voltage-dependent anion-selective channel protein 1 (VDAC-1) (mVDAC1) (mVDAC5),Vdac1,Q60932,32331,8.55,296,4,4,9,ESI,1079
+Voltage-dependent anion-selective channel protein 1 (VDAC-1) (mVDAC1) (mVDAC5),Vdac1,Q60932,32331,8.55,737,11,9,18,ESI,1083
+Voltage-dependent anion-selective channel protein 1 (VDAC-1) (mVDAC1) (mVDAC5),Vdac1,Q60932,32331,8.55,862,11,9,21,ESI,1140
+voltage-dependent anion channel 3 [Mus musculus],Vdac3,Q60931,30733,8.96,42,1,1,2,ESI,1138
+voltage-dependent anion channel 3 [Mus musculus],Vdac3,Q60931,30733,8.96,287,5,5,8,ESI,1139
+voltage-dependent anion channel 3 [Mus musculus],Vdac3,Q60931,30733,8.96,287,5,5,8,ESI,1170
+voltage-dependent anion channel 3 [Mus musculus],Vdac3,Q60931,30733,8.96,287,5,5,8,ESI,1171
+voltage-dependent anion channel 3 [Mus musculus],Vdac3,Q60931,30733,8.96,287,5,5,8,ESI,1179
+voltage-dependent anion channel 3 [Mus musculus],Vdac3,Q60931,30733,8.96,287,5,5,8,ESI,1183
+voltage-dependent anion channel 3 [Mus musculus],Vdac3,Q60931,30733,8.96,287,5,5,8,ESI,1171
+voltage gated sodium channel beta 4 subunit [Mus musculus],Vdac4,gi|151512391,25176,8.99,55,1,1,2,ESI,1150
