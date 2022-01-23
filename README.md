@@ -4,21 +4,26 @@
 This is an integrated database focusing on collecting and presenting aging associated omics data like transcriptomic, proteomic, metabolic and any other quantitative omics dataset.
 
 Under development...
-
-## Main toolkits
-
-### plot.aging.mol() 
-
-
-## Under development
-
-
 ## Install package
-You can install the source package throuhg:
+You can install the source package through:
 ```{r}
 install.packages("devtools")
 devtools::install_github("FanqianYin/AgingBioMolecules")
 ```
+
+## Main toolkits
+
+### plot.AgingBioMolecules() 
+Example:
+```{r}
+library(AgingBioMolecules)
+plot.AgingBioMolecules("Clu")
+```
+
+## Under development
+
+
+
 
 ## Contact
 

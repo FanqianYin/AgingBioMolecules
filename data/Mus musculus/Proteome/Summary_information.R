@@ -174,3 +174,5 @@ DEA.information[["AgingProteins_mouse"]]$Expr_down.n <- apply(DEA.information[["
 dir.create("D:/Rpackages/AgingBioMolecules/data/Summary")
 save(data.summary.df,DEA.information,file = "D:/Rpackages/AgingBioMolecules/data/Summary/Mice_aging_proteome.SummaryTable.Rdata")
 save(data.summary.df,DEA.information,file = "D:/Rpackages/AgingBioMolecules/data/Mice_aging_proteome.SummaryTable.Rdata")
+
+
