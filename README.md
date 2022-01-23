@@ -29,14 +29,12 @@ plot.AgingBioMolecules("Clu")
 
 If you encounter any problem, don't hesitate to cantact me: fanqianyin@gmail.com or yinfanqian@mail.kiz.ac.cn.
 
-Suggestion: If you have   any adivce on these tools, please let me know;
-
-## Development history
-
+Suggestion: If you have   any adivce on these tools, please let me know.
 
 
 ## Version history
 
-**Current version: v0.0**
+2022/01/22 First version of AgingBioMolecules v0.1, including aging proteome from published mouse data.
+**Current version: v0.1**
 
 
